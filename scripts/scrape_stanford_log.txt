@@ -1,0 +1,101 @@
+Fetching listing page 0: https://www.cs.stanford.edu/people/faculty?page=0
+Fetching listing page 1: https://www.cs.stanford.edu/people/faculty?page=1
+Fetching listing page 2: https://www.cs.stanford.edu/people/faculty?page=2
+Fetching listing page 3: https://www.cs.stanford.edu/people/faculty?page=3
+Found 95 faculty entries
+[1/95] Sara Achour
+[2/95] Ehsan Adeli
+[3/95] Maneesh Agrawala
+[4/95] Alex Aiken
+[5/95] Nima Anari
+[6/95] Zain Asgar
+[7/95] Stephen B. Montgomery
+[8/95] Peter Bailis
+[9/95] Clark Barrett
+[10/95] Gill Bejerano
+[11/95] Michael Bernstein
+[12/95] Thomas Binford
+[13/95] Jeannette Bohg
+[14/95] Dan Boneh
+[15/95] Adam Bouland
+[16/95] Emma Brunskill
+[17/95] Mike Carbin
+[18/95] Edward Chang
+[19/95] Moses Charikar
+[20/95] Yejin Choi
+[21/95] William Dally
+[22/95] Emma Dauterman
+[23/95] Dora Demszky
+[24/95] Ron Dror
+[25/95] Zakir Durumeric
+[26/95] Dawson Engler
+[27/95] Stefano Ermon
+[28/95] Kayvon Fatahalian
+[29/95] Ron Fedkiw
+[30/95] Edward Feigenbaum
+[31/95] Chelsea Finn
+[32/95] Emily Fox
+[33/95] Adrien Gaidon
+[34/95] Michael Genesereth
+[35/95] Noah Goodman
+[36/95] Christopher Gregg
+[37/95] Carlos Ernesto Guestrin
+[38/95] Leonidas Guibas
+[39/95] Christopher Hahn
+[40/95] Tatsunori Hashimoto
+[41/95] John Hennessy
+[42/95] Daniel Ho
+[43/95] Mark Horowitz
+[44/95] Doug James
+[45/95] Dan Jurafsky
+[46/95] Zerina Kapetanovic
+[47/95] Sachin Katti
+[48/95] Oussama Khatib
+[49/95] Fredrik Kjolstad
+[50/95] Sanmi Koyejo
+[51/95] Christoforos Kozyrakis
+[52/95] Anshul Kundaje
+[53/95] Monica Lam
+[54/95] James Landay
+[55/95] Jure Leskovec
+[56/95] Philip Levis
+[57/95] Fei-Fei Li
+[58/95] Percy Liang
+[59/95] C. Karen Liu
+[60/95] Tengyu Ma
+[61/95] Christopher Manning
+[62/95] David Mazieres
+[63/95] Azalia Mirhoseini
+[64/95] John Mitchell
+[65/95] Subhasish Mitra
+[66/95] Kunle Olukotun
+[67/95] John Ousterhout
+[68/95] Christopher Piech
+[69/95] Balaji Prabhakar
+[70/95] Priyanka Raina
+[71/95] Christopher Re
+[72/95] Omer Reingold
+[73/95] Bruno Ribeiro
+[74/95] Mendel Rosenblum
+[75/95] Aviad Rubinstein
+[76/95] Dorsa Sadigh
+[77/95] Mehran Sahami
+[78/95] Tselil Schramm
+[79/95] Aaron Sidford
+[80/95] Micah Steven Siegel
+[81/95] Shuran Song
+[82/95] Hariharan Subramonyam
+[83/95] Vasilis Syrgkanis
+[84/95] Li-Yang Tan
+[85/95] Caroline Trippel
+[86/95] Gregory Valiant
+[87/95] Ellen Vitercik
+[88/95] Jennifer Widom
+[89/95] Keith Winstein
+[90/95] Mary Wootters
+[91/95] Jiajun Wu
+[92/95] Daniel Yamins
+[93/95] Diyi Yang
+[94/95] Mark Zhandry
+[95/95] James Zou
+Wrote 95 faculty records to data/stanford_cs_faculty.json

@@ -1,0 +1,36 @@
+{
+  "program_name": "Summer Undergraduate Research Fellowship (SURF)",
+  "school": "Purdue University",
+  "host_office": "Engineering Undergraduate Research Office (EURO), College of Engineering",
+  "supporting_colleges": [
+    "Purdue Engineering",
+    "Purdue Agriculture",
+    "Purdue Science"
+  ],
+  "description": "A 10-week immersive summer research experience for undergraduates. Each fellow is paired with a Purdue faculty mentor (who sets the research agenda) and typically a graduate student or post-doctoral mentor who provides day-to-day guidance. Fellows work full-time on a research project, attend weekly professional development workshops, present their findings at a student research symposium, and submit a final report to their project advisor and EURO.",
+  "eligibility": "Undergraduate students enrolled at Purdue University, other U.S. institutions, or international institutions. The program is competitive and paid.",
+  "application_process": [
+    "Faculty post project proposals to a project list.",
+    "Applicants browse the SURF project list and select up to three projects they're interested in as part of their application.",
+    "Selected fellows are matched with a faculty mentor (and often a grad student/postdoc co-mentor) for one of their chosen projects.",
+    "Fellows complete the summer research period, attend professional development seminars, present at the closing symposium, and submit a final report."
+  ],
+  "key_dates_2026_cycle": {
+    "priority_project_posting_window": "2025-11-01 to 2025-12-01",
+    "application_opens": "2025-12-01",
+    "priority_application_deadline": "2026-01-15",
+    "remote_program_period": "2026-05-25 to 2026-05-31",
+    "in_person_program_period": "2026-06-01 to 2026-07-31"
+  },
+  "notes": [
+    "The live, current-year project catalog (individual project titles, descriptions, and hosting faculty) is only browsable inside the login-gated SURF application portal and is not publicly scrapable.",
+    "A public archive of past SURF symposium abstracts exists at https://docs.lib.purdue.edu/surf/ covering 2013-2019, but it is rendered through a JS-driven search interface and appears discontinued after 2019, so it was not scraped for this dataset.",
+    "For matching purposes, treat SURF as a program a student can apply to work with ANY Purdue faculty member (particularly in Engineering, Agriculture, and Science) whose research interests match the student's resume -- the per-professor research interest data (e.g. data/purdue_cs_faculty.json) is the actual matching substrate, and SURF is the funding/structure vehicle through which that match could happen."
+  ],
+  "source_urls": [
+    "https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF",
+    "https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF/prospectiveSURFApplicants",
+    "https://engineering.purdue.edu/Engr/Research/EURO/info-faculty",
+    "https://docs.lib.purdue.edu/surf/"
+  ]
+}

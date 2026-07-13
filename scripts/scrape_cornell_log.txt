@@ -1,0 +1,7 @@
+Fetching directory page 0: https://www.cs.cornell.edu/directory?department=15&roles%5B147%5D=147&page=0
+Fetching directory page 1: https://www.cs.cornell.edu/directory?department=15&roles%5B147%5D=147&page=1
+Fetching directory page 2: https://www.cs.cornell.edu/directory?department=15&roles%5B147%5D=147&page=2
+Fetching directory page 3: https://www.cs.cornell.edu/directory?department=15&roles%5B147%5D=147&page=3
+Fetching directory page 4: https://www.cs.cornell.edu/directory?department=15&roles%5B147%5D=147&page=4
+Found 78 faculty entries
+Wrote 78 faculty records to data/cornell_cs_faculty.json

@@ -1,0 +1,3 @@
+Fetching Berkeley EECS faculty list: https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Found 215 faculty entries
+Wrote 215 faculty records to data/berkeley_eecs_faculty.json

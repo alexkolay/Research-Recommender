@@ -1,0 +1,2633 @@
+{
+  "school": "University of California, Berkeley",
+  "department": "Electrical Engineering and Computer Sciences",
+  "source_url": "https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html",
+  "faculty": [
+    {
+      "name": "Pieter Abbeel",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/abbeel.html",
+      "title": "Professor",
+      "email": "pabbeel@cs.berkeley.edu",
+      "office": "746 Sutardja Dai Hall",
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Control, Intelligent Systems, and Robotics (CIR)"
+      ],
+      "education": "2008, Ph.D., Computer Science, Stanford University; 2000, M.S., Electrical Engineering, KU Leuven, Belgium"
+    },
+    {
+      "name": "Behcet Acikmese",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/bechet.html",
+      "title": "Professor",
+      "email": null,
+      "office": null,
+      "research_areas": [
+        "Control, Intelligent Systems, and Robotics (CIR)"
+      ],
+      "education": "2002, PhD, Aeronautics and Astronautics, Purdue University; 1996, MS, Mechanical Engineering, Indiana UniversityâPurdue University Indianapolis; 1992, BS, Civil Engineering, Middle East Technical University (Turkey)"
+    },
+    {
+      "name": "Ahmed Alaa",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/amalaa.html",
+      "title": "Below The Line Assistant Professor",
+      "email": "amalaa@berkeley.edu",
+      "office": null,
+      "research_areas": [],
+      "education": "2020, PhD, EECS, UCLA"
+    },
+    {
+      "name": "Elad Alon",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/elad.html",
+      "title": "Adjunct Professor",
+      "email": "elad@eecs.berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Integrated Circuits (INC)",
+        "Design, Modeling and Analysis (DMA)",
+        "Information, Data, Network, and Communication Sciences (IDNCS)",
+        "Computer Architecture & Engineering (ARC)"
+      ],
+      "education": "2006, Ph.D., Electrical Engineering, Stanford University; 2002, M.S., Electrical Engineering, Stanford University; 2001, B.S., Electrical Engineering, Stanford University"
+    },
+    {
+      "name": "Venkat Anantharam",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/anantharam.html",
+      "title": "Professor",
+      "email": "ananth@eecs.berkeley.edu",
+      "office": "271 Cory Hall",
+      "research_areas": [
+        "Information, Data, Network, and Communication Sciences (IDNCS)",
+        "Artificial Intelligence (AI)",
+        "Control, Intelligent Systems, and Robotics (CIR)",
+        "Security (SEC)",
+        "Signal Processing (SP)"
+      ],
+      "education": "1986, Ph.D., Electrical Engineering, University of California, Berkeley; 1984, C.Phil, Mathematics, University of California, Berkeley; 1983, M.A., Mathematics, University of California, Berkeley; 1982, M.S., Electrical Engineering, University of California, Berkeley; 1980, B.Tech, Electrical Engineering, Indian Institute of Technology"
+    },
+    {
+      "name": "Gopala Krishna Anumanchipalli",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/gopala.html",
+      "title": "Assistant Professor",
+      "email": "gopala@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Biosystems & Computational Biology (BIO)",
+        "Signal Processing (SP)",
+        "Human-Computer Interaction (HCI)"
+      ],
+      "education": "2013, Ph.D., Electrical and Computer Engineering, Instituto Superior TÃ©cnico, Lisbon, Portugal; 2013, Ph.D., Language and Information Technologies, Carnegie Mellon University; 2008, B.Tech and M.S., Computer Science, International Institute of Information Technology, Hyderabad, India"
+    },
+    {
+      "name": "Mekhail Anwar",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/mekhail.html",
+      "title": "Adjunct Professor",
+      "email": "mekhail@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Integrated Circuits (INC)",
+        "Biosystems & Computational Biology (BIO)",
+        "Micro/Nano Electro Mechanical Systems (MEMS)"
+      ],
+      "education": "2009, M.D., School of Medicine, UC San Francisco; 2007, Ph.D., EECS, MIT; 2001, M.S., EECS, UC Berkeley; 1998, B.S. with highest honors, Physics, UC Berkeley"
+    },
+    {
+      "name": "Murat Arcak",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/arcak.html",
+      "title": "Professor",
+      "email": "arcak@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Control, Intelligent Systems, and Robotics (CIR)",
+        "Cyber-Physical Systems and Design Automation (CPSDA)",
+        "Biosystems & Computational Biology (BIO)",
+        "Power and Energy (ENE)"
+      ],
+      "education": "2000, Ph.D., Electrical Engineering, University of California, Santa Barbara; 1997, M.S., Electrical Engineering, University of California, Santa Barbara; 1996, B.S., Electrical Engineering, Bogazici University, Istanbul, Turkey"
+    },
+    {
+      "name": "Ana Claudia Arias",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/acarias.html",
+      "title": "Professor, Chair",
+      "email": "alexandersandoval@eecs.berkeley.edu",
+      "office": "Alex Sandoval",
+      "research_areas": [
+        "Physical Electronics (PHY)",
+        "Power and Energy (ENE)"
+      ],
+      "education": "2001, Ph.D., Physics, University of Cambridge, UK; 1997, M.S., Physics, Federal University of ParanÃ¡ in Curitiba, Brazil; 1995, B.S., Physics, Federal University of ParanÃ¡ in Curitiba, Brazil"
+    },
+    {
+      "name": "Krste AsanoviÄ",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/asanovic.html",
+      "title": "Professor Emeritus, Professor in the Graduate School",
+      "email": "tamille@eecs.berkeley.edu",
+      "office": "Tammy Johnson",
+      "research_areas": [
+        "Computer Architecture & Engineering (ARC)",
+        "Integrated Circuits (INC)",
+        "Operating Systems & Networking (OSNT)",
+        "Design, Modeling and Analysis (DMA)"
+      ],
+      "education": "1998, PhD, Computer Science, UC Berkeley; 1987, BA, Electrical and Information Sciences, University of Cambridge, UK"
+    },
+    {
+      "name": "David Attwood",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/attwood.html",
+      "title": "Professor in Residence Emeritus",
+      "email": "no_email@eecs.berkeley.edu",
+      "office": null,
+      "research_areas": [],
+      "education": "1972, Ph.D., Applied Physics, New York University"
+    },
+    {
+      "name": "Babak Ayazifar",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/ayazifar.html",
+      "title": "Teaching Professor",
+      "email": "ayazifar@berkeley.edu",
+      "office": "517 Cory Hall",
+      "research_areas": [
+        "Education (EDUC)",
+        "Signal Processing (SP)"
+      ],
+      "education": "2003, Ph.D., Electrical Engineering and Computer Science, Massachusetts Institute of Technology; 1989, B.S., Electrical Engineering, Caltech"
+    },
+    {
+      "name": "Ruzena Bajcsy",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/bajcsy.html",
+      "title": "Professor Emerita",
+      "email": "bajcsy@seas.upenn.edu",
+      "office": "719 Sutardja Dai Hall",
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Biosystems & Computational Biology (BIO)",
+        "Control, Intelligent Systems, and Robotics (CIR)",
+        "Graphics (GR)",
+        "Human-Computer Interaction (HCI)",
+        "Security (SEC)"
+      ],
+      "education": "1972, Ph.D., Computer Science, Stanford University; 1968, Ph.D., Electrical Engineering, Slovak Technical University, Bratislava, Slovak Republic; 1957, M.S., Electrical Engineering, Slovak Technical University, Bratislava, Slovak Republic"
+    },
+    {
+      "name": "Michael Ball",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/mball.html",
+      "title": "Continuing Lecturer",
+      "email": "ball@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Education (EDUC)",
+        "Human-Computer Interaction (HCI)"
+      ],
+      "education": "2016, MS, Computer Science, UC Berkeley; 2015, BA, Computer Science, UC Berkeley"
+    },
+    {
+      "name": "David Bamman",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/dbamman.html",
+      "title": "Below The Line Associate Professor",
+      "email": "dbamman@berkeley.edu",
+      "office": null,
+      "research_areas": [],
+      "education": "2015, Ph.D., Computer Science (Language Technologies Institute), Carnegie Mellon University; 2006, M.A., Applied Linguistics, Boston University; 1998, B.A., Classics, University of Wisconsin-Madison"
+    },
+    {
+      "name": "Brian A. Barsky",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/barsky.html",
+      "title": "Professor Emeritus, Professor in the Graduate School",
+      "email": "barsky@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Graphics (GR)",
+        "Biosystems & Computational Biology (BIO)",
+        "Human-Computer Interaction (HCI)",
+        "Signal Processing (SP)"
+      ],
+      "education": "1981, Ph.D., Computer Science, University of Utah, Salt Lake City; 1978, M.S., Computer Graphics/Computer Science, Cornell University; 1976, B.Sc., Mathematics/Computer Science, McGill University; 1973, D.C.S., Engineering, McGill University"
+    },
+    {
+      "name": "Peter Bartlett",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/bartlett.html",
+      "title": "Professor Emeritus, Professor in the Graduate School",
+      "email": "peter@berkeley.edu",
+      "office": "723 Sutardja Dai Hall",
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Control, Intelligent Systems, and Robotics (CIR)"
+      ],
+      "education": "1992, Ph.D., Electrical Engineering, University of Queensland, Australia"
+    },
+    {
+      "name": "Alexandre Bayen",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/bayen.html",
+      "title": "Professor",
+      "email": "bayen@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Control, Intelligent Systems, and Robotics (CIR)",
+        "Artificial Intelligence (AI)",
+        "Cyber-Physical Systems and Design Automation (CPSDA)"
+      ],
+      "education": "2003, Ph.D., Aeronautics and Astronautics, Stanford University; 1999, M.S., Aeronautics and Astronautics, Stanford University; 1998, Engineering, Applied Mathematics, Ecole Polytechnique, France"
+    },
+    {
+      "name": "Manuel Blum",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/blum.html",
+      "title": "Professor Emeritus",
+      "email": "blum@cs.berkeley.edu",
+      "office": null,
+      "research_areas": [],
+      "education": "1964, Ph.D., Mathematics, MIT; 1961, M.S., Electrical Engineering, MIT; 1959, B.S., Electrical Engineering, MIT"
+    },
+    {
+      "name": "Jeffrey Bokor",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/bokor.html",
+      "title": "Professor Emeritus, Professor in the Graduate School",
+      "email": "cmjones@eecs.berkeley.edu",
+      "office": "Charlotte Jones",
+      "research_areas": [
+        "Physical Electronics (PHY)"
+      ],
+      "education": "1980, PhD, Electrical Engineering, Stanford University; 1976, MS, Electrical Engineering, Stanford University; 1975, BS, Electrical Engineering, MIT"
+    },
+    {
+      "name": "Jessica Boles",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/boles.html",
+      "title": "Assistant Professor",
+      "email": "boles@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Power and Energy (ENE)",
+        "Integrated Circuits (INC)",
+        "Micro/Nano Electro Mechanical Systems (MEMS)",
+        "Physical Electronics (PHY)"
+      ],
+      "education": "2022, Ph.D., Electrical Engineering, Massachusetts Institute of Technology"
+    },
+    {
+      "name": "Christian Borgs",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/borgs.html",
+      "title": "Professor",
+      "email": "borgs@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Theory (THY)"
+      ],
+      "education": "1987, PhD, Mathematical Physics, Max-Planck-Institute and Universitat Munchen"
+    },
+    {
+      "name": "Bernhard Boser",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/boser.html",
+      "title": "Professor Emeritus",
+      "email": null,
+      "office": null,
+      "research_areas": [
+        "Design, Modeling and Analysis (DMA)",
+        "Integrated Circuits (INC)",
+        "Physical Electronics (PHY)"
+      ],
+      "education": "1988, Ph.D., Electrical Engineering, Stanford; 1985, M.S., Electrical Engineering, Stanford; 1984, B.S., Electrical Engineering, Swiss Federal Institute of Technology"
+    },
+    {
+      "name": "Eric Brewer",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/brewer.html",
+      "title": "Professor Emeritus",
+      "email": "brewer@cs.berkeley.edu",
+      "office": "417 Sutardja Dai Hall",
+      "research_areas": [
+        "Operating Systems & Networking (OSNT)",
+        "Power and Energy (ENE)",
+        "Security (SEC)"
+      ],
+      "education": "1994, Ph.D., EECS, MIT; 1989, B.S., EECS, UC Berkeley"
+    },
+    {
+      "name": "Thomas F. Budinger",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/budinger.html",
+      "title": "Professor in Residence Emeritus",
+      "email": "budinger@eecs.berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Biosystems & Computational Biology (BIO)",
+        "Control, Intelligent Systems, and Robotics (CIR)"
+      ],
+      "education": "1971, Ph.D., Medical Physics, University of California, Berkeley; 1957, M.S., Physical Oceanography, University of Washington, Seattle; 1954, B.S., Chemistry, Regis College, Massachusetts"
+    },
+    {
+      "name": "Duncan Callaway",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/dcal.html",
+      "title": "Below the Line, Associate Professor",
+      "email": "dcal@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Power and Energy (ENE)"
+      ],
+      "education": "2001, Ph.D., Theoretical & Applied Mechanics, Cornell University; 1995, B.S., Mechanical Engineering, University of Rochester"
+    },
+    {
+      "name": "John F. Canny",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/canny.html",
+      "title": "Professor Emeritus",
+      "email": "canny@berkeley.edu",
+      "office": "637 Soda Hall",
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Control, Intelligent Systems, and Robotics (CIR)",
+        "Graphics (GR)",
+        "Human-Computer Interaction (HCI)",
+        "Security (SEC)"
+      ],
+      "education": "1987, Ph.D., Electrical Engineering, MIT; 1983, M.S., Electrical Engineering, MIT; 1980, B.E. (Hons), Electrical Engineering, Adelaide University; 1979, B.Sc., Computer Science and Theoretical Physics, Adelaide University"
+    },
+    {
+      "name": "Yuan Cao",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/caoyuan.html",
+      "title": "Assistant Professor",
+      "email": "caoyuan@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Physical Electronics (PHY)",
+        "Micro/Nano Electro Mechanical Systems (MEMS)"
+      ],
+      "education": "2020, PhD, Electrical Engineering, MIT; 2016, MS, Electrical Engineering, MIT; 2014, BSc, Applied Physics, University of Science and Technology of China"
+    },
+    {
+      "name": "Serina Chang",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/serinac.html",
+      "title": "Assistant Professor",
+      "email": "serinac@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)"
+      ],
+      "education": "2024, Ph.D., Computer Science, Stanford University; 2019, B.A., Computer Science, Columbia University"
+    },
+    {
+      "name": "Constance Chang-Hasnain",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/chang-hasnain.html",
+      "title": "Professor Emerita",
+      "email": null,
+      "office": null,
+      "research_areas": [
+        "Physical Electronics (PHY)"
+      ],
+      "education": "1987, Ph.D., Electrical Engineering, U.C. Berkeley; 1984, M.S., Electrical Engineering, U.C. Berkeley; 1982, B.S., Electrical Engineering, U.C. Davis"
+    },
+    {
+      "name": "Sarah Chasins",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/schasins.html",
+      "title": "Associate Professor",
+      "email": null,
+      "office": null,
+      "research_areas": [
+        "Programming Systems (PS)",
+        "Human-Computer Interaction (HCI)"
+      ],
+      "education": "2019, Ph.D., Computer Science, University of California, Berkeley; 2012, B.A., Computer Science, Psychology, Swarthmore College"
+    },
+    {
+      "name": "Jennifer Chayes",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/jchayes.html",
+      "title": "Professor, Dean",
+      "email": "jchayes@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Information, Data, Network, and Communication Sciences (IDNCS)",
+        "Theory (THY)",
+        "Biosystems & Computational Biology (BIO)"
+      ],
+      "education": "1983, PhD, Mathematical Physics, Princeton University; 1979, BA, Biology and Physics, Wesleyan University"
+    },
+    {
+      "name": "Irene Chen",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/iychen.html",
+      "title": "Below The Line Assistant Professor",
+      "email": "iychen@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Biosystems & Computational Biology (BIO)"
+      ],
+      "education": "2022, PhD, Electrical Engineering and Computer Science, MIT; 2014, AB/SM, Applied Math, Harvard"
+    },
+    {
+      "name": "Lijie Chen",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/lijiechen.html",
+      "title": "Assistant Professor",
+      "email": "lijiechen@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Theory (THY)"
+      ],
+      "education": "2022, Ph.D., Computer Science, MIT"
+    },
+    {
+      "name": "Zaijun Chen",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/zaijun.html",
+      "title": "Assistant Professor",
+      "email": "zaijun@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Physical Electronics (PHY)",
+        "Artificial Intelligence (AI)",
+        "Computer Architecture & Engineering (ARC)",
+        "Information, Data, Network, and Communication Sciences (IDNCS)",
+        "Integrated Circuits (INC)"
+      ],
+      "education": "2019, PhD, Physics, Max-Planck Institute of Quantum Optics"
+    },
+    {
+      "name": "Alvin Cheung",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/akcheung.html",
+      "title": "Professor",
+      "email": "akcheung@cs.berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Database Management Systems (DBMS)",
+        "Programming Systems (PS)"
+      ],
+      "education": null
+    },
+    {
+      "name": "Jun-Chau Chien",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/jcchien.html",
+      "title": "Assistant Professor",
+      "email": "candycorpus@eecs.berkeley.edu",
+      "office": "Columba Candy Corpus",
+      "research_areas": [
+        "Biosystems & Computational Biology (BIO)",
+        "Integrated Circuits (INC)",
+        "Physical Electronics (PHY)"
+      ],
+      "education": null
+    },
+    {
+      "name": "Leon O. Chua",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/chua.html",
+      "title": "Professor Emeritus",
+      "email": "chua@eecs.berkeley.edu",
+      "office": "564 Cory Hall",
+      "research_areas": [
+        "Biosystems & Computational Biology (BIO)",
+        "Control, Intelligent Systems, and Robotics (CIR)"
+      ],
+      "education": "1964, Ph.D., Electrical Engineering, University of Illinois, Urbana-Champaign; 1961, M.S., Electrical Engineering, Massachusetts Institute of TechnologyM; 1959, B.S., Electrical Engineering, MapÃºa Institute of Technology, Manila, Philippines"
+    },
+    {
+      "name": "John Chuang",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/chuang.html",
+      "title": "Below the Line, Professor",
+      "email": "chuang@ischool.berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Biosystems & Computational Biology (BIO)",
+        "Information, Data, Network, and Communication Sciences (IDNCS)",
+        "Operating Systems & Networking (OSNT)",
+        "Security (SEC)"
+      ],
+      "education": "1998, Ph.D., Engineering and Public Policy, Carnegie Mellon University; 1997, M.S., Engineering and Public Policy, Carnegie Mellon University; 1992, M.S., Electrical Engineering, Stanford University; 1991, B.S., Electrical Engineering, University of Southern California"
+    },
+    {
+      "name": "Phillip Colella",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/colella.html",
+      "title": "Professor in Residence Emeritus",
+      "email": "pcolella@lbl.gov",
+      "office": "MS50A-1148 Lawrence Berkeley National Laboratory",
+      "research_areas": [],
+      "education": null
+    },
+    {
+      "name": "Victoria Coleman",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/vcoleman.html",
+      "title": "Professor",
+      "email": "vcoleman@berkeley.edu",
+      "office": null,
+      "research_areas": [],
+      "education": "1991, Ph.D., Computer Science, University of Manchester, UK; 1983, M.Sc., Assessment of Computer Aided Logic Design, University of Salford, UK; 1981, B.Sc. (Hons), Electrical Computer Systems, University of Salford, UK"
+    },
+    {
+      "name": "Steven Conolly",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/sconolly.html",
+      "title": "Professor",
+      "email": "sconolly@berkeley.edu",
+      "office": "340 Hearst Memorial Mining Building",
+      "research_areas": [
+        "Biosystems & Computational Biology (BIO)",
+        "Signal Processing (SP)"
+      ],
+      "education": "1989, PhD, Electrical Engineering, Stanford University"
+    },
+    {
+      "name": "Henry Corrigan-Gibbs",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/henrycg.html",
+      "title": "Associate Professor",
+      "email": "henrycg@cs.berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Security (SEC)",
+        "Theory (THY)",
+        "Operating Systems & Networking (OSNT)"
+      ],
+      "education": "2020, PhD, Computer Science, Stanford University; 2017, MS, Computer Science, Stanford University; 2010, BS, Computer Science, Yale University"
+    },
+    {
+      "name": "Thomas Courtade",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/courtade.html",
+      "title": "Associate Professor",
+      "email": "kail@erso.berkeley.edu",
+      "office": "Kim Kail",
+      "research_areas": [
+        "Information, Data, Network, and Communication Sciences (IDNCS)",
+        "Theory (THY)",
+        "Artificial Intelligence (AI)",
+        "Biosystems & Computational Biology (BIO)",
+        "Control, Intelligent Systems, and Robotics (CIR)"
+      ],
+      "education": "2012, Ph.D., Electrical Engineering, University of California, Los Angeles; 2008, M.Sc., Electrical Engineering, University of California, Los Angeles; 2007, B.Sc., Electrical Engineering, Michigan Technological University"
+    },
+    {
+      "name": "Natacha Crooks",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/ncrooks.html",
+      "title": "Associate Professor",
+      "email": "ncrooks@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Database Management Systems (DBMS)",
+        "Operating Systems & Networking (OSNT)"
+      ],
+      "education": "2019, Ph.D., Distributed Systems, University of Texas; 2012, BA, Computer Science and Law, University of Cambridge"
+    },
+    {
+      "name": "David E. Culler",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/culler.html",
+      "title": "Professor Emeritus",
+      "email": "culler@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Computer Architecture & Engineering (ARC)",
+        "Power and Energy (ENE)",
+        "Operating Systems & Networking (OSNT)",
+        "Cyber-Physical Systems and Design Automation (CPSDA)",
+        "Programming Systems (PS)",
+        "Security (SEC)"
+      ],
+      "education": "1989, Ph.D., MIT; 1985, M.S., MIT; 1980, B.A., U.C. Berkeley"
+    },
+    {
+      "name": "Trevor Darrell",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/darrell.html",
+      "title": "Professor in Residence",
+      "email": "trevor@eecs.berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Control, Intelligent Systems, and Robotics (CIR)"
+      ],
+      "education": "1996, PhD, MAS, MIT; 1988, BSE, CS, U.Penn."
+    },
+    {
+      "name": "James Demmel",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/demmel.html",
+      "title": "Professor Emeritus, Professor in the Graduate School",
+      "email": "tamille@eecs.berkeley.edu",
+      "office": "Tammy Johnson",
+      "research_areas": [
+        "Computer Architecture & Engineering (ARC)",
+        "Scientific Computing (SCI)"
+      ],
+      "education": "1983, Ph.D., Computer Science, UC Berkeley; 1975, B.S., Mathematics, Caltech"
+    },
+    {
+      "name": "John DeNero",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/denero.html",
+      "title": "Teaching Professor",
+      "email": "denero@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Education (EDUC)"
+      ],
+      "education": "2010, Ph.D., Computer Science, University of California, Berkeley; 2002, M.A., Philosophy, Stanford University; 2001, B.S., Mathematical & Computational Science and Symbolic Systems, Stanford University"
+    },
+    {
+      "name": "Alex Dimakis",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/adim.html",
+      "title": "Professor",
+      "email": "alexdimakis@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Information, Data, Network, and Communication Sciences (IDNCS)"
+      ],
+      "education": "2008, Phd, EECS, University of California, Berkeley; 2003, Diploma, ECE, National Technical University of Athens"
+    },
+    {
+      "name": "Richard Dorrance",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/rdorrance.html",
+      "title": "Lecturer",
+      "email": "rdorrance@berkeley.edu",
+      "office": null,
+      "research_areas": [],
+      "education": null
+    },
+    {
+      "name": "Anca Dragan",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/anca.html",
+      "title": "Associate Professor",
+      "email": null,
+      "office": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Control, Intelligent Systems, and Robotics (CIR)",
+        "Human-Computer Interaction (HCI)"
+      ],
+      "education": "2015, PhD, Robotics, Carnegie Mellon University; 2009, B.S., Computer Science, Jacobs University, Bremen"
+    },
+    {
+      "name": "Prabal Dutta",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/prabal.html",
+      "title": "Professor",
+      "email": "sarunyon@berkeley.edu",
+      "office": "Sarah Gaugler",
+      "research_areas": [
+        "Computer Architecture & Engineering (ARC)",
+        "Cyber-Physical Systems and Design Automation (CPSDA)",
+        "Power and Energy (ENE)",
+        "Operating Systems & Networking (OSNT)"
+      ],
+      "education": "2009, Ph.D., Computer Science, University of California, Berkeley; 2004, M.S., Electrical Engineering, The Ohio State University; 1997, B.S., Electrical and Computer Engineering, The Ohio State University"
+    },
+    {
+      "name": "Alexei (Alyosha) Efros",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/efros.html",
+      "title": "Professor",
+      "email": "efros@eecs.berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Graphics (GR)"
+      ],
+      "education": "2003, PhD, Computer Science, UC Berkeley; 1997, BS, Computer Science, University of Utah"
+    },
+    {
+      "name": "Laurent El Ghaoui",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/elghaoui.html",
+      "title": "Professor Emeritus",
+      "email": "elghaoui@eecs.berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Control, Intelligent Systems, and Robotics (CIR)"
+      ],
+      "education": "1990, Ph.D., Aeronautics and Astronautics, Stanford; 1985, B.S., Mathematics, Ecole Polytechnique"
+    },
+    {
+      "name": "Hany Farid",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/hfarid.html",
+      "title": "Professor",
+      "email": "hfarid@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Graphics (GR)"
+      ],
+      "education": "1997, PhD, Computer Science, University of Pennsylvania"
+    },
+    {
+      "name": "Richard J. Fateman",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/fateman.html",
+      "title": "Professor Emeritus",
+      "email": "fateman@cs.berkeley.edu",
+      "office": "441 Soda Hall",
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Scientific Computing (SCI)"
+      ],
+      "education": null
+    },
+    {
+      "name": "Ronald S. Fearing",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/fearing.html",
+      "title": "Professor Emeritus, Professor in the Graduate School",
+      "email": null,
+      "office": null,
+      "research_areas": [
+        "Control, Intelligent Systems, and Robotics (CIR)",
+        "Biosystems & Computational Biology (BIO)"
+      ],
+      "education": "1988, Ph.D., Electrical Engineering, Stanford University; 1983, S.B. and S.M., Electrical Engineering Computer Science, MIT"
+    },
+    {
+      "name": "Jerome A. Feldman",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/feldman.html",
+      "title": "Professor Emeritus",
+      "email": "jfeldman@cs.berkeley.edu",
+      "office": "739 Soda Hall",
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Biosystems & Computational Biology (BIO)",
+        "Security (SEC)"
+      ],
+      "education": "1964, Ph.D., Computer Science and Mathematics, Carnegie Mellon University; 1961, M.S., Mathematics, University of Pittsburgh; 1960, B.S., Physics, University of Rochester"
+    },
+    {
+      "name": "Domenico Ferrari",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/ferrari.html",
+      "title": "Professor Emeritus",
+      "email": null,
+      "office": null,
+      "research_areas": [],
+      "education": null
+    },
+    {
+      "name": "Christopher Fletcher",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/cwfletcher.html",
+      "title": "Associate Professor",
+      "email": "cwfletcher@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Computer Architecture & Engineering (ARC)"
+      ],
+      "education": "2016, Ph.D., EECS, MIT; 2013, S.M., EECS, MIT; 2010, B.S., EECS, UC Berkeley"
+    },
+    {
+      "name": "Armando Fox",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/fox.html",
+      "title": "Professor",
+      "email": "tamille@eecs.berkeley.edu",
+      "office": "Tammy Johnson",
+      "research_areas": [
+        "Programming Systems (PS)",
+        "Education (EDUC)",
+        "Human-Computer Interaction (HCI)"
+      ],
+      "education": null
+    },
+    {
+      "name": "Robert Full",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/rjfull.html",
+      "title": "Professor Emeritus",
+      "email": "rjfull@berkeley.edu",
+      "office": "5128 Valley Life Sciences Building",
+      "research_areas": [
+        "Biosystems & Computational Biology (BIO)"
+      ],
+      "education": null
+    },
+    {
+      "name": "Jack Gallant",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/gallant.html",
+      "title": "Below the Line, Professor",
+      "email": "gallant@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Biosystems & Computational Biology (BIO)"
+      ],
+      "education": "1995, Post-doc, Systems & Computational Neuroscience, Caltech & Wash Univ. Med. Schl.; 1988, PhD, Experimental Psychology, Yale University"
+    },
+    {
+      "name": "Dan Garcia",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/garcia.html",
+      "title": "Teaching Professor",
+      "email": "ddgarcia@berkeley.edu",
+      "office": "777 Soda Hall",
+      "research_areas": [
+        "Education (EDUC)"
+      ],
+      "education": "2000, Ph.D., Computer Science, UC Berkeley; 1995, M.S., Computer Science, UC Berkeley; 1990, B.S., Computer Science, MIT; 1990, B.S., Electrical Engineering, MIT"
+    },
+    {
+      "name": "Sanjam Garg",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/sanjam.html",
+      "title": "Associate Professor",
+      "email": "sanjamg@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Theory (THY)",
+        "Security (SEC)"
+      ],
+      "education": "2013, Ph.D., Computer Science, University of California, Los Angeles; 2008, B.Tech, Computer Science and Engineering, Indian Institute of Technology, Delhi"
+    },
+    {
+      "name": "Ali Ghodsi",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/aligh.html",
+      "title": "Adjunct Associate Professor",
+      "email": "aligh@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Database Management Systems (DBMS)",
+        "Operating Systems & Networking (OSNT)"
+      ],
+      "education": "2006, PhD, Computer Science, KTH/Royal Institute of Technology; 2002, MBA, Logistics and Marketing, Mid-Sweden University; 2002, MSc, Computer Engineering, Mid-Sweden University"
+    },
+    {
+      "name": "Ken Goldberg",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/goldberg.html",
+      "title": "Professor",
+      "email": "goldberg@berkeley.edu",
+      "office": "425 Sutardja Dai Hall",
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Control, Intelligent Systems, and Robotics (CIR)",
+        "Human-Computer Interaction (HCI)"
+      ],
+      "education": "1990, PhD, Computer Science, Carnegie Mellon University; 1984, BSEE, Electrical Engineering, University of Pennsylvania; 1984, BSE, Economics, UPenn - Wharton"
+    },
+    {
+      "name": "Shafi Goldwasser",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/goldwasser.html",
+      "title": "Professor",
+      "email": null,
+      "office": null,
+      "research_areas": [
+        "Theory (THY)"
+      ],
+      "education": "1984, Ph.D., Computer Science, UC Berkeley; 1981, M.S., Computer Science, UC Berkeley; 1979, B.S., Mathematics and Science, Carnegie Mellon"
+    },
+    {
+      "name": "Joseph Gonzalez",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/jegonzal.html",
+      "title": "Associate Professor",
+      "email": "iaortega657@berkeley.edu",
+      "office": "Ivan Ortega",
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Database Management Systems (DBMS)",
+        "Operating Systems & Networking (OSNT)"
+      ],
+      "education": "2012, Ph.D., Machine Learning, Carnegie Mellon University"
+    },
+    {
+      "name": "Susan L. Graham",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/graham-s.html",
+      "title": "Professor Emerita",
+      "email": "graham@cs.berkeley.edu",
+      "office": "751 Soda Hall",
+      "research_areas": [
+        "Graphics (GR)",
+        "Human-Computer Interaction (HCI)",
+        "Programming Systems (PS)",
+        "Scientific Computing (SCI)"
+      ],
+      "education": null
+    },
+    {
+      "name": "Paul R. Gray",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/gray.html",
+      "title": "Professor Emeritus, Executive Vice Chancellor and Provost Emeritus",
+      "email": "pgray@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Design, Modeling and Analysis (DMA)",
+        "Integrated Circuits (INC)"
+      ],
+      "education": null
+    },
+    {
+      "name": "Venkatesan Guruswami",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/venkatg.html",
+      "title": "Professor",
+      "email": "venkatg@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Theory (THY)",
+        "Information, Data, Network, and Communication Sciences (IDNCS)"
+      ],
+      "education": "2001, PhD, Computer Science, MIT"
+    },
+    {
+      "name": "Nika Haghtalab",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/nika.html",
+      "title": "Associate Professor",
+      "email": "nika@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Theory (THY)"
+      ],
+      "education": "2018, Ph.D., Computer Science, Carnegie Mellon University"
+    },
+    {
+      "name": "BjÃ¶rn Hartmann",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/hartmann.html",
+      "title": "Associate Professor",
+      "email": "bjoern@eecs.berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Human-Computer Interaction (HCI)",
+        "Artificial Intelligence (AI)",
+        "Programming Systems (PS)",
+        "Graphics (GR)"
+      ],
+      "education": "2009, Ph.D., Computer Science, Stanford University; 2002, MSE, Computer and Information Science, University of Pennsylvania; 2001, BSE/B.A., Digital Media Design/Communication, University of Pennsylvania"
+    },
+    {
+      "name": "Brian Harvey",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/harvey.html",
+      "title": "Teaching Professor Emeritus",
+      "email": "bh@cs.berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Education (EDUC)"
+      ],
+      "education": "1990, MA, Clinical Psychology, New College of California; 1985, PhD, Science & Mathematics Education, UC Berkeley; 1975, MS, Computer Science, Stanford; 1969, BS, Mathematics, MIT"
+    },
+    {
+      "name": "Marti Hearst",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/hearst.html",
+      "title": "Professor",
+      "email": "hearst@berkeley.edu",
+      "office": "212 South Hall",
+      "research_areas": [
+        "Human-Computer Interaction (HCI)",
+        "Artificial Intelligence (AI)"
+      ],
+      "education": "1994, Ph.D., Computer Science, UC Berkeley; 1989, M.S., Computer Science, UC Berkeley; 1985, B.A., Computer Science, UC Berkeley"
+    },
+    {
+      "name": "Joseph M. Hellerstein",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/hellerstein.html",
+      "title": "Professor Emeritus, Professor in the Graduate School",
+      "email": null,
+      "office": null,
+      "research_areas": [
+        "Database Management Systems (DBMS)",
+        "Operating Systems & Networking (OSNT)"
+      ],
+      "education": "1995, Ph.D., Computer Science, University of Wisconsin-Madison; 1992, MS, Computer Science, UC Berkeley; 1990, AB, Computer Science, Harvard University"
+    },
+    {
+      "name": "Paul N. Hilfinger",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/hilfinger.html",
+      "title": "Professor of Teaching Emeritus",
+      "email": "hilfingr@cs.berkeley.edu",
+      "office": "787 Soda Hall",
+      "research_areas": [
+        "Programming Systems (PS)",
+        "Scientific Computing (SCI)"
+      ],
+      "education": "1980, Ph.D., Computer Science, Carnegie-Mellon University; 1973, AB, Mathematics, Princeton University"
+    },
+    {
+      "name": "Chenming Hu",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/hu.html",
+      "title": "Professor Emeritus, Professor in the Graduate School",
+      "email": "cmjones@eecs.berkeley.edu",
+      "office": "Charlotte Jones",
+      "research_areas": [],
+      "education": "1973, Ph.D., EECS, UC Berkeley; 1970, M.S., EECS, UC Berkeley; 1968, B.S., EE, National Taiwan University"
+    },
+    {
+      "name": "Joshua Hug",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/joshhug.html",
+      "title": "Associate Teaching Professor",
+      "email": "hug@cs.berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Education (EDUC)"
+      ],
+      "education": "2011, Ph.D., Electrical Engineering And Computer Science, UC Berkeley; 2003, B.S., Electrical and Computer Engineering, University of Texas at Austin"
+    },
+    {
+      "name": "Christopher Hunn",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/cthunn.html",
+      "title": "Lecturer",
+      "email": "cthunn@eecs.berkeley.edu",
+      "office": null,
+      "research_areas": [],
+      "education": null
+    },
+    {
+      "name": "Nilah Ioannidis",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/nilah.html",
+      "title": "Adjunct Assistant Professor",
+      "email": "nilah@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Biosystems & Computational Biology (BIO)",
+        "Artificial Intelligence (AI)"
+      ],
+      "education": "2013, Ph.D., Biophysics, Harvard University"
+    },
+    {
+      "name": "Rishabh Iyer",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/rishabhiyer.html",
+      "title": "Assistant Professor",
+      "email": "rishabh.iyer@eecs.berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Operating Systems & Networking (OSNT)",
+        "Computer Architecture & Engineering (ARC)",
+        "Programming Systems (PS)"
+      ],
+      "education": "2023, PhD, Computer Science, EPFL, Switzerland; 2017, BTech, Electrical Engineering, IIT Bombay"
+    },
+    {
+      "name": "Ali Javey",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/javey.html",
+      "title": "Professor",
+      "email": "ajavey@berkeley.edu",
+      "office": "550B Cory Hall",
+      "research_areas": [
+        "Physical Electronics (PHY)",
+        "Power and Energy (ENE)",
+        "Micro/Nano Electro Mechanical Systems (MEMS)"
+      ],
+      "education": "2005, Ph.D., Physical Chemistry, Stanford University; 2001, B.S., Chemistry, Old Dominion University, Norfolk"
+    },
+    {
+      "name": "Jiantao Jiao",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/jiantao.html",
+      "title": "Adjunct Assistant Professor",
+      "email": null,
+      "office": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Information, Data, Network, and Communication Sciences (IDNCS)",
+        "Control, Intelligent Systems, and Robotics (CIR)",
+        "Theory (THY)",
+        "Signal Processing (SP)",
+        "Operating Systems & Networking (OSNT)",
+        "Database Management Systems (DBMS)",
+        "Cyber-Physical Systems and Design Automation (CPSDA)",
+        "Security (SEC)",
+        "Power and Energy (ENE)",
+        "Programming Systems (PS)"
+      ],
+      "education": null
+    },
+    {
+      "name": "YoungJu Jo",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/yjo.html",
+      "title": "Assistant Professor",
+      "email": "yjjo@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Biosystems & Computational Biology (BIO)",
+        "Physical Electronics (PHY)",
+        "Artificial Intelligence (AI)",
+        "Signal Processing (SP)",
+        "Control, Intelligent Systems, and Robotics (CIR)"
+      ],
+      "education": "2024, Ph.D., Applied Physics, Stanford University; 2020, M.S., Biology, Stanford University; 2018, B.S., Physics and Mathematics, KAIST"
+    },
+    {
+      "name": "Michael Jordan",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/jordan.html",
+      "title": "Professor Emeritus, Professor in the Graduate School",
+      "email": "jordan@cs.berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Biosystems & Computational Biology (BIO)",
+        "Control, Intelligent Systems, and Robotics (CIR)",
+        "Signal Processing (SP)",
+        "Theory (THY)"
+      ],
+      "education": "1985, Ph.D., Cognitive Science, UC San Diego; 1980, M.S., Mathematics, Arizona State University; 1978, B.S., Psychology, Louisiana State University"
+    },
+    {
+      "name": "Anthony D. Joseph",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/joseph.html",
+      "title": "Professor",
+      "email": "iaortega657@berkeley.edu",
+      "office": "Ivan Ortega",
+      "research_areas": [
+        "Operating Systems & Networking (OSNT)",
+        "Security (SEC)"
+      ],
+      "education": "1998, Ph.D., Computer Science, MIT; 1988, S.M./S.B., Electrical Engineering and Computer Science/Computer Science and Engineering, MIT"
+    },
+    {
+      "name": "William M. Kahan",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/kahan.html",
+      "title": "Professor Emeritus",
+      "email": "wkahan@cs.berkeley.edu",
+      "office": "513 Soda Hall",
+      "research_areas": [
+        "Computer Architecture & Engineering (ARC)",
+        "Scientific Computing (SCI)"
+      ],
+      "education": "1958, Ph.D., Mathematics, University of Toronto; 1956, Master's, Mathematics, University of Toronto; 1954, B.A., Mathematics, University of Toronto"
+    },
+    {
+      "name": "Angjoo Kanazawa",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/kanazawa.html",
+      "title": "Associate Professor",
+      "email": "kanazawa@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Graphics (GR)"
+      ],
+      "education": "2017, Ph.D., Computer Science, University of Maryland, College Park"
+    },
+    {
+      "name": "Boubacar KantÃ©",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/bkante.html",
+      "title": "Professor",
+      "email": "bkante@berkeley.edu",
+      "office": "265 M Cory Hall",
+      "research_areas": [
+        "Physical Electronics (PHY)",
+        "Power and Energy (ENE)"
+      ],
+      "education": "2010, Ph.D., Engineering/Physics, Universite Paris Saclay (Orsay-France); 2006, M.Eng., Electrical Engineering and Computer Sciences, Ecole Polytechnique Universitaire de Lille; 2006, M.S., Electrical Engineering/Telecommunications, Universite de Lille 1 (France)"
+    },
+    {
+      "name": "Peyrin Kao",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/peyrin.html",
+      "title": "Lecturer",
+      "email": "peyrin@berkeley.edu",
+      "office": null,
+      "research_areas": [],
+      "education": "2022, M.S., Electrical Engineering and Computer Science, UC Berkeley; 2021, B.A., Computer Science, UC Berkeley; 2021, B.A., Data Science, UC Berkeley"
+    },
+    {
+      "name": "Sagar Karandikar",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/skarandikar.html",
+      "title": "Assistant Professor",
+      "email": "sagark@eecs.berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Computer Architecture & Engineering (ARC)",
+        "Operating Systems & Networking (OSNT)",
+        "Integrated Circuits (INC)"
+      ],
+      "education": "2024, Ph.D., Computer Science, UC Berkeley; 2018, M.S., Computer Science, UC Berkeley; 2015, B.S., Electrical Engineering and Computer Sciences, UC Berkeley"
+    },
+    {
+      "name": "Richard M. Karp",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/karp.html",
+      "title": "Professor Emeritus",
+      "email": "theoryadmin@eecs.berkeley.edu",
+      "office": "Olivia Chen",
+      "research_areas": [
+        "Biosystems & Computational Biology (BIO)",
+        "Operating Systems & Networking (OSNT)",
+        "Theory (THY)"
+      ],
+      "education": "1959, Ph.D., Applied Mathematics, Harvard; 1956, S.M., Applied Mathematics, Harvard; 1955, A.B., Mathematics, Harvard"
+    },
+    {
+      "name": "Randy H. Katz",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/katz.html",
+      "title": "Professor Emeritus",
+      "email": "iaortega657@berkeley.edu",
+      "office": "Ivan Ortega",
+      "research_areas": [
+        "Computer Architecture & Engineering (ARC)",
+        "Operating Systems & Networking (OSNT)"
+      ],
+      "education": "1980, PhD, Computer Science, UC Berkeley; 1978, MS, Computer Science, UC Berkeley; 1976, AB, Computer Science & Math, Cornell University"
+    },
+    {
+      "name": "Edward L. Keller",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/keller.html",
+      "title": "Professor Emeritus",
+      "email": "elk@ski.org",
+      "office": "278 Cory Hall",
+      "research_areas": [],
+      "education": "1971, Ph.D., Biomedical Engineering, Johns Hopkins University; 1961, B.S., Engineering Science, U.S. Naval Academy"
+    },
+    {
+      "name": "Kurt Keutzer",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/keutzer.html",
+      "title": "Professor Emeritus, Professor in the Graduate School",
+      "email": "parlab-admin@eecs.berkeley.edu",
+      "office": "Roxana Infante",
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Computer Architecture & Engineering (ARC)",
+        "Scientific Computing (SCI)"
+      ],
+      "education": "1984, PhD, Computer Science, Indiana University"
+    },
+    {
+      "name": "Asir Intisar Khan",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/asir.html",
+      "title": "Assistant Professor",
+      "email": "asir@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Physical Electronics (PHY)",
+        "Power and Energy (ENE)"
+      ],
+      "education": "2023, Ph.D., Electrical Engineering, Stanford University; 2021, M.S., Electrical Engineering, Stanford University; 2016, B.S., Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology"
+    },
+    {
+      "name": "Preeya Khanna",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/pkhanna.html",
+      "title": "Assistant Professor",
+      "email": "pkhanna@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Biosystems & Computational Biology (BIO)",
+        "Human-Computer Interaction (HCI)",
+        "Signal Processing (SP)",
+        "Artificial Intelligence (AI)"
+      ],
+      "education": "2017, PhD, Bioengineering, University of California, Berkeley; 2012, BSE, Bioengineering & Mathematics, University of Pennsylvania"
+    },
+    {
+      "name": "Tsu-Jae King Liu",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/king.html",
+      "title": "Professor Emerita",
+      "email": "cmjones@eecs.berkeley.edu",
+      "office": "Charlotte Jones",
+      "research_areas": [
+        "Physical Electronics (PHY)",
+        "Micro/Nano Electro Mechanical Systems (MEMS)"
+      ],
+      "education": "1994, PhD, Electrical Engineering, Stanford University; 1986, MS, Electrical Engineering, Stanford University; 1984, BS, Electrical Engineering, Stanford University"
+    },
+    {
+      "name": "Daniel Klein",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/klein.html",
+      "title": "Professor",
+      "email": "klein@cs.berkeley.edu",
+      "office": "8058 Berkeley Way West",
+      "research_areas": [
+        "Artificial Intelligence (AI)"
+      ],
+      "education": "2004, M.S./Ph.D., Computer Science, Stanford University; 1999, M.St, Linguistics, Oxford University; 1998, B.A., Math, CS, Linguistics, Cornell University"
+    },
+    {
+      "name": "Aditi Krishnapriyan",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/aditik.html",
+      "title": "Assistant Professor",
+      "email": "aditik1@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Scientific Computing (SCI)"
+      ],
+      "education": "2020, Ph.D., ã¤, Stanford University"
+    },
+    {
+      "name": "John D. Kubiatowicz",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/kubiatowicz.html",
+      "title": "Professor",
+      "email": "kubitron@cs.berkeley.edu",
+      "office": "673 Soda Hall",
+      "research_areas": [
+        "Operating Systems & Networking (OSNT)",
+        "Security (SEC)"
+      ],
+      "education": "1998, Ph.D., Electrical Engineering and Computer Science (minor in Physics), M.I.T.; 1993, M.S., Electrical Engineering and Computer Science, M.I.T.; 1987, B.S., EE and Physics, M.I.T."
+    },
+    {
+      "name": "Kam Y. Lau",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/lau.html",
+      "title": "Professor Emeritus",
+      "email": "klau@eecs.berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Information, Data, Network, and Communication Sciences (IDNCS)"
+      ],
+      "education": "1981, Ph.D., Electrical Engineering, Caltech; 1978, B.A./M.S., Electrical Engineering, Caltech"
+    },
+    {
+      "name": "Edward A. Lee",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/lee.html",
+      "title": "Professor Emeritus, Professor in the Graduate School",
+      "email": "eal@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Cyber-Physical Systems and Design Automation (CPSDA)",
+        "Programming Systems (PS)",
+        "Signal Processing (SP)",
+        "Computer Architecture & Engineering (ARC)",
+        "Information, Data, Network, and Communication Sciences (IDNCS)",
+        "Design, Modeling and Analysis (DMA)"
+      ],
+      "education": "1986, PhD, EECS, UC Berkeley; 1981, SM, EECS, MIT; 1979, BS, CS and Eng. & Applied Science, Yale"
+    },
+    {
+      "name": "Jason Lee",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/jasondlee.html",
+      "title": "Associate Professor",
+      "email": "jasondlee@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Theory (THY)"
+      ],
+      "education": "2015, PhD, Computational and Applied Mathematics, Stanford"
+    },
+    {
+      "name": "Luke Lee",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/lplee.html",
+      "title": "Professor Emeritus",
+      "email": "lplee@berkeley.edu",
+      "office": "408C Stanley Hall",
+      "research_areas": [
+        "Biosystems & Computational Biology (BIO)",
+        "Micro/Nano Electro Mechanical Systems (MEMS)",
+        "Physical Electronics (PHY)"
+      ],
+      "education": "2000, Ph.D., Applied Physics and Bioengineering in Applied Science and Technology, UC Berkeley; 1996, B.A., Biophysics, UC Berkeley"
+    },
+    {
+      "name": "Sergey Levine",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/svlevine.html",
+      "title": "Associate Professor",
+      "email": null,
+      "office": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Control, Intelligent Systems, and Robotics (CIR)"
+      ],
+      "education": "2014, Ph.D., Computer Science, Stanford University; 2009, B.S/M.S., Computer Science, Stanford University"
+    },
+    {
+      "name": "Edwin R. Lewis",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/lewis.html",
+      "title": "Professor Emeritus",
+      "email": "lewis@eecs.berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Biosystems & Computational Biology (BIO)"
+      ],
+      "education": "1959, Ph.D., Electrical Engineering, Stanford; 1957, M.S., Electrical Engineering, Stanford; 1956, A.B., Biology, Stanford"
+    },
+    {
+      "name": "Michael A. Lieberman",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/lieberman.html",
+      "title": "Professor Emeritus",
+      "email": "lieber@eecs.berkeley.edu",
+      "office": "261M Cory Hall",
+      "research_areas": [
+        "Power and Energy (ENE)"
+      ],
+      "education": "1966, Ph.D., Electrical Engineering, MIT; 1962, B.S., M.S., Electrical Engineering, MIT"
+    },
+    {
+      "name": "Jennifer Listgarten",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/listgarten.html",
+      "title": "Professor",
+      "email": null,
+      "office": null,
+      "research_areas": [
+        "Biosystems & Computational Biology (BIO)",
+        "Artificial Intelligence (AI)"
+      ],
+      "education": "2007, Ph.D., Computer Science, University of Toronto"
+    },
+    {
+      "name": "Chunlei Liu",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/chunleiliu.html",
+      "title": "Professor",
+      "email": "chunlei.liu@eecs.berkeley.edu",
+      "office": "574 Cory Hall",
+      "research_areas": [
+        "Biosystems & Computational Biology (BIO)",
+        "Signal Processing (SP)"
+      ],
+      "education": "2005, Ph.D., Electrical Engineering, Stanford University; 2003, M.S., Management Science and Engineering, Stanford University; 2000, M.S., Physics, University of North Carolina, Chapel Hill; 1998, B.S., Physics, Peking University, Beijing"
+    },
+    {
+      "name": "Giuseppe Loianno",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/loiannog.html",
+      "title": "Associate Professor",
+      "email": "loiannog@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Control, Intelligent Systems, and Robotics (CIR)",
+        "Cyber-Physical Systems and Design Automation (CPSDA)"
+      ],
+      "education": null
+    },
+    {
+      "name": "Michael Lustig",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/mlustig.html",
+      "title": "Professor",
+      "email": "mikilustig@berkeley.edu",
+      "office": null,
+      "research_areas": [],
+      "education": "2008, PhD, EE, ðºð¸ Stanford University; 2004, MSc, EE, ðºð¸ Stanford University; 2001, BSc, EE, ð®ð± Technion, Israel Institute of Technology"
+    },
+    {
+      "name": "Eric Y. Ma",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/eric-y-ma.html",
+      "title": "Below The Line Assistant Professor",
+      "email": "eric.y.ma@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Physical Electronics (PHY)",
+        "Power and Energy (ENE)",
+        "Human-Computer Interaction (HCI)"
+      ],
+      "education": "2016, Ph.D., Applied Physics, Stanford University; 2010, B.S., Physics, Peking University"
+    },
+    {
+      "name": "Jitendra Malik",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/malik.html",
+      "title": "Professor",
+      "email": "angie@cs.berkeley.edu",
+      "office": "Angie Abbatecola",
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Control, Intelligent Systems, and Robotics (CIR)",
+        "Signal Processing (SP)"
+      ],
+      "education": "1985, Ph.D., Computer Science, Stanford University; 1980, B.Tech, Electrical Engineering, Indian Institute of Technology, Kanpur"
+    },
+    {
+      "name": "Song Mei",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/songmei.html",
+      "title": "Below The Line Assistant Professor",
+      "email": "songmei@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Signal Processing (SP)",
+        "Theory (THY)",
+        "Control, Intelligent Systems, and Robotics (CIR)",
+        "Information, Data, Network, and Communication Sciences (IDNCS)"
+      ],
+      "education": "2020, PhD, Computational and Mathematical Engineering, Stanford University; 2014, BS, Mathematics, Peking University"
+    },
+    {
+      "name": "Guanghan Meng",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/guanghan.html",
+      "title": "Below The Line Assistant Professor",
+      "email": "guanghan_meng@berkeley.edu",
+      "office": "485 Minor Hall",
+      "research_areas": [
+        "Physical Electronics (PHY)",
+        "Biosystems & Computational Biology (BIO)",
+        "Artificial Intelligence (AI)"
+      ],
+      "education": "2021, PhD, University of California Berkeley; 2015, BE, Shanghai Jiao Tong University"
+    },
+    {
+      "name": "David G. Messerschmitt",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/messerschmitt.html",
+      "title": "Professor Emeritus",
+      "email": "messer@eecs.berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Information, Data, Network, and Communication Sciences (IDNCS)",
+        "Signal Processing (SP)"
+      ],
+      "education": "1971, PhD, Computer Information and Control Engineering, University of Michigan; 1967, BS, Electrical Engineering, University of Colorado"
+    },
+    {
+      "name": "Robert G. Meyer",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/meyer.html",
+      "title": "Professor Emeritus",
+      "email": "rmeyer@eecs.berkeley.edu",
+      "office": "505 Cory Hall",
+      "research_areas": [
+        "Integrated Circuits (INC)"
+      ],
+      "education": null
+    },
+    {
+      "name": "Sewon Min",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/sewonmin.html",
+      "title": "Assistant Professor",
+      "email": "sewonm@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)"
+      ],
+      "education": "2024, Ph.D., Computer Science & Engineering, University of Washington; 2018, B.S., Computer Science & Engineering, Seoul National University"
+    },
+    {
+      "name": "Nelson Morgan",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/morgan.html",
+      "title": "Professor in Residence Emeritus",
+      "email": "morgan@icsi.berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Signal Processing (SP)"
+      ],
+      "education": "1980, PhD, Electrical Engineering, University of California, Berkeley"
+    },
+    {
+      "name": "Richard S. Muller",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/muller.html",
+      "title": "Professor Emeritus",
+      "email": "muller@berkeley.edu",
+      "office": "568 Cory Hall",
+      "research_areas": [
+        "Integrated Circuits (INC)"
+      ],
+      "education": null
+    },
+    {
+      "name": "Rikky Muller",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/rikky.html",
+      "title": "Associate Professor",
+      "email": "candycorpus@eecs.berkeley.edu",
+      "office": "Columba Candy Corpus",
+      "research_areas": [
+        "Integrated Circuits (INC)",
+        "Biosystems & Computational Biology (BIO)",
+        "Micro/Nano Electro Mechanical Systems (MEMS)",
+        "Physical Electronics (PHY)"
+      ],
+      "education": "2013, Ph.D., EECS, UC Berkeley; 2004, S.B., EECS, MIT; 2004, M.Eng., EECS, MIT"
+    },
+    {
+      "name": "Aditya Varma Muppala",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/muppala.html",
+      "title": "Assistant Professor",
+      "email": "muppala@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Integrated Circuits (INC)",
+        "Physical Electronics (PHY)",
+        "Signal Processing (SP)"
+      ],
+      "education": null
+    },
+    {
+      "name": "Kater Murch",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/katermurch.html",
+      "title": "Professor",
+      "email": "katermurch@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Physical Electronics (PHY)"
+      ],
+      "education": "2008, Ph.D., Physics, University of California, Berkeley; 2007, M.A., Physics, University of California, Berkeley; 2002, B.A., Physics, Reed College"
+    },
+    {
+      "name": "Jelani Nelson",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/minilek.html",
+      "title": "Professor",
+      "email": "alexandersandoval@eecs.berkeley.edu",
+      "office": "Alex Sandoval",
+      "research_areas": [
+        "Theory (THY)",
+        "Database Management Systems (DBMS)"
+      ],
+      "education": "2011, Ph.D., Computer Science, MIT; 2006, M.Eng., Computer Science, MIT; 2005, S.B., Computer Science, Mathematics, MIT"
+    },
+    {
+      "name": "Ren Ng",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html",
+      "title": "Associate Professor",
+      "email": "ren@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Graphics (GR)",
+        "Signal Processing (SP)",
+        "Artificial Intelligence (AI)"
+      ],
+      "education": "2006, Ph.D., Computer Science, Stanford University; 2006, M.S., Computer Science, Stanford University; 2001, B.S., Mathematical and Computational Science, Stanford University"
+    },
+    {
+      "name": "Clark Nguyen",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/ctnguyen.html",
+      "title": "Professor",
+      "email": "ctnguyen@berkeley.edu",
+      "office": "516 Cory Hall",
+      "research_areas": [
+        "Micro/Nano Electro Mechanical Systems (MEMS)",
+        "Integrated Circuits (INC)",
+        "Physical Electronics (PHY)",
+        "Design, Modeling and Analysis (DMA)"
+      ],
+      "education": "1994, Ph.D., Electrical Engineering & Computer Sciences, Univ. of California at Berkeley; 1991, M.S., Electrical Engineering & Computer Sciences, Univ. of California at Berkeley; 1989, B.S., Electrical Engineering & Computer Sciences, Univ. of California at Berkeley"
+    },
+    {
+      "name": "Ali Niknejad",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/niknejad.html",
+      "title": "Professor",
+      "email": "candycorpus@eecs.berkeley.edu",
+      "office": "Columba Candy Corpus",
+      "research_areas": [
+        "Integrated Circuits (INC)",
+        "Physical Electronics (PHY)",
+        "Signal Processing (SP)",
+        "Information, Data, Network, and Communication Sciences (IDNCS)",
+        "Design, Modeling and Analysis (DMA)"
+      ],
+      "education": "2000, Ph.D., Electrical Engineering, UC Berkeley; 1997, M.S., Electrical Engineering, UC Berkeley; 1994, B.S., Electrical Engineering, UCLA"
+    },
+    {
+      "name": "Borivoje Nikolic",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/nikolic.html",
+      "title": "Professor",
+      "email": "bora@eecs.berkeley.edu",
+      "office": "509 Cory Hall",
+      "research_areas": [
+        "Integrated Circuits (INC)",
+        "Computer Architecture & Engineering (ARC)",
+        "Information, Data, Network, and Communication Sciences (IDNCS)",
+        "Cyber-Physical Systems and Design Automation (CPSDA)"
+      ],
+      "education": "1999, Ph.D., Electrical and Computer Engineering, UC Davis; 1994, M.Sc., Electrical Engineering, University of Belgrade, Serbia; 1992, Dipl.Ing., Electrical Engineering, University of Belgrade, Serbia"
+    },
+    {
+      "name": "Narges Norouzi",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/norouzi.html",
+      "title": "Associate Teaching Professor",
+      "email": "norouzi@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Education (EDUC)",
+        "Biosystems & Computational Biology (BIO)"
+      ],
+      "education": "2017, PhD, Computer Engineering, University of Toronto; 2014, MS, Computer Engineering, University of Toronto; 2012, BS, Computer Engineering, Sharif University of Technology"
+    },
+    {
+      "name": "Pierluigi Nuzzo",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/pnuzzo.html",
+      "title": "Associate Professor",
+      "email": "candycorpus@eecs.berkeley.edu",
+      "office": "Columba Candy Corpus",
+      "research_areas": [
+        "Cyber-Physical Systems and Design Automation (CPSDA)",
+        "Control, Intelligent Systems, and Robotics (CIR)",
+        "Integrated Circuits (INC)",
+        "Computer Architecture & Engineering (ARC)",
+        "Artificial Intelligence (AI)",
+        "Power and Energy (ENE)",
+        "Programming Systems (PS)",
+        "Security (SEC)",
+        "Theory (THY)"
+      ],
+      "education": "2015, Ph.D, Electrical Engineering and Computer Sciences, University of California, Berkeley"
+    },
+    {
+      "name": "James O'Brien",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/obrien.html",
+      "title": "Professor",
+      "email": "job@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Graphics (GR)",
+        "Artificial Intelligence (AI)",
+        "Human-Computer Interaction (HCI)",
+        "Scientific Computing (SCI)"
+      ],
+      "education": "2000, Ph.D., Computer Science, Georgia Institute of Technology; 1997, M.S., Computer Science, Georgia Institute of Technology; 1992, B.S., Computer Science, Florida International University"
+    },
+    {
+      "name": "William G. Oldham",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/oldham.html",
+      "title": "Professor Emeritus",
+      "email": "cmjones@eecs.berkeley.edu",
+      "office": "Charlotte Jones",
+      "research_areas": [],
+      "education": "1963, PhD, EE, Carnegie Inst. of Technology; 1961, MS, EE, Carnegie Inst. of Technology; 1960, BS, EE, Carnegie Inst. of Technology"
+    },
+    {
+      "name": "Bruno Olshausen",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/baolshausen.html",
+      "title": "Below the Line, Professor",
+      "email": "baolshausen@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Biosystems & Computational Biology (BIO)"
+      ],
+      "education": null
+    },
+    {
+      "name": "Kay Ousterhout",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/keo.html",
+      "title": "Assistant Teaching Professor",
+      "email": "keo@eecs.berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Education (EDUC)"
+      ],
+      "education": "2017, PhD, Computer Science, UC Berkeley"
+    },
+    {
+      "name": "Christos Papadimitriou",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/papadimitriou.html",
+      "title": "Professor Emeritus",
+      "email": "theoryadmin@eecs.berkeley.edu",
+      "office": "Olivia Chen",
+      "research_areas": [
+        "Biosystems & Computational Biology (BIO)",
+        "Theory (THY)"
+      ],
+      "education": null
+    },
+    {
+      "name": "Aditya Parameswaran",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/adityagp.html",
+      "title": "Associate Professor",
+      "email": "adityagp@eecs.berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Database Management Systems (DBMS)",
+        "Human-Computer Interaction (HCI)",
+        "Artificial Intelligence (AI)"
+      ],
+      "education": "2013, PhD, Computer Science, Stanford; 2007, BTech, Computer Science and Engineering, IIT Bombay"
+    },
+    {
+      "name": "Shyam Parekh",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/shyam.html",
+      "title": "Adjunct Associate Professor",
+      "email": "richter@eecs.berkeley.edu",
+      "office": "Jean Richter",
+      "research_areas": [
+        "Information, Data, Network, and Communication Sciences (IDNCS)"
+      ],
+      "education": null
+    },
+    {
+      "name": "David A. Patterson",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/patterson.html",
+      "title": "Professor Emeritus",
+      "email": "iaortega657@berkeley.edu",
+      "office": "Ivan Ortega",
+      "research_areas": [
+        "Computer Architecture & Engineering (ARC)",
+        "Operating Systems & Networking (OSNT)"
+      ],
+      "education": "1976, PhD, Computer Science, UCLA; 1970, MS, Computer Science, UCLA; 1969, AB, Mathematics, UCLA"
+    },
+    {
+      "name": "Eric Paulos",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/paulos.html",
+      "title": "Professor",
+      "email": "paulos@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Human-Computer Interaction (HCI)"
+      ],
+      "education": null
+    },
+    {
+      "name": "Amy Pavel",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/amypavel.html",
+      "title": "Assistant Professor",
+      "email": "amypavel@berkeley.edu",
+      "office": null,
+      "research_areas": [],
+      "education": null
+    },
+    {
+      "name": "Vern Paxson",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/paxson.html",
+      "title": "Professor Emeritus, Professor in the Graduate School",
+      "email": "vern@berkeley.edu",
+      "office": "737 Soda Hall",
+      "research_areas": [
+        "Security (SEC)",
+        "Operating Systems & Networking (OSNT)"
+      ],
+      "education": null
+    },
+    {
+      "name": "Emma Pierson",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/emmapierson.html",
+      "title": "Assistant Professor",
+      "email": "emmapierson@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)"
+      ],
+      "education": "2020, Ph.D., Computer Science, Stanford University"
+    },
+    {
+      "name": "Robert Pilawa-Podgurski",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/pilawa.html",
+      "title": "Professor",
+      "email": "pilawa@berkeley.edu",
+      "office": "573 Cory Hall",
+      "research_areas": [
+        "Power and Energy (ENE)",
+        "Integrated Circuits (INC)",
+        "Physical Electronics (PHY)"
+      ],
+      "education": "2012, PhD, EECS, MIT; 2007, MEng, EECS, MIT; 2005, BS, Physics, MIT; 2005, BS, EECS, MIT"
+    },
+    {
+      "name": "Kristofer Pister",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/pister.html",
+      "title": "Professor",
+      "email": "ksjp@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Micro/Nano Electro Mechanical Systems (MEMS)",
+        "Control, Intelligent Systems, and Robotics (CIR)",
+        "Integrated Circuits (INC)"
+      ],
+      "education": "1992, Ph.D., EECS, UC Berkeley; 1989, M.S., EECS, UC Berkeley; 1986, B.A., Applied Physics, UC San Diego"
+    },
+    {
+      "name": "Kameshwar Poolla",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/poolla.html",
+      "title": "Professor",
+      "email": "cmjones@eecs.berkeley.edu",
+      "office": "Charlotte Jones",
+      "research_areas": [
+        "Control, Intelligent Systems, and Robotics (CIR)",
+        "Design, Modeling and Analysis (DMA)",
+        "Physical Electronics (PHY)"
+      ],
+      "education": null
+    },
+    {
+      "name": "Raluca Ada Popa",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/ralucap.html",
+      "title": "Associate Professor",
+      "email": "iaortega657@berkeley.edu",
+      "office": "Ivan Ortega",
+      "research_areas": [
+        "Operating Systems & Networking (OSNT)",
+        "Security (SEC)"
+      ],
+      "education": "2014, Doctor of Philosophy, Computer Science, Massachusetts Institute of Technology; 2010, Masters of Engineering, Computer Science, Massachusetts Institute of Technology; 2009, Bachelor's degree, Computer Science and Mathematics, Massachusetts Institute of Technology"
+    },
+    {
+      "name": "Jan M. Rabaey",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/rabaey.html",
+      "title": "Professor Emeritus",
+      "email": "candycorpus@eecs.berkeley.edu",
+      "office": "Columba Candy Corpus",
+      "research_areas": [
+        "Information, Data, Network, and Communication Sciences (IDNCS)",
+        "Design, Modeling and Analysis (DMA)",
+        "Power and Energy (ENE)",
+        "Integrated Circuits (INC)",
+        "Signal Processing (SP)"
+      ],
+      "education": null
+    },
+    {
+      "name": "Prasad Raghavendra",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/praghavendra.html",
+      "title": "Professor",
+      "email": "prasad@cs.berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Theory (THY)"
+      ],
+      "education": "2009, PhD, Computer Science and Engineering, University of Washington, Seattle; 2007, M.S., Computer Science and Engineering, University of Washington, Seattle; 2005, B.S., Computer Science, Indian Institute of Technology , Madras, India"
+    },
+    {
+      "name": "Kannan Ramchandran",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/ramchandran.html",
+      "title": "Professor",
+      "email": "kail@erso.berkeley.edu",
+      "office": "Kim Kail",
+      "research_areas": [
+        "Information, Data, Network, and Communication Sciences (IDNCS)",
+        "Signal Processing (SP)",
+        "Artificial Intelligence (AI)",
+        "Control, Intelligent Systems, and Robotics (CIR)"
+      ],
+      "education": "1993, Ph.D., Computer Science, Columbia University; 1984, M.S., Computer Science, Columbia University; 1982, B.E., Computer Science, City College of New York"
+    },
+    {
+      "name": "Gireeja Ranade",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/gireeja.html",
+      "title": "Associate Teaching Professor",
+      "email": "ranade@eecs.berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Information, Data, Network, and Communication Sciences (IDNCS)",
+        "Artificial Intelligence (AI)",
+        "Control, Intelligent Systems, and Robotics (CIR)",
+        "Education (EDUC)"
+      ],
+      "education": "2014, Ph.D., EECS, University of California, Berkeley; 2009, M.S., EECS, University of California, Berkeley; 2007, B.S., EECS, Massachusetts Institute of Technology"
+    },
+    {
+      "name": "Satish Rao",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/rao.html",
+      "title": "Professor",
+      "email": "theoryadmin@eecs.berkeley.edu",
+      "office": "Olivia Chen",
+      "research_areas": [
+        "Biosystems & Computational Biology (BIO)",
+        "Theory (THY)"
+      ],
+      "education": null
+    },
+    {
+      "name": "Sylvia Ratnasamy",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/ratnasamy.html",
+      "title": "Professor",
+      "email": "cchinen@berkeley.edu",
+      "office": "Carlyn Chinen",
+      "research_areas": [
+        "Operating Systems & Networking (OSNT)"
+      ],
+      "education": null
+    },
+    {
+      "name": "Benjamin Recht",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/brecht.html",
+      "title": "Professor",
+      "email": "brecht@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Control, Intelligent Systems, and Robotics (CIR)",
+        "Signal Processing (SP)"
+      ],
+      "education": null
+    },
+    {
+      "name": "Lawrence A. Rowe",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/rowe.html",
+      "title": "Professor Emeritus",
+      "email": "no_email@eecs.berkeley.edu",
+      "office": null,
+      "research_areas": [],
+      "education": "1976, Ph.D., Information and Computer Science, University of California, Irvine; 1970, B.A., Mathematics, University of California, Irvine"
+    },
+    {
+      "name": "Jaijeet Roychowdhury",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/jr.html",
+      "title": "Professor",
+      "email": "jr@berkeley.edu",
+      "office": "545E Cory Hall",
+      "research_areas": [
+        "Cyber-Physical Systems and Design Automation (CPSDA)",
+        "Integrated Circuits (INC)",
+        "Information, Data, Network, and Communication Sciences (IDNCS)",
+        "Computer Architecture & Engineering (ARC)",
+        "Control, Intelligent Systems, and Robotics (CIR)",
+        "Artificial Intelligence (AI)"
+      ],
+      "education": "1993, PhD, EECS, Berkeley; 1989, MS, EECS, Berkeley; 1987, B.Tech., EE, IIT Kanpur"
+    },
+    {
+      "name": "Stuart J. Russell",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/russell.html",
+      "title": "Professor",
+      "email": "russell@cs.berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Control, Intelligent Systems, and Robotics (CIR)",
+        "Biosystems & Computational Biology (BIO)"
+      ],
+      "education": "1986, PhD, Computer Science, Stanford University; 1982, BA Hons (1st class), Physics, Oxford University"
+    },
+    {
+      "name": "Manuel Sabin",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/msabin.html",
+      "title": "Assistant Teaching Professor",
+      "email": "msabin@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Education (EDUC)"
+      ],
+      "education": "2020, PhD, Computer Science, UC Berkeley"
+    },
+    {
+      "name": "Anant Sahai",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/sahai.html",
+      "title": "Professor",
+      "email": "sahai@eecs.berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Information, Data, Network, and Communication Sciences (IDNCS)",
+        "Artificial Intelligence (AI)",
+        "Control, Intelligent Systems, and Robotics (CIR)",
+        "Theory (THY)",
+        "Signal Processing (SP)"
+      ],
+      "education": "2001, PhD, EECS, Massachusetts Institute of Technology; 1996, SM, EECS, Massachusetts Institute of Technology; 1994, BS, EECS, University of California, Berkeley"
+    },
+    {
+      "name": "Sayeef Salahuddin",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/salahuddin.html",
+      "title": "Professor",
+      "email": null,
+      "office": null,
+      "research_areas": [
+        "Physical Electronics (PHY)",
+        "Power and Energy (ENE)",
+        "Scientific Computing (SCI)"
+      ],
+      "education": "2007, Ph.D., Electrical and Computer Engineering, Purdue University; 2003, B.S., Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology"
+    },
+    {
+      "name": "Nilou Salehi",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/nsalehi.html",
+      "title": "Below The Line Assistant Professor",
+      "email": "nsalehi@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Human-Computer Interaction (HCI)"
+      ],
+      "education": "2019, Ph.D., Computer Science, Stanford University"
+    },
+    {
+      "name": "Seth R. Sanders",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/sanders.html",
+      "title": "Professor Emeritus",
+      "email": "sanders@eecs.berkeley.edu",
+      "office": "518 Cory Hall",
+      "research_areas": [
+        "Power and Energy (ENE)",
+        "Control, Intelligent Systems, and Robotics (CIR)",
+        "Integrated Circuits (INC)"
+      ],
+      "education": "1989, Ph.D., Electrical Engineering, Massachusetts Institute of Technology; 1985, S.M., Electrical Engineering, Massachusetts Institute of Technology; 1981, S.B, Electrical Engineering and Physics, Massachusetts Institute of Technology"
+    },
+    {
+      "name": "Alberto L. Sangiovanni-Vincentelli",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/sangiovanni-vicentelli.html",
+      "title": "Professor",
+      "email": "jessicagamble@berkeley.edu",
+      "office": "Jessica Gamble",
+      "research_areas": [
+        "Cyber-Physical Systems and Design Automation (CPSDA)",
+        "Control, Intelligent Systems, and Robotics (CIR)",
+        "Artificial Intelligence (AI)"
+      ],
+      "education": "1971, Dr. Ing., EECS, Politecnico di Milano, Italy"
+    },
+    {
+      "name": "S. Shankar Sastry",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/sastry.html",
+      "title": "Professor, Director",
+      "email": "jessicagamble@berkeley.edu",
+      "office": "Jessica Gamble",
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Control, Intelligent Systems, and Robotics (CIR)",
+        "Cyber-Physical Systems and Design Automation (CPSDA)",
+        "Security (SEC)",
+        "Signal Processing (SP)"
+      ],
+      "education": "1981, Ph.D., Electrical Engineering and Computer Sciences, University of California, Berkeley; 1980, M.A., Mathematics, University of California, Berkeley; 1979, M.S., Electrical Engineering and Computer Sciences, University of California, Berkeley; 1977, B.Tech, Institute of Technology, Bombay, India"
+    },
+    {
+      "name": "Steven E. Schwarz",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/schwarz.html",
+      "title": "Professor Emeritus",
+      "email": "schwarz@eecs.berkeley.edu",
+      "office": "253 Cory Hall",
+      "research_areas": [],
+      "education": null
+    },
+    {
+      "name": "Koushik Sen",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/ksen.html",
+      "title": "Professor",
+      "email": "tamille@eecs.berkeley.edu",
+      "office": "Tammy Johnson",
+      "research_areas": [
+        "Programming Systems (PS)",
+        "Security (SEC)"
+      ],
+      "education": null
+    },
+    {
+      "name": "Carlo H. SÃ©quin",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/sequin.html",
+      "title": "Professor Emeritus",
+      "email": "sequin@cs.berkeley.edu",
+      "office": "639 Soda Hall",
+      "research_areas": [
+        "Graphics (GR)",
+        "Human-Computer Interaction (HCI)"
+      ],
+      "education": "1969, Ph.D., Experimental Physics, University of Basel, Switzerland"
+    },
+    {
+      "name": "Sanjit A. Seshia",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/seshia.html",
+      "title": "Professor",
+      "email": "cmjones@eecs.berkeley.edu",
+      "office": "Charlotte Jones",
+      "research_areas": [
+        "Cyber-Physical Systems and Design Automation (CPSDA)",
+        "Programming Systems (PS)",
+        "Artificial Intelligence (AI)",
+        "Control, Intelligent Systems, and Robotics (CIR)",
+        "Security (SEC)",
+        "Theory (THY)"
+      ],
+      "education": "2005, Ph.D., Computer Science, Carnegie Mellon University; 2000, M.S., Computer Science, Carnegie Mellon University; 1998, B.Tech., Computer Science and Engineering, Indian Institute of Technology, Bombay"
+    },
+    {
+      "name": "Osama Shana'a",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/osama.html",
+      "title": "Adjunct Associate Professor",
+      "email": "osama.shanaa@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Integrated Circuits (INC)"
+      ],
+      "education": "2001, Ph.D., Electrical Engineering, Stanford University; 1996, MSEE, Electrical Engineering, Portland State University; 1992, B.Sc., Electrical Engineering, University of Jordan"
+    },
+    {
+      "name": "Sophia Shao",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/ysshao.html",
+      "title": "Associate Professor",
+      "email": "ysshao@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Computer Architecture & Engineering (ARC)",
+        "Integrated Circuits (INC)",
+        "Cyber-Physical Systems and Design Automation (CPSDA)"
+      ],
+      "education": "2016, Ph.D., Computer Science, Harvard University"
+    },
+    {
+      "name": "Scott Shenker",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/shenker.html",
+      "title": "Professor Emeritus, Professor in the Graduate School",
+      "email": "iaortega657@berkeley.edu",
+      "office": "Ivan Ortega",
+      "research_areas": [
+        "Operating Systems & Networking (OSNT)"
+      ],
+      "education": "1983, Ph.D., Physics, University of Chicago; 1978, Sc.B., Physics, Brown University"
+    },
+    {
+      "name": "Jonathan Shewchuk",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/shewchuk.html",
+      "title": "Professor",
+      "email": "jrs@cs.berkeley.edu",
+      "office": "529 Soda Hall",
+      "research_areas": [
+        "Scientific Computing (SCI)",
+        "Theory (THY)",
+        "Graphics (GR)"
+      ],
+      "education": null
+    },
+    {
+      "name": "Irfan Siddiqi",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/irfan.html",
+      "title": "Professor",
+      "email": "irfan_siddiqi@berkeley.edu",
+      "office": null,
+      "research_areas": [],
+      "education": null
+    },
+    {
+      "name": "Alistair Sinclair",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/sinclair.html",
+      "title": "Professor",
+      "email": "theoryadmin@eecs.berkeley.edu",
+      "office": "Olivia Chen",
+      "research_areas": [
+        "Theory (THY)"
+      ],
+      "education": null
+    },
+    {
+      "name": "Alp Sipahigil",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/alp.html",
+      "title": "Assistant Professor",
+      "email": "alp@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Physical Electronics (PHY)",
+        "Integrated Circuits (INC)",
+        "Micro/Nano Electro Mechanical Systems (MEMS)"
+      ],
+      "education": "2017, PhD, Physics, Harvard University; 2010, BS, Physics, Bogazici University; 2010, BS, Electrical Engineering, Bogazici University"
+    },
+    {
+      "name": "Alan J. Smith",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/smith-a.html",
+      "title": "Professor Emeritus",
+      "email": "smith@eecs.berkeley.edu",
+      "office": "192 Soda Hall",
+      "research_areas": [
+        "Computer Architecture & Engineering (ARC)",
+        "Operating Systems & Networking (OSNT)"
+      ],
+      "education": null
+    },
+    {
+      "name": "Somayeh Sojoudi",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/sojoudi.html",
+      "title": "Associate Professor in Residence",
+      "email": "sojoudi@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Control, Intelligent Systems, and Robotics (CIR)",
+        "Power and Energy (ENE)"
+      ],
+      "education": "2013, PhD, Control & Dynamical Systems, California Institute of Technology"
+    },
+    {
+      "name": "Dawn Song",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/song.html",
+      "title": "Professor",
+      "email": "dawnsong@cs.berkeley.edu",
+      "office": "675 Soda Hall",
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Operating Systems & Networking (OSNT)",
+        "Security (SEC)",
+        "Programming Systems (PS)"
+      ],
+      "education": "2002, Ph.D., Computer Science, UC Berkeley; 1999, M.S., Computer Science, Carnegie Mellon University"
+    },
+    {
+      "name": "Yun S. Song",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/yssong.html",
+      "title": "Professor",
+      "email": "yss@berkeley.edu",
+      "office": "304B Stanley Hall",
+      "research_areas": [
+        "Biosystems & Computational Biology (BIO)",
+        "Artificial Intelligence (AI)",
+        "Theory (THY)"
+      ],
+      "education": "2001, PhD, Physics, Stanford University; 1997, B.S., Mathematics, MIT; 1996, B.S., Physics, MIT"
+    },
+    {
+      "name": "Costas J. Spanos",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/spanos.html",
+      "title": "Professor Emeritus",
+      "email": null,
+      "office": null,
+      "research_areas": [
+        "Power and Energy (ENE)",
+        "Integrated Circuits (INC)",
+        "Physical Electronics (PHY)"
+      ],
+      "education": null
+    },
+    {
+      "name": "Jacob Steinhardt",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/jsteinhardt.html",
+      "title": "Assistant Professor",
+      "email": "jsteinhardt@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Information, Data, Network, and Communication Sciences (IDNCS)"
+      ],
+      "education": "2018, PhD, Computer Science, Stanford; 2012, BSc, Mathematics, MIT"
+    },
+    {
+      "name": "Ion Stoica",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/stoica.html",
+      "title": "Professor",
+      "email": "atchley@berkeley.edu",
+      "office": "Kattt Atchley",
+      "research_areas": [
+        "Operating Systems & Networking (OSNT)",
+        "Security (SEC)"
+      ],
+      "education": "2000, Ph.D., Electrical and Computer Engineering, Carnegie Mellon University; 1989, M.S., Computer Science and Control Engineering, Polytechnic University Bucharest"
+    },
+    {
+      "name": "Michael Stonebraker",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/stonebraker.html",
+      "title": "Professor Emeritus",
+      "email": null,
+      "office": null,
+      "research_areas": [],
+      "education": "1971, Ph.D., Computer, Information and Control Engineering, University of Michigan; 1966, M.S.E., Electrical Engineering, University of Michigan; 1965, B.S.E., Electrical Engineering, Princeton"
+    },
+    {
+      "name": "Bernd Sturmfels",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/sturmfels.html",
+      "title": "Professor Emeritus",
+      "email": "no_email@eecs.berkeley.edu",
+      "office": "925 Evans Hall",
+      "research_areas": [
+        "Biosystems & Computational Biology (BIO)",
+        "Theory (THY)"
+      ],
+      "education": "1987, Dr.rer.nat., Mathematics, Technical University Darmstadt, Germany; 1987, Ph.D., Mathematics, University of Washington, Seattle; 1985, Diplom, Mathematics and Computer Science, Technical University Darmstadt, Germany"
+    },
+    {
+      "name": "Alane Suhr",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/suhr.html",
+      "title": "Assistant Professor",
+      "email": "suhr@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)"
+      ],
+      "education": "2022, PhD, Computer Science, Cornell University; 2016, BS, Computer Science and Engineering, Ohio State University"
+    },
+    {
+      "name": "Avishay Tal",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/atal.html",
+      "title": "Associate Professor",
+      "email": "atal@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Theory (THY)"
+      ],
+      "education": "2015, PhD, Computer Science, Weizmann Institute of Science; 2012, MS, Computer Science, The Technion, Haifa, Israel; 2007, BA, Mathematics, The Technion, Haifa, Israel; 2005, BS, Software Engineering, The Technion, Haifa, Israel"
+    },
+    {
+      "name": "Haoning Tang",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/haoningtang.html",
+      "title": "Adjunct Assistant Professor",
+      "email": "haoningtang@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Micro/Nano Electro Mechanical Systems (MEMS)",
+        "Physical Electronics (PHY)"
+      ],
+      "education": "2021, PhD, Applied Physics, Harvard University; 2018, MS, Applied Physics, Harvard University; 2016, B. Eng, Electronic and Computer Engineering, Hong Kong University of Science and Technology"
+    },
+    {
+      "name": "Jean-Paul Tennant",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/jptennant.html",
+      "title": "Lecturer",
+      "email": "jptennant@berkeley.edu",
+      "office": null,
+      "research_areas": [],
+      "education": "2001, MBA, Finance, University of California, Berkeley â Haas School of Business; 1993, MS, Electrical Engineering and Computer Science, University of California, Berkeley; 1986, BSE, Electrical Engineering, University of Michigan, Ann Arbor"
+    },
+    {
+      "name": "Grigory Tikhomirov",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/grisha.html",
+      "title": "Assistant Professor",
+      "email": "gt3@berkeley.edu",
+      "office": "568 Cory Hall",
+      "research_areas": [
+        "Biosystems & Computational Biology (BIO)",
+        "Control, Intelligent Systems, and Robotics (CIR)",
+        "Power and Energy (ENE)",
+        "Integrated Circuits (INC)",
+        "Micro/Nano Electro Mechanical Systems (MEMS)",
+        "Physical Electronics (PHY)"
+      ],
+      "education": null
+    },
+    {
+      "name": "Claire Tomlin",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/tomlin.html",
+      "title": "Professor",
+      "email": "jessicagamble@berkeley.edu",
+      "office": "Jessica Gamble",
+      "research_areas": [
+        "Control, Intelligent Systems, and Robotics (CIR)",
+        "Biosystems & Computational Biology (BIO)"
+      ],
+      "education": "1998, Ph.D., EECS, UC Berkeley; 1993, M.Sc., Electrical Engineering, Imperial College, London; 1992, B.A.Sc., Electrical Engineering, University of Waterloo"
+    },
+    {
+      "name": "Umesh Vazirani",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/vazirani.html",
+      "title": "Professor",
+      "email": "theoryadmin@eecs.berkeley.edu",
+      "office": "Olivia Chen",
+      "research_areas": [
+        "Theory (THY)",
+        "Security (SEC)"
+      ],
+      "education": "1986, Ph.D., Computer Science, UC Berkeley; 1981, B.S., MIT"
+    },
+    {
+      "name": "Alexandra von Meier",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/vonmeier.html",
+      "title": "Adjunct Professor, Retired",
+      "email": "vonmeier@eecs.berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Power and Energy (ENE)"
+      ],
+      "education": "1995, PhD, Energy and Resources, UC Berkeley; 1990, MA, Energy and Resources, UC Berkeley; 1986, BA, Physics, UC Berkeley"
+    },
+    {
+      "name": "Allon Wagner",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/allonwag.html",
+      "title": "Assistant Professor",
+      "email": "mwitte@berkeley.edu",
+      "office": "Martin Witte",
+      "research_areas": [
+        "Biosystems & Computational Biology (BIO)",
+        "Artificial Intelligence (AI)"
+      ],
+      "education": "2021, PhD, Computer Science, UC Berkeley"
+    },
+    {
+      "name": "David Wagner",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/wagner.html",
+      "title": "Professor",
+      "email": "daw@cs.berkeley.edu",
+      "office": "733 Soda Hall",
+      "research_areas": [
+        "Security (SEC)"
+      ],
+      "education": "2000, Ph.D., Computer Science, UC Berkeley; 1999, M.S., Computer Science, UC Berkeley; 1995, A.B., Mathematics, Princeton University"
+    },
+    {
+      "name": "Laura Waller",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/waller.html",
+      "title": "Professor",
+      "email": "waller@berkeley.edu",
+      "office": "514 Cory Hall",
+      "research_areas": [
+        "Physical Electronics (PHY)",
+        "Signal Processing (SP)",
+        "Biosystems & Computational Biology (BIO)",
+        "Graphics (GR)"
+      ],
+      "education": "2010, Ph.D., Electrical Engineering and Computer Science, MIT; 2005, M.Eng., Electrical Engineering and Computer Science, MIT; 2004, B.S., Electrical Engineering and Computer Science, MIT"
+    },
+    {
+      "name": "Jean Walrand",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/walrand.html",
+      "title": "Professor Emeritus",
+      "email": "wlr@eecs.berkeley.edu",
+      "office": "257 Cory Hall",
+      "research_areas": [
+        "Information, Data, Network, and Communication Sciences (IDNCS)"
+      ],
+      "education": null
+    },
+    {
+      "name": "John Wawrzynek",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/wawrzynek.html",
+      "title": "Professor, CS Division Chair",
+      "email": "alexandersandoval@eecs.berkeley.edu",
+      "office": "Alex Sandoval",
+      "research_areas": [
+        "Computer Architecture & Engineering (ARC)"
+      ],
+      "education": null
+    },
+    {
+      "name": "Max Willsey",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/mwillsey.html",
+      "title": "Assistant Professor",
+      "email": "mwillsey@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Programming Systems (PS)"
+      ],
+      "education": "2021, PhD, Computer Science, University of Washington"
+    },
+    {
+      "name": "Eugene Wong",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/wong.html",
+      "title": "Professor Emeritus",
+      "email": "wong@eecs.berkeley.edu",
+      "office": "269M Cory Hall",
+      "research_areas": [
+        "Information, Data, Network, and Communication Sciences (IDNCS)"
+      ],
+      "education": null
+    },
+    {
+      "name": "John Wright",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/jswright.html",
+      "title": "Assistant Professor",
+      "email": "jswright@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Theory (THY)"
+      ],
+      "education": "2016, Ph.D., Computer Science, Carnegie Mellon University"
+    },
+    {
+      "name": "Felix F. Wu",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/wu-f.html",
+      "title": "Professor Emeritus",
+      "email": "ffwu@eecs.berkeley.edu",
+      "office": null,
+      "research_areas": [],
+      "education": null
+    },
+    {
+      "name": "Ming C. Wu",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/wu.html",
+      "title": "Professor",
+      "email": "wu@eecs.berkeley.edu",
+      "office": "511 Sutardja Dai Hall",
+      "research_areas": [
+        "Micro/Nano Electro Mechanical Systems (MEMS)",
+        "Physical Electronics (PHY)"
+      ],
+      "education": "1988, PhD, EECS, University of California, Berkeley"
+    },
+    {
+      "name": "Qian Xu",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/qianxu.html",
+      "title": "Assistant Professor",
+      "email": null,
+      "office": null,
+      "research_areas": [
+        "Physical Electronics (PHY)"
+      ],
+      "education": "2024, PhD, Quantum Science and Engineering, University of Chicago; 2019, BS, Physics, Nanjing University"
+    },
+    {
+      "name": "Eli Yablonovitch",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/yablonovitch.html",
+      "title": "Professor Emeritus, Professor in the Graduate School",
+      "email": "eliy@eecs.berkeley.edu",
+      "office": "267M Cory Hall",
+      "research_areas": [
+        "Physical Electronics (PHY)"
+      ],
+      "education": "1972, Ph.D., Applied Physics, Harvard University; 1969, A.M., Applied Physics, Harvard University; 1967, B.Sc., Physics, McGill University"
+    },
+    {
+      "name": "Adam Yala",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/yala.html",
+      "title": "Below The Line Assistant Professor",
+      "email": "yala@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)"
+      ],
+      "education": "2022, PhD, Computer Science, MIT"
+    },
+    {
+      "name": "Lisa Yan",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/yanlisa.html",
+      "title": "Assistant Teaching Professor",
+      "email": "yanlisa@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Education (EDUC)"
+      ],
+      "education": "2019, PhD, Electrical Engineering, Stanford University; 2015, MS, Electrical Engineering, Stanford University; 2013, BS, Electrical Engineering and Computer Science, University of California, Berkeley"
+    },
+    {
+      "name": "Katherine A. Yelick",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/yelick.html",
+      "title": "Professor",
+      "email": "tamille@eecs.berkeley.edu",
+      "office": "Tammy Johnson",
+      "research_areas": [
+        "Programming Systems (PS)",
+        "Scientific Computing (SCI)",
+        "Biosystems & Computational Biology (BIO)"
+      ],
+      "education": "1991, Ph.D., EECS, MIT; 1985, S.M., EECS, MIT; 1982, B.S., EECS, MIT"
+    },
+    {
+      "name": "Bin Yu",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/binyu.html",
+      "title": "Professor",
+      "email": "binyu@stat.berkeley.edu",
+      "office": "367 Evans Hall",
+      "research_areas": [
+        "Signal Processing (SP)"
+      ],
+      "education": "1990, Ph.D., Statistics, University of California, Berkeley; 1987, M.A., Statistics, University of California, Berkeley; 1984, B.S., Mathematics, Peking University"
+    },
+    {
+      "name": "Mengjie Yu",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/mengjieyu.html",
+      "title": "Assistant Professor",
+      "email": "mengjie.yu@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Physical Electronics (PHY)",
+        "Artificial Intelligence (AI)",
+        "Integrated Circuits (INC)",
+        "Micro/Nano Electro Mechanical Systems (MEMS)"
+      ],
+      "education": "2018, Ph.D, Electrical and Computer Engineering, Cornell University; 2012, B.A, Optical Engineering, Zhejiang University"
+    },
+    {
+      "name": "Stella Yu",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/stellayu.html",
+      "title": "Adjunct Professor",
+      "email": "stellayu@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Control, Intelligent Systems, and Robotics (CIR)",
+        "Graphics (GR)",
+        "Signal Processing (SP)"
+      ],
+      "education": "2003, Ph.D., Robotics, Carnegie Mellon University"
+    },
+    {
+      "name": "Matei Zaharia",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/matei.html",
+      "title": "Associate Professor",
+      "email": "matei@berkeley.edu",
+      "office": null,
+      "research_areas": [
+        "Operating Systems & Networking (OSNT)",
+        "Artificial Intelligence (AI)",
+        "Database Management Systems (DBMS)"
+      ],
+      "education": "2013, PhD, Computer Science, UC Berkeley"
+    },
+    {
+      "name": "Avideh Zakhor",
+      "profile_url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/zakhor.html",
+      "title": "Professor Emerita",
+      "email": "cmjones@eecs.berkeley.edu",
+      "office": "Charlotte Jones",
+      "research_areas": [
+        "Signal Processing (SP)",
+        "Artificial Intelligence (AI)",
+        "Control, Intelligent Systems, and Robotics (CIR)",
+        "Graphics (GR)"
+      ],
+      "education": "1987, Ph.D., Electrical Engineering and Computer Science, Massachusetts Institute of Technology; 1985, S.M., Electrical Engineering and Computer Science, Massachusetts Institute of Technology; 1983, B.Sc., Electrical Engineering, California Institute of Technology"
+    }
+  ]
+}

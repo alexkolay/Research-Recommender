@@ -1,0 +1,1364 @@
+{
+  "school": "Carnegie Mellon University",
+  "department": "Computer Science",
+  "source_url": "https://www.csd.cs.cmu.edu/people/faculty",
+  "faculty": [
+    {
+      "name": "Umut Acar",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/umut-acar",
+      "title": "Professor",
+      "email": "umut@cmu.edu",
+      "research_areas": [
+        "Programming Languages",
+        "Theory",
+        "Algorithms and Complexity"
+      ],
+      "bio": "My main areas of interest are programming languages, parallel computing, and algorithms. In my research, I aim to raise the level of abstraction at which computer scientists reason about problems, and develop algorithms and software. To this end, I develop abstractions and design the supporting language constructs, algorithms, and software systems.\n\nProgramming languages. Programming languages aim to fill the large gap between the level at which we humans reason (as for example manifested by mathematics) and the tedious code of instructions required by the computer. They do so by offering us abstractions with which we can organize and express our thoughts and by translating our thoughts expressed as programs to code suitable for computers to execute. For reasons of efficiency, as computer scientists, we have thus far resorted to low level abstractions--abstractions closer to the level of computers than humans--for expressing computation. But today, as computer systems become architecturally more complex, it has become increasingly more difficult to design software that perform well with such low-level abstractions. The problem is exacerbated by increased demands on the capability and the quality of software, as it performs many critical tasks and handles sensitive information. I therefore develop higher-level abstractions, programming languages, and systems that enable creative thought and expression while also ensuring efficiency. My research in this area thus far focused on dynamic or incremental computation, where systems interact with dynamically changing data, and parallel computation, where multiple processors can be used to perform a task simultaneously.\n\nParallel computing. The turn of the 21st century may be remembered as a momentous point in the history of computing as the single-chip, multiple-processor (multicore) computer started replacing the sequential computer, the mainstay of computing until then. Unfortunately, many of today's programming languages, algorithms, and software systems are not suitable for use with parallel hardware. To take advantage of parallelism, we need new programming languages, algorithms, and software systems. Specific problems to be tackled include reliability (a.k.a., fault tolerance or resilience), scheduling for scalable efficiency, and control of communication costs between processors and memory. In order to keep the level of abstraction high without sacrificing performance, I work on these problems by using a broad methodology that combines techniques and tools from several areas including algorithms, programming languages, and systems.\n\nAlgorithms. By allowing us to reason accurately about the cost (resource usage) of computation, classic models of computation, e.g., the RAM and the PRAM models, have enabled us to design efficient algorithms for many important problems. Many algorithms, (e.g., dynamic and parallel algorithms), however, can be difficult to implement and use in practice because they require implementations to maintain complex invariants expressed in terms of the details of the machine hardware (e.g., memory layout). This theory-practice gap increases as the complexity of the hardware (e.g., non-uniform memory) and the problems that we face increase. I wish to close this gap by inventing realistic computational models that are higher-level and that simplify the design, analysis, and expression (and thus implementation) of sophisticated algorithms by eliminating hardware-specific details from algorithms. The challenge is to ensure that such algorithms can remain efficient. In the near future, I am particularly interested in models and algorithms for dynamic and parallel problems.\n\nUnderstanding software. In the current state of the art, our ability to design software far exceeds our ability to understand its behavior. For example, we may spend a long time (e.g., days) to understand a small piece of code that we wrote in a fraction of the time (e.g., minutes). I am interested in developing techniques for understanding software. To this end, I am pursing the idea of enabling a conversation between the user and software, where the user queries the software and the software responds by \"explaining\" its work."
+    },
+    {
+      "name": "Anil Ada",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/anil-ada",
+      "title": "Associate Teaching Professor",
+      "email": "aada@cs.cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Leman Akoglu",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/leman-akoglu",
+      "title": "Associate Professor, Affiliated Faculty",
+      "email": "lemanakoglu@cmu.edu",
+      "research_areas": [
+        "Artificial Intelligence"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Jonathan Aldrich",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/jonathan-aldrich",
+      "title": "Professor, Affiliated Faculty",
+      "email": null,
+      "research_areas": [
+        "Programming Languages",
+        "Security",
+        "Formal Methods",
+        "Security and Privacy",
+        "Software Engineering"
+      ],
+      "bio": "My research goal is to improve the quality and security of software and the productivity of engineers by providing novel ways to express and enforce structural and behavioral aspects of software design within source code, typically through language design and type systems. I both prove formal properties of the systems I develop, and also evaluate their practical benefits via case studies, human subjects experiments, and corpus studies with open source codebases.\n\nA Programming Language for Secure Web and Mobile Development. We are currently designing a new programming language called Wyvern that is designed to help in developing highly secure web and mobile applications, while at the same time enhancing developer productivity. Research on this project includes a novel object model and versioned module system that provides a foundation for security, and an extensible language and type system, which supports domain-specific languages for UI layouts, distributed application architectures, and security policies.\n\nLightweight Formal Methods show great promise for helping software engineers write secure software, avoid defects, and achieve high parallel performance and other non-functional goals. I am interested in how language and type system design can be used to more effectively check a range of critical software properties. We are currently developing an approach, for example, that provides a simple typed interface to a parallel library, while using more sophisticated formal methods to prove that subtle concurrency tricks used in the library are correct. This approach may thus be able to provide both high usability and high performance—an elusive combination in past work. More broadly, I am interested in using formal abstractions that capture engineers’ informal reasoning, especially in the presence of challenges such as concurrency and mutable aliased state."
+    },
+    {
+      "name": "George Amvrosiadis",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/george-amvrosiadis",
+      "title": "Associate Research Professor, Affiliated Faculty",
+      "email": "gamvrosi@cmu.edu",
+      "research_areas": [
+        "Systems",
+        "Data-Intensive and Cloud Computing",
+        "Distributed Systems",
+        "Operating Systems",
+        "Scientific Computing"
+      ],
+      "bio": "My group is currently doing research in the areas of distributed and cloud storage, new storage technologies, high performance computing, and storage for machine learning.\n\nDistributed and Cloud Storage. The cloud can always provide additional resources at a cost. We explore how we can rethink the way we design systems to be mindful of the performance vs cost tradeoff. One such example of traditional designs that do not apply to the cloud is caching, where we traditional allocation and eviction policies do not take into account that available cache space can be extended (or shrunk) if the cost benefit is worth it.\n\nNew Storage Technologies. Exploring how new types of storage, such as Zoned Storage and Computational Storage, can be leveraged by different workloads. Designing and building systems that support these types of storage while remaining practical.\n\nHigh Performance Computing. Scientific simulations, such as those used in weather forecasting and particle physics, challenge the limits of how scalable a single parallel application can be. We design distributed systems that rethink the way metadata is persisted and communication is carried out in order to accommodate exabyte, million-core workloads. <b>Storage for Machine Learning.</b> We find that our inability to efficiently fetch and preprocess data before training models with it can significantly affect the training performance. We have been designing novel data formats and controlled-fidelity mechanisms to increase the effective bandwidth of the system."
+    },
+    {
+      "name": "David Andersen",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/david-andersen",
+      "title": "Professor",
+      "email": "dga@cs.cmu.edu",
+      "research_areas": [
+        "Security",
+        "Systems",
+        "Databases",
+        "Distributed Systems",
+        "Networking",
+        "Security and Privacy"
+      ],
+      "bio": "My research focuses on networks and distributed systems.  My interests lie in creating systems that meet goals such as robustness, high availability, and energy efficiency.  My current research encompasses two large project areas:\n\nFAWN:  Fast Arrays of Wimpy Nodes. The FAWN project aims to develop computational cluster architectures, and software techniques to use them, that are drastically more energy and cost-effective than today's technologies.  We do so by building clusters from systems that are comparatively slow by the standards of today's leading-edge, but that together, can provide drastically more throughput and computational capability at lower power.  We then tackle the problems of actually using such systems by developing new algorithms and systems techniques for data-intensive processing on these clusters.  Typical challenges we seek to overcome are using substantially less memory than prior approaches, harnessing new storage technologies such as Flash and phase-change memory, and coping with systems composed of 5x more nodes than previously used.\n\nXIA:  The Expressive Internet Architecture. XIA is a clean-slate approach to Internetworking, in a collaboration with numerous faculty at Carnegie Mellon and elsewhere.  The goal of the project is to develop an Internet architecture for the next 100 years:  one that is robust, has drastically improved security compared to today's, and, most importantly, one that can evolve easily to meet as-yet-unknown uses and challenges."
+    },
+    {
+      "name": "Daniel Anderson",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/daniel-anderson",
+      "title": "Assistant Teaching Professor",
+      "email": "danielanderson@cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Maria Balcan",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/maria-balcan",
+      "title": "Cadence Design Systems Professor",
+      "email": "ninamf@cs.cmu.edu",
+      "research_areas": [
+        "Artificial Intelligence",
+        "Theory",
+        "Algorithms and Complexity",
+        "Machine Learning"
+      ],
+      "bio": "My research tackles fundamental questions in Machine Learning, Algorithmic Game Theory, and Algorithms . My work develops deep new connections between these areas, using ideas and insights from each of them to solve some of their central and emerging challenges in innovative ways.\n\nFoundations for Machine Learning Machine learning studies the design of automatic methods for extracting information from data and has become a tremendously successful discipline with a wide variety of important applications in areas such as robotics, healthcare, information retrieval, and sustainability. Its past successful evolution was heavily influenced by mathematical foundations developed for several core problems including generalizing from labeled data. However, with the variety of applications of machine learning across science, engineering, and computing in the age of Big Data, re-examining the underlying foundations of the field has become imperative. A major goal of my research is to substantially advance the field of machine learning by developing foundations and algorithms for a number of important modern learning paradigms. These include interactive learning, where the algorithm and the domain expert engage in a dialogue to facilitate more accurate learning from less data compared to the classic approach of passively observing labeled data; distributed learning, where a large dataset is distributed across multiple servers and the challenge lies in learning with limited communication; and multi-task learning, where the goal is to solve multiple related learning problems from less data by taking advantage of relationship among the learning tasks. My goal is to provide new frameworks explaining the fundamental underlying principles, as well as new powerful, principled, and practical learning algorithms designed to satisfy the new types of constraints and challenges of these modern settings (including statistical efficiency, computational efficiency, noise tolerance, limited supervision or interaction, privacy, low communication, and incentives).\n\nAlgorithmic Game Theory Traditionally, complex systems involving multiple agents each with their own interests in mind have been analyzed through purely game theoretic lenses, but technologies such as the Internet have triggered an increased growth of research concerning algorithmic aspects as well. Yet these approaches are often limited to studying static concepts. My work goes further and shows how machine learning methods can help tackle fundamental open questions regarding information-gathering and dynamics in these settings. For example, in past work, I showed an exciting application of machine learning to automate aspects of auction design and formally address problems of market analysis for designing combinatorial pricing mechanisms with near-optimal revenue guarantees. Along different lines, my current work develops a new approach to analyzing the overall behavior of complex systems in which multiple agents with limited information are selfishly adapting their behavior over time based on past experience. My goal is to develop general techniques for influencing the behavior of natural learning dynamics towards globally good states, as well as to provide powerful tools to reason about economic agents as adaptive, learning entities.\n\nAnalysis of Algorithms beyond the Worst Case Many important optimization problems are unfortunately provably hard even to approximate well on worst-case instances. However, real-world instances often satisfy certain natural regularities or stability properties. A recent direction in my work is designing algorithms for important optimization problems with strong formal guarantees under natural stability assumptions about the input instances. For example, in the context of clustering I showed that approximation stability assumptions (implicit when modeling clustering as approximately optimizing a distance-based objective, e.g., k-means) could be leveraged to overcome worst-case hardness results. I am interested to further analyze in this framework other problems of finding hidden structure in data. I additionally plan to identify other meaningful and generally applicable models of computation beyond worst-case analysis, that accurately model real-world instances and could provide a useful alternative to traditional worst-case models in a broad range of optimization problems."
+    },
+    {
+      "name": "Stephanie Balzer",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/stephanie-balzer",
+      "title": "Assistant Professor",
+      "email": "balzers@cs.cmu.edu",
+      "research_areas": [
+        "Programming Languages",
+        "Security",
+        "Pure and Applied Logic",
+        "Security and Privacy",
+        "Software Verification",
+        "Type Theory"
+      ],
+      "bio": "The goal of my research is to enable the construction of failure-free software, software that is correct by design and secure to run. In pursuit of this goal, I am deploying rigorous reasoning methods, such as type systems and verification logics, which allow statement of the desired properties and a formal proof of their adherence. To ensure scalability, I use compositional methods, guaranteeing that individually verified parts compose to a verifiable whole. To ensure practicality, I consider verification needs arising from real-world problems. Tangible results of my research include not only formal models with correctness proofs but also software artifacts.\n\nA driving force underlying my research is the recognition that powerful and elegant solutions are fundamentally based on simple ideas, ideas that can be conveyed to and appreciated by non-experts. As such it is the aim of my research program to contribute verification tools and systems that can be used by educated practitioners, encouraging adoption of formal methods in practice."
+    },
+    {
+      "name": "Nathan Beckmann",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/nathan-beckmann",
+      "title": "Associate Professor",
+      "email": "beckmann@cmu.edu",
+      "research_areas": [
+        "Systems",
+        "Computer Architecture",
+        "Data-Intensive and Cloud Computing",
+        "Mobile and Pervasive Computing",
+        "Operating Systems",
+        "Performance Modeling & Analysis"
+      ],
+      "bio": "My research builds energy-efficient, general-purpose computers. General-purpose computing is the most impactful technology of the last fifty years, and it is essential that its growth continues. Unfortunately, general-purpose computing is currently under threat. The future of general-purpose computing depends on energy efficiency — from IoT to datacenters, energy efficiency determines computers’ capability, lifetime, and environmental impact. General-purpose computer architectures have stagnated, and their energy efficiency has not significantly improved for over a decade.\n\nConsequently, the last decade has seen a dramatic shift towards specialized hardware. Hardware specialization has delivered large gains in energy efficiency, but at a loss of general-purpose programmability and dramatic increase in cost and carbon footprint. The challenge for the next decade is to reconcile programmability and energy efficiency to enable a truly sustainable future for computing.\n\nMy research improves the energy efficiency of general-purpose computers by orders of magnitude. My research group is designing spatial dataflow architectures that avoid the inherent inefficiency of today's von Neumann CPUs while keeping computation near-data to mitigate the growing cost of data movement. This research spans hardware and software, with a particular focus on compilers and computer architecture. My focuses on build complete systems, including code that has run in production data centers and three silicon testchips."
+    },
+    {
+      "name": "Daniel Berger",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/daniel-berger",
+      "title": "Adjunct Scientist",
+      "email": "dsberger@cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Guy Blelloch",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/guy-blelloch",
+      "title": "Professor",
+      "email": "gb1y@andrew.cmu.edu"
+    },
+    {
+      "name": "Manuel Blum",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/manuel-blum",
+      "title": "University Professor Emeritus",
+      "email": "mblum@cs.cmu.edu",
+      "research_areas": [
+        "Security",
+        "Theory",
+        "Algorithms and Complexity",
+        "Cryptography",
+        "Security and Privacy"
+      ],
+      "bio": "My current research projects include:\n\n1.1 The CAPTCHA project. CAPTCHA  is an acronym for \"Completely Automatic Public Turing Test To Tell Computers Humans Apart.\"  It is a kind of automatic sentry, a test that is made up, administered, and graded by a computer in order to permit humans but not bots to enter the Garden of Eden.  One of the paradoxes of this project is to show how a computer can generate and grade a test that it (the computer itself) cannot pass!  Current Captchas do this by putting a randomly chosen string of characters on a rubber sheet.  They then deform the sheet to the point that OCR (Optical Character Recognition) cannot read the characters.  Humans can read the deformed image, just as they can read the writing on a stained and twisted piece of paper.  While the Captcha tester itself cannot read the deformed image, it can grade the test.  This is because it remembers its initial choice of characters.\n\n1.2 A good sound-based Captcha is needed for blind people (the blind are stopped by visual Captchas).  I'm looking for someone interested to try her/his hand at this.\n\n1.3 The Ultimate OCR (Optical Character Recognition) project. The Ultimate OCR is a program that can read anything that humans can read.    ***NOTE: I do not propose to create the Ultimate OCR but to get the vision community to create it for us.***    The approach to the Ultimate OCR is to build an Ultimate Captcha that can ONLY be read by a human or by a device that can read everything that humans can read.  We have ideas how to build such a device, but need someone to think these ideas through with us, make improvements, and then build the Captcha. This Ultimate Captcha would serve as a challenge to the Vision Community.  As with previous challenges we have set, this challenge will almost certainly be taken seriously as it would be a maximally powerful automatic test of ability to read text.   A bot that could pass this test would be able to read anything that a human can read.   It's code would therefore constitute an Ultimate OCR.  This work is joint with Luis von Ahn and anyone whom we accept to work on it with us.\n\n2.1 CONSCSness:  CONSCS = CONceptualizing Strategizing Control System. This project is a top-down complexity theoretic approach to understanding consciousness.  The intent is to set down a very small number of axioms for  CONSCSness and then prove theorems about the concept.  Hopefully the theorems will make sense and teach us something about how to build a CONceptualizing Strategizing Control System.  This work is joint with Ryan Williams and Brendan Juba.\n\n2.2 Proof triangles.  (Definition triangles.  Algorithm triangles. etc.) One concrete consequence of our study of CONSCSness is a new view of proof that extends the traditional formal concept of proof to something that we call a \"proof triangle.\"  A proof triangle has a formal mathematical proof at the base of the triangle.  The apex of the triangle is a bare minimal hint.  The next level might be a more extended hint.  The next a proof idea.  Then a proof outline.  Then several levels of informal proof, leading to the final complete formal proof.  None of these levels is uniquely specified.  There are many different hints possible just as there are many different formal proofs.   Most mathematicians consider their theorems proved when they get a relatively high intermediate level of proof.  Machines currently work only at the most formal level of proof.  Little wonder that while machines can check proofs, they have difficulty constructing proofs.  Our goal is to create machines that can prove nontrivial theorems.  This work is joint with Matt Humphrey, Brendan Juba, and Ryan Williams.\n\n3. The Human Oriented ID project. This is a cryptographic project to develop a challenge-response authentication protocol that a human can do entirely in his head: The human must be able to authenticate himself to a computer while a powerful adversary (one with a CRAY) -- who knows the protocol, listens on the line, and records every challenge and response -- should be incapable of learning to impersonate the human.  This is a very hard problem."
+    },
+    {
+      "name": "Christopher Bogart",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/christopher-bogart",
+      "title": "Senior Systems Scientist",
+      "email": "cbogart@cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Stephen Brookes",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/stephen-brookes",
+      "title": "Professor Emeritus",
+      "email": "sb21@andrew.cmu.edu",
+      "research_areas": [
+        "Programming Languages",
+        "Formal Methods",
+        "Pure and Applied Logic"
+      ],
+      "bio": "My main interests concern the mathematical semantics of programming languages. I believe that proper attention to semantic foundations can yield significant benefits in developing techniques for proving properties of programs, in program design, in language design and implementation.\n\nI am particularly interested in developing intensional semantic models, in which one is able to reason both about the correctness and efficiency of programs. This is in contrast to most traditional semantic models, which are extensional and focus on the input-output behavior of programs while abstracting away from computation strategy. I am working mainly on the semantic foundations of parallelism. This work includes the development of axiomatic proof techniques for establishing behavioral properties of parallel systems, design rules for parallel networks that guarantee desirable behavior such as deadlock-freedom, and the design and implementation of programming languages that employ parallelism uniformly and cleanly.\n\nA semantics for a programming language is an assignment of meanings to program terms. For a semantics to be useful it should accurately capture the computational behavior of program terms, at an appropriate level of abstraction.\n\nI believe that major improvements in the formal treatment of program properties can be achieved by paying careful attention to semantics. If we want to reason about a particular behavioral notion (such as partial correctness) we should first define a mathematical model for programs which precisely captures this behavior without being overly complicated. Ideally, we would like a fully abstract semantics: terms should be given the same meaning precisely when the terms would induce identical behavior in all program contexts. The construction of fully abstract models is by no means an easy task, and depends in any case on the underlying notion of behavior.\n\nFor modelling and reasoning about certain types of program behavior, such as partial or total correctness, an extensional semantics is satisfactory: the meaning of a program can be chosen to be a (partial) function from initial states to final states, and all details of how the program goes about its computation can be suppressed since all we really need to keep track of is the state transformation that the program induces. However, such a semantics is no use if we want to make comparisons between programs for the same function. In an extensional semantics all sorting programs have the same meaning, whereas we might well want to design a semantics with which we can compare sorting programs with different computation strategies. This motivation leads to a desire for a theory of intensional semantics. In an intensional semantics the meaning of a program is taken to be an algorithm rather than simply a function. An algorithm can be viewed as a function together with a (mathematical representation of a) computation strategy. I have recently developed a category-theoretic approach to the modelling of algorithms, and applied these ideas to the semantics of the lambda calculus. In the resulting semantic model, there is a complete partial order on algorithms and standard operations such as composition, application, and currying are continuous; thus, one may define algorithms recursively and use the standard techniques of denotational semantics (least fixed points) to reason about recursive programs, even at this intensional level. This approach using categories is rather general, and I am exploring several other possible applications.\n\nSemantic principles and insights should be used in the design of new programming languages, to avoid the development of cumbersome languages in which the programmer may have to labor to overcome the syntactic quirks and idiosyncrasies of the programming language in order to express his algorithm as a program. I am particularly interested in designing a language that embodies parallelism uniformly: it ought to be as easy to specify parallel expression evaluation as it is to specify parallel execution of statements, and it ought to be easy to put together the results of parallel activities. The choice of an appropriate set of primitives for such a language should be guided by proper attention to semantic foundations, and I am carrying out research on this topic."
+    },
+    {
+      "name": "David Brumley",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/david-brumley",
+      "title": "Professor of ECE, Affiliated Faculty",
+      "email": "dbrumley@cmu.edu",
+      "research_areas": [
+        "Security",
+        "Systems",
+        "Cryptography",
+        "Formal Methods",
+        "Security and Privacy"
+      ],
+      "bio": "My primary research area is software security techniques that give users guarantees. My research is at the intersection of model checking, formal methods, compilers, and logic, all of which are applied to security problems.  Some of the central techniques that we are developing in order to accomplish our goals include efficient symbolic execution, reasoning about bit-level arithmetic in finite fields, sound decompilation, and decision procedures.  I also work in other areas of computer security, such as network security and applied cryptography. In these areas, we look at efficient protocols, efficient signature schemes, and privacy-preserving cryptography.\n\nCurrent questions we are working on include can we automatically generate exploits?  Can we automatically develop recognizers for exploits of a particular vulnerability?  What are the limits of reverse engineering?  Can we show that Microsoft implements RSA correctly, and that they aren't stealing our secrets?  Can we show a crypto algorithm doesn't leak secrets via side-channels?  What do we need to change to keep software patches from breaking systems?  How do things change in critical systems, e.g., securing an MRI machine in a hospital? Would you want to be the first to get an MRI after a software update?\n\nIn our setting, we typically assume the software in these settings is only available in binary (i.e., executable) form.  Binary code analysis is attractive for several reasons. First, binary-level code analysis allows us to argue about the security of the code that actually executes, not just what was compiled.  Second, everyone has access to the programs they run in binary form, thus binary-only techniques promise to be widely applicable. Finally, a binary program is a program in the most basic and primitive form. If we can reason about security concerns at the binary level, we can faithfully reason about software security problems in any language."
+    },
+    {
+      "name": "Randal Bryant",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/randal-bryant",
+      "title": "Faculty Emeritus",
+      "email": "randy.bryant@cs.cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Jacobo Carrasquel",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/jacobo-carrasquel",
+      "title": "Associate Teaching Professor Emeritus",
+      "email": "jacobo@andrew.cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Iliano Cervesato",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/iliano-cervesato",
+      "title": "Teaching Professor",
+      "email": "iliano@cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Beidi Chen",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/beidi-chen",
+      "title": "Assistant Professor, Affiliated Faculty",
+      "email": "beidic@andrew.cmu.edu",
+      "research_areas": [
+        "Systems"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Tianqi Chen",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/tianqi-chen",
+      "title": "Assistant Professor",
+      "email": "tqchen@cmu.edu",
+      "research_areas": [
+        "Artificial Intelligence",
+        "Machine Learning"
+      ],
+      "bio": "I am interested in the intersection of machine learning and systems. The real excitement of this area comes from what can enable when we bring advanced learning techniques and system together. On that end, I am also pushing the direction on deep learning, knowledge transfer and lifelong learning.\n\nI am a believer of open source and open science. My research involves publishing algorithms in openly accessible mediums and building open-source machine learning systems that are widely adopted. Here are the ML systems that I created:"
+    },
+    {
+      "name": "Panos Chrysanthis",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/panos-chrysanthis",
+      "title": "Adjunct Faculty",
+      "email": "panos@cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Vincent Conitzer",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/vincent-conitzer",
+      "title": "Professor",
+      "email": "c@cmu.edu"
+    },
+    {
+      "name": "Thomas Cortina",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/thomas-cortina",
+      "title": "Teaching Professor, Associate Dean for Undergraduate Programs",
+      "email": "tcortina@andrew.cmu.edu"
+    },
+    {
+      "name": "Keenan Crane",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/keenan-crane",
+      "title": "Associate Professor",
+      "email": "kmcrane@cs.cmu.edu",
+      "research_areas": [
+        "Graphics"
+      ],
+      "bio": "My research draws on insights from differential geometry and computer science to develop fundamental algorithms for working with real-world geometric data. I received my bachelor's degree from the University of Illinois at Urbana-Champaign and my PhD from the California Institute of Technology . My most recent work was supported by an NSF Mathematical Sciences Postdoctoral Fellowship at Columbia University ."
+    },
+    {
+      "name": "Karl Crary",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/karl-crary",
+      "title": "Associate Professor, Director of Doctoral Programs",
+      "email": "crary@cmu.edu",
+      "research_areas": [
+        "Programming Languages",
+        "Security and Privacy"
+      ],
+      "bio": "My research interests are in the design and implementation of advanced programming languages and in applying programming language technology to improve the development, maintenance, and performance of software systems. I am particularly interested in the application of types to the structure and implementation of programming languages and software systems.\n\nOne current focus of my research is on mechanized metatheory. The aim of mechanized metatheory is to give proof of the properties of programming languages (for example, the type safety property says that no well-typed program can crash or otherwise violate its interface) in a form that can be checked by a computer. Not only does this give us greater confidence of the correctness of our proofs, but it also makes it possible for the proof itself to become part of a software system.\n\nFor example, we can use mechanized metatheory to provide a form of certified code. By equipping a program with a proof of type safety for the language it is provided in (this may be a source or executable language), we make it possible to determine the safety of the program automatically, simply by checking the proof and type-checking the program. Thus it is feasible to check the safety of programs in a purely automated fashion.\n\nAnother current focus of my research is on the application of certified code to operating systems.  Using certified code, we can replace the dynamic protection checks that are ubiquitous in systems today with purely static ones. Since dynamic checks can be unreliable and costly, this can improve the reliability and performance of software systems.  Moreover, static checks have greater expressive power than dynamic checks, so they can offer a greater level of protection and security than existing means."
+    },
+    {
+      "name": "Roger Dannenberg",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/roger-dannenberg",
+      "title": "Professor Emeritus",
+      "email": "rbd@cs.cmu.edu",
+      "research_areas": [
+        "Artificial Intelligence"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Tim Dettmers",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/tim-dettmers",
+      "title": "Assistant Professor",
+      "email": "dettmers@cmu.edu",
+      "research_areas": [
+        "Artificial Intelligence",
+        "Machine Learning"
+      ],
+      "bio": "My current research interests include: - open-source agents - on-device mixture of experts - hierarchical LLM architectures and deployments - scientific automation (including healthcare) - automation with AI"
+    },
+    {
+      "name": "Henry DeYoung",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/henry-deyoung",
+      "title": "Affiliated Special Faculty",
+      "email": "hdeyoung@andrew.cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Gianni Di Caro",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/gianni-di-caro",
+      "title": "Teaching Professor, Computer Science (Qatar)",
+      "email": "gdicaro@cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Chris Donahue",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/chris-donahue",
+      "title": "Assistant Professor",
+      "email": "chrisdonahue@cmu.edu",
+      "research_areas": [
+        "Artificial Intelligence",
+        "Machine Learning"
+      ],
+      "bio": "Chris's research goal is to develop and responsibly deploy generative AI for music and creativity, thereby unlocking and augmenting human creative potential. In practice, this involves improving machine learning methods for controllable generative modeling of music and audio, and deploying real-world interactive systems that allow anyone to harness generative music AI to accomplish their creative goals through intuitive forms of control. Methodologically, Chris's work centers on extending language model methods to improve controllability and address domain-specific challenges found in audio and music, such as modeling long contexts or generating in real-time with minimal delay."
+    },
+    {
+      "name": "Dave Eckhardt",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/dave-eckhardt",
+      "title": "Teaching Professor",
+      "email": "de0u@andrew.cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Christos Faloutsos",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/christos-faloutsos",
+      "title": "Fredkin University Professor of Computer Science",
+      "email": "christos@andrew.cmu.edu",
+      "research_areas": [
+        "Artificial Intelligence",
+        "Systems",
+        "Databases",
+        "Distributed Systems",
+        "Machine Learning"
+      ],
+      "bio": "There are two main focus areas: graph mining and stream mining. In the first, the goal is to find patterns in large graphs, so that we can spot anomalies, communities, patterns and regularities. Graphs appear in many instances: as document-term bipartitegraphs in Information retrieval, as web pages or blogs linking to each other, as customer-product recommendations, as protein-protein regulatory networks, as computer-network traffic, and many more. Our emphasis is on scalability, so that we can handle graphs withthousands and millions of nodes. Research directions include time-evolving graphs, where we have beenusing 'tensors' to find patterns, as well as graphs where the nodes and/or the edges have attributes.\n\nThe second research area focuses on streams, which are semi-infinitenumerical time series. The setting also has numerous applications, like sensor data monitoring, motion capture data, automatic alerts in the 'self-*' PetaByte storage system, chlorine level monitoring on the drinking water, and several more. The emphasis is to develop algorithms that inspect every measurementonly once, and then discard it, since we can not affort to store the huge volume of historical data.\n\nThe common threads in both areas are the power-laws and the existenceof self-similarity. Real graphs have skewed, Zipf-like degree distributions, and consist of communities-within-communities. Similarly, real sensor measurements are often bursty, but still self-similar, with bursts within bursts. We use or develop tools that exactly exploit the power laws and self-similarity, to find better patterns and anomalies than standard tools would find.\n\nkeywords: Database Management Systems, Data Mining, Graphs, Social Networks, Network Security."
+    },
+    {
+      "name": "Giulia Fanti",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/giulia-fanti",
+      "title": "Associate Professor, Affiliated Faculty",
+      "email": "gfanti@andrew.cmu.edu"
+    },
+    {
+      "name": "Matt Fredrikson",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/matt-fredrikson",
+      "title": "Associate Professor",
+      "email": "mfredrik@cmu.edu",
+      "research_areas": [
+        "Programming Languages",
+        "Formal Methods",
+        "Security and Privacy"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Alan Frieze",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/alan-frieze",
+      "title": "University Professor, Affiliated Faculty",
+      "email": "frieze@cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Gregory Ganger",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/gregory-ganger",
+      "title": "Professor, Affiliated Faculty",
+      "email": "ganger@ece.cmu.edu",
+      "research_areas": [
+        "Systems",
+        "Data-Intensive and Cloud Computing",
+        "Distributed Systems"
+      ],
+      "bio": "I have broad research interests in computer systems, including cloud computing, storage/file systems, operating systems and distributed systems. I am involved in several ongoing projects in such areas as systems for large-scale ML, cloud/cluster resource scheduling, and exploitation of new storage/NVM technologies.\n\nBig-learning systems for Big Data\n\nModern data analytics often relies on statistical machine learning (ML) to parameterize models that fit observation data, for use in making predictions, correlating causes with effects, etc. Growth in data and desired model precision dictate parallel execution of ML algorithms on clusters, with the corresponding work distribution, synchronization, and data consistency challenges. The big-learning group is exploring powerful new approaches for efficient, scalable, and robust big-learning on Big Data.\n\nCloud Computing\n\nWe are exploring software systems challenges in efficiently supporting and exploiting cloud computing, such as resource allocation/scheduling and exploiting elasticity for stateful services (e.g., storage) and long-running computations (e.g., large-scale ML).\n\nParallel Data Lab (PDL)\n\nAs a faculty member of the Parallel Data Lab, I lead and collaborate on a number of storage-related projects in areas such as storage system architecture, file systems, and Big Data systems. For example, in addition to the activities discussed above, we are exploring how system software should change to accommodate new storage technologies like non-volatile RAM (e.g., PCM) and best exploit Flash."
+    },
+    {
+      "name": "David Garlan",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/david-garlan",
+      "title": "Professor",
+      "email": "garlan@cs.cmu.edu",
+      "research_areas": [
+        "Programming Languages",
+        "Security",
+        "Formal Methods",
+        "Mobile and Pervasive Computing",
+        "Security and Privacy",
+        "Software Engineering"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Charlie Garrod",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/charlie-garrod",
+      "title": "Associate Teaching Professor, Director of the CSD Undergraduate Program",
+      "email": "charlie@cmu.edu"
+    },
+    {
+      "name": "Phillip Gibbons",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/phillip-gibbons",
+      "title": "Professor",
+      "email": "gibbons@cs.cmu.edu",
+      "research_areas": [
+        "Systems"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Garth Gibson",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/garth-gibson",
+      "title": "Consulting Professor",
+      "email": "garth@cmu.edu",
+      "research_areas": [
+        "Data-Intensive and Cloud Computing",
+        "Distributed Systems"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Virgil Gligor",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/virgil-gligor",
+      "title": "Professor, Affiliated Faculty",
+      "email": "gligor@cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Seth Goldstein",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/seth-goldstein",
+      "title": "Associate Professor",
+      "email": "seth@cmu.edu",
+      "research_areas": [
+        "Programming Languages",
+        "Systems",
+        "Computer Architecture",
+        "Distributed Systems"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Vipul Goyal",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/vipul-goyal",
+      "title": "Adjunct Faculty",
+      "email": "vipul@cmu.edu",
+      "research_areas": [
+        "Security",
+        "Theory",
+        "Cryptography"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Meredith Grelli",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/meredith-grelli",
+      "title": "Associate Teaching Professor of Entrepreneurship, Assistant Dean for Entrepreneurship Initiatives",
+      "email": "mmgrelli@cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Anupam Gupta",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/anupam-gupta",
+      "title": "Adjunct Faculty",
+      "email": "ag@andrew.cmu.edu",
+      "research_areas": [
+        "Artificial Intelligence",
+        "Theory",
+        "Algorithms and Complexity"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Venkatesan Guruswami",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/venkatesan-guruswami",
+      "title": "Adjunct Faculty",
+      "email": "venkatg@cs.cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Mohammad Hammoud",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/mohammad-hammoud",
+      "title": "Associate Teaching Professor, Computer Science (Qatar)",
+      "email": "mhhamoud@cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Mor Harchol-Balter",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/mor-harcholbalter",
+      "title": "Dr. Bruce J. Nelson Professor of Computer Science",
+      "email": "harchol@andrew.cmu.edu"
+    },
+    {
+      "name": "Robert Harper",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/robert-harper",
+      "title": "Professor",
+      "email": "rwh@cs.cmu.edu",
+      "research_areas": [
+        "Programming Languages",
+        "Formal Methods",
+        "Networking",
+        "Pure and Applied Logic",
+        "Security and Privacy",
+        "Software Engineering",
+        "Type Theory"
+      ],
+      "bio": "The goal of my research is to develop a comprehensive theory of programming that integrates with the practice of software development.  The premise of my research is that programming is an explanatory activity, a form of expression intended to convey an idea that is both comprehensible by other people and executable by a computer.  Language therefore plays a central role in programming.  The overall goal of my work is to develop a language for computation that serves both purposes.\n\nThe focus of my work is on the development and application of type theory as the language of computation.  As the name implies, the central organizing principle of type theory is the concept of a type.  For example, familiar tree and graph structures may be viewed as instances of the general concept of an inductive type, infinitary data structures such as streams of values may be viewed as coinductive types, and language features such procedures or objects may be viewed as instances of the general concept of a function.  A beauty of type theory is that it provides a rich framework that accounts not only for the computational aspects of programming, but also the reasoning involved in ensuring that a program behaves correctly.  The main tool is the propositions-as-types principle in which specifications, or propositions, are identified with types, and proofs are identified with programs.  A proof, after all, is a step-by-step procedure for transforming assumptions into conclusions; it is, therefore, a program that takes assumptions as inputs and produces proofs as outputs.  The theorem statement is a specification, or type, of this input-output behavior.  Another beauty is that type theory connects directly to the language of mathematics through the concept of a category, a very general kind of algebraic structure.  Types correspond to structures, such as topological spaces, and programs correspond to structure-preserving mappings between them.  This provides a pathway for integrating the language of mathematics with the language of programming."
+    },
+    {
+      "name": "Khaled Harras",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/khaled-harras",
+      "title": "Senior Associate Dean, Faculty / Director, HBJ Center for CS Education / Teaching Professor, Computer Science (Qatar)",
+      "email": "kharras@qatar.cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Marijn Heule",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/marijn-heule",
+      "title": "Associate Professor",
+      "email": "marijn@cmu.edu",
+      "research_areas": [
+        "Programming Languages",
+        "Formal Methods",
+        "Pure and Applied Logic"
+      ],
+      "bio": "My research focuses on solving hard problems automatically with having high confidence in the results. \nWhile humans are great at many aspects of problem  solving, we are no match for computers in a range of ways,  \nincluding precise logical reasoning. Such reasoning is crucial in industry and academia, for \ninstance to ensure that computer systems work exactly as intended, in fields ranging from health care to finance to aviation. \nThe main themes of my research are described below.\n\nTrusted Computing. Fully automated reasoning tools are frequently used in industry to \ndetermine the presence or absence of bugs in hardware or software and in academia to solve long-standing open problems. \nYet these tools are often highly complex, which raises the question of whether we can trust their results. \nThis question is particularly important when such tools are used to determine the correctness of safety-critical systems. \nHere, correctness means that there exists no input that violates the safety requirements. \nI have been working on developing proof systems that can compactly express that the entire search space has been explored and, \nin addition, on efficient, formally-verified tools to validate statements in these proof systems.\n\nReasoning and Understanding. Human proofs and computer-generated proofs differ in many aspects. \nAn argument often heard is that human proofs provide us with understanding \nwhereas computer-generated proofs merely show the correctness of a statement. \nWhile there is some truth to this argument, it is also true that modern proof-checking tools can actually provide us \nwith many important insights into the nature of a problem. Ultimately, I aim to transform computer-generated proofs \ninto humanly understandable arguments. Such arguments could provide us with insights into how problems have been solved, \nwhich in turn could allow mathematicians to construct smaller proofs.\n\nStrong Proof Systems. Automated reasoning can fail miserably on seemingly easy problems due to the weakness of \ncommonly used proof systems that do not support reasoning at a high level of abstraction. \nTo deal with this issue, I have been developing new proof systems that not only generalize \nstrong existing proof systems, but that are also well suited for mechanization. \nThere exist short arguments in these proof systems for many well-known problems that are hard for existing automated-reasoning approaches. \nThe key to solving problems that require some form of abstract reasoning is not the ability to simulate human thinking, \nbut rather to equip the machine with appropriate reasoning capabilities to find its own short arguments.\n\nRepresenting Problems. A common approach in automated reasoning is to translate a given application \ninstance into propositional logic and then solve the resulting formula with a dedicated solver. \nSince the quality of the translation has a big impact on the solver performance, it is \nno coincidence that solvers are highly successful in the field of hardware verification: digital electronic \ncircuits have a direct translation to propositional logic which is often adequate for solving. \nHowever, the same is not true for many other applications. I have been studying how to automatically \nfix translations so that non-experts can achieve strong solver performance on their applications.\n\nReasoning in the Cloud. Supercomputers offer enormous potential to solve hard reasoning problems. \nHowever, to capitalize on this potential, we need to find ways to distribute computation evenly over many different cores, \nwhich is far from trivial. I have been working on a new parallel solving paradigm, called Cube-and-Conquer, \nthat has been successful in realizing this goal for some long-standing open problems in mathematics. \nI envision a future in which automated reasoning will be a cloud service to solve both easy and hard problems. \nThis service will not only be able to answer many important questions in industry and academia; it will also allow \nexternal validation of enormous proofs and provide explanations that help us understand its results."
+    },
+    {
+      "name": "Jessica Hodgins",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/jessica-hodgins",
+      "title": "Allen Newell University Professor of Computer Science And Robotics",
+      "email": "jkh@cmu.edu",
+      "research_areas": [
+        "Graphics",
+        "Computational Neuroscience",
+        "Robotics"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Jan Hoffmann",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/jan-hoffmann",
+      "title": "Associate Professor",
+      "email": "jhoffmann@cmu.edu",
+      "research_areas": [
+        "Programming Languages",
+        "Formal Methods",
+        "Security and Privacy"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Farnam Jahanian",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/farnam-jahanian",
+      "title": "President, Professor",
+      "email": "president@cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Aayush Jain",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/aayush-jain",
+      "title": "Assistant Professor",
+      "email": "aayushja@andrew.cmu.edu",
+      "research_areas": [
+        "Theory",
+        "Cryptography"
+      ],
+      "bio": "I am interested in theoretical and applied cryptography, and its connections with related areas of theoretical computer science."
+    },
+    {
+      "name": "Limin Jia",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/limin-jia",
+      "title": "Research Professor, Affiliated Faculty",
+      "email": "liminjia@cmu.edu"
+    },
+    {
+      "name": "Zhihao Jia",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/zhihao-jia",
+      "title": "Assistant Professor",
+      "email": "zhihao@cmu.edu",
+      "research_areas": [
+        "Artificial Intelligence",
+        "Systems"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Michael Kaminsky",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/michael-kaminsky",
+      "title": "Adjunct Scientist",
+      "email": "mkaminsky@cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Takeo Kanade",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/takeo-kanade",
+      "title": "SCS Founders University Professor",
+      "email": "kanade@cmu.edu",
+      "research_areas": [
+        "Robotics"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Christos Kapoutsis",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/christos-kapoutsis",
+      "title": "Associate Teaching Professor, Computer Science (Qatar)",
+      "email": "cak@cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Zeliha Dilsun Kaynar",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/zeliha-dilsun-kaynar",
+      "title": "Associate Teaching Professor",
+      "email": "dilsun@cs.cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Fatma Kilinc-Karzan",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/fatma-kilinckarzan",
+      "title": "Professor of Operations Research, Affiliated Faculty",
+      "email": "fkilinc@andrew.cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Anne Kohlbrenner",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/anne-kohlbrenner",
+      "title": "Assistant Teaching Professor",
+      "email": "akohlbre@cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Zico Kolter",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/zico-kolter",
+      "title": "Professor, Affiliated Faculty",
+      "email": "zkolter@cs.cmu.edu",
+      "research_areas": [
+        "Artificial Intelligence",
+        "Theory"
+      ],
+      "bio": "My group’s work focuses on machine learning very broadly. Much of our work aims at making deep learning algorithms more robust, safer, and understanding how data impacts how models function. To these ends, we have worked on methods for assessing and improving the robustness of deep learning systems, building complex “modules” (such as optimization solvers) within the loop of deep architectures, and building new types of architectures for deep networks"
+    },
+    {
+      "name": "David Kosbie",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/david-kosbie",
+      "title": "Teaching Professor",
+      "email": "koz@cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Pravesh Kothari",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/pravesh-kothari",
+      "title": "Adjunct Faculty",
+      "email": "praveshk@andrew.cmu.edu",
+      "research_areas": [
+        "Theory"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Aviral Kumar",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/aviral-kumar",
+      "title": "Assistant Professor",
+      "email": "aviralku@andrew.cmu.edu",
+      "research_areas": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Robotics"
+      ],
+      "bio": "Aviral's research focuses on reinforcement learning and decision-making, in particular on offline reinforcement learning, scaling up reinforcement learning, and more recently on the intersection of reinforcement learning and foundation models."
+    },
+    {
+      "name": "Swarun Kumar",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/swarun-kumar",
+      "title": "Professor, Affiliated Faculty",
+      "email": "swarun@cmu.edu",
+      "research_areas": [
+        "Systems",
+        "Distributed Systems",
+        "Mobile and Pervasive Computing",
+        "Networking"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "William Kuszmaul",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/william-kuszmaul",
+      "title": "Assistant Professor",
+      "email": "kuszmaul@cmu.edu",
+      "research_areas": [
+        "Theory",
+        "Algorithms and Complexity"
+      ],
+      "bio": "William's research focuses on designing and analyzing randomized algorithms and data structures."
+    },
+    {
+      "name": "Alexandros Labrinidis",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/alexandros-labrinidis",
+      "title": "Adjunct Faculty",
+      "email": "labrinid+@cs.cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Tai-Sing Lee",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/taising-lee",
+      "title": "Professor",
+      "email": "taislee@cmu.edu",
+      "research_areas": [
+        "Artificial Intelligence",
+        "Computational Neuroscience"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Golan Levin",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/golan-levin",
+      "title": "Professor of Art / Director of SFCI, Affiliated Faculty",
+      "email": "golan@andrew.cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Jason Li",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/jason-li",
+      "title": "Assistant Professor",
+      "email": "jmli@andrew.cmu.edu",
+      "research_areas": [
+        "Theory",
+        "Algorithms and Complexity"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Minchen Li",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/minchen-li",
+      "title": "Assistant Professor",
+      "email": "minchenl@andrew.cmu.edu",
+      "research_areas": [
+        "Graphics",
+        "Machine Learning",
+        "Robotics"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Yang Liu",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/yang-liu",
+      "title": "Assistant Professor",
+      "email": "yangpliu@cmu.edu",
+      "research_areas": [
+        "Theory",
+        "Algorithms and Complexity"
+      ],
+      "bio": "I am broadly interested in mathematics and theoretical computer science, with particular interests in graph algorithms, optimization, high-dimensional geometry, and additive combinatorics."
+    },
+    {
+      "name": "Brandon Lucia",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/brandon-lucia",
+      "title": "Professor, Affiliated Faculty",
+      "email": "blucia@andrew.cmu.edu",
+      "research_areas": [
+        "Programming Languages",
+        "Systems",
+        "Computer Architecture"
+      ],
+      "bio": "I am an assistant professor in the department of Electrical and Computer Engineering at Carnegie Mellon University. I do research on the boundary between computer architecture, computer systems, and programming languages to make computer systems more capable, more reliable, and more efficient. I lead the abstract research group (http://abstract.ece.cmu.edu).\n\nHere are some of my current research interests:\n\nDefining Intermittent Computing: We are working to make intermittent computing devices that harvest energy from their environment, programmable, reliable, and robust to common-case power failures (http://intermittent.systems). These devices are really exciting because they are a great fit for sensing, medical implants, \"extreme\" scenarios (like outer space!) and lots of other things. Watch this video (https://youtu.be/mHb-C12nI2o) for a 3 minute overview of our work in this area.\n\nSafe, Simple, & Efficient Future Parallel Computing: We are working to create better software systems and computer architectures that make parallel computing correct, reliable, and efficient. The problem space is especially interesting now with the end of Moore's Law and Dennard Scaling, and the move to crazy heterogeneous parallel systems, approximate computing, distributed system architectures, and emerging (e.g., non-volatile, biological) technology maturing and becoming useful."
+    },
+    {
+      "name": "John Mackey",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/john-mackey",
+      "title": "Teaching Professor",
+      "email": "jmackey@andrew.cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Ruben Martins",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/ruben-martins",
+      "title": "Assistant Research Professor, Master’s Program Director",
+      "email": "rubenm@andrew.cmu.edu",
+      "research_areas": [
+        "Systems"
+      ],
+      "bio": "Research interests lie in the intersection of constraint programming with program synthesis, analysis, and verification. Recent research focuses on using programming synthesis to improve programmer’s productivity and to automate data science-related tasks."
+    },
+    {
+      "name": "Gary Miller",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/gary-miller",
+      "title": "Professor Emeritus",
+      "email": "gm2f@andrew.cmu.edu",
+      "research_areas": [
+        "Theory",
+        "Algorithms and Complexity"
+      ],
+      "bio": "My main interest is in sequential and parallel algorithm design. Of particular interest are problems that arise in scientific computation and image processing. We have been working on three classes of problems. Our work is both more theoretical yet more practical since we require two important properties of our algorithms: they should be both be fast and have strong guarantees of quality, size, and speed.\n\nMesh Generation The question of correctly and efficiently partitioning space into tetrahedra with good aspect ratio so that the features appear in the mesh is at least a fifty year old problem. The computer science community has been working on this problem for about twenty years. The most accurate simulations in the science, engineering, and graphic require small size quality meshes. CMU has been a leader on this problem for the last fifteen years.\n\nSpectral Graph Theory The interplay between graph theory and linear algebra is possibly one of the most interesting and practical areas in modern algorithm design. Possibly the most famous example is Google PAGE-RANK which is the Perron-Frobenius eigenvector of the link graph. The second example is the interplay between fast linear solvers and graph theory. We have ongoing collaboration on fast solvers and eigen calculations. These new algorithm work in near linear time.\n\nImage Processing We are interested in fast and reliable algorithm for image processing. Of special interest is 3D medical image processing. Our main tool that allows us to get new fast algorithms is spectral graph theory. This has allowed us to compute eigenvectors of our image as speed comparable to many simple filtering algorithms. We are also using interior point methods from convex optimization to de-noise images. Again these methods all use our fast solvers for speed."
+    },
+    {
+      "name": "Tom Mitchell",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/tom-mitchell",
+      "title": "SCS Founders University Professor",
+      "email": "tommitchell@cmu.edu",
+      "research_areas": [
+        "Artificial Intelligence",
+        "Computational Neuroscience",
+        "Machine Learning"
+      ],
+      "bio": "I am interested in many areas of computer science, but especially in how to construct computers that learn from experience.  At the heart of the problem of machine learning is the question of how to automatically formulate general hypotheses given a collection of very specific training examples. My research has addressed a number of approaches to this question, including statistical approaches that find regularities over large numbers of training examples, and analytical approaches that generalize from very few examples and rely instead on prior knowledge and reasoning.\n\nMuch of my current research focuses around two projects:\n\nMachine learning approaches to analyzing human brain activity. This project uses functional Magnetic Resonance Imaging (fMRI) to capture three-dimensional images of human brain activity at a spatial resolution of 1mm, once per second.  This is a wonderful set of data for studying the operation of the human brain, and because it is relatively new, there is a great need for new algorithms to analyze the data.  Recently we have demonstrated that it is possible to train machine learning algorithms to decode mental states of human subjects (e.g., to determine whether the word a person is examining is a noun or a verb) based on their observed fMRI brain activity.  I am interested in developing new algorithms that will help discover the spatial-temporal patterns of activity associated with a variety of brain processes, and that will help us better understand the working of the human brain.  We have access to the CMU-University of Pittsburgh  Brain Imaging Research Center, to design and collect data for our own experiments.\n\nThis project raises interesting machine learning questions such as how to train classifiers in extremely high dimensional, noisy data, and how to learn temporal models that characterize the evolution of hidden cognitive states while humans perform tasks such as reading and answering questions.\n\nIntelligent workstation assistants that learn to help their users. This is part of a large multi-researcher project to build enduring, personalized, learning assistants for users of computer workstations (like us!).  We are working toward a software agent that can understand the user's email, calendar, text files, and actions, and that can learn the user's interests, habits, and tasks, in order to help in a wide range of activities.  My specific interest lies in how to make the agent learn.  For example, I am currently interested in the question of how the agent can learn to automatically extract information from text emails and files, and how it can learn what threads of activities the user is involved in, when, with whom, about what, etc.  This project raises many interesting machine learning questions about learning from labeled and unlabeled data, about learning and statistical language processing, and about cumulative learning over long periods of time."
+    },
+    {
+      "name": "Stefan Mitsch",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/stefan-mitsch",
+      "title": "Adjunct Faculty",
+      "email": "smitsch@cs.cmu.edu"
+    },
+    {
+      "name": "Todd Mowry",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/todd-mowry",
+      "title": "Professor",
+      "email": "tcm@cs.cmu.edu",
+      "research_areas": [
+        "Systems",
+        "Computer Architecture",
+        "Databases"
+      ],
+      "bio": "The goal of my research is to dramatically boost the performance of future microprocessor-based systems. To accomplish this, we exploit various forms of parallelism through a combination of novel architectural, compiler and operating systems support. In particular, we have been focusing on the opportunities and challenges created by two important VLSI technology trends which are expected to reshape computer systems over the next decade: the potential for single-chip multiprocessing due to higher levels of single-chip integration, and the need to tolerate off-chip latency as the gap between processor speed and the speed of memory and I/O continues to widen.\n\nSingle-Chip Multiprocessing: The STAMPede Project. As advances in integrated circuit technology continue to provide more and more transistors on a chip, processor architects are faced with the pleasant challenge of finding the best way to translate these additional resources into improved performance. One of the more compelling options is to integrate multiple processors onto the same chip. While this will certainly increase computational throughput, it will only reduce execution time of a given application if it can be run in parallel. Hence the key question is how do we convert the applications that we care about into parallel programs? Expecting programmers to only write parallel programs from now on is unrealistic. Instead, the preferred solution would be for the compiler to parallelize programs automatically. Unfortunately, compilers have only been successful so far at parallelizing the numeric applications commonly run on supercomputers. For single-chip multiprocessing to have an impact on the majority of users, we must also find a way to automatically parallelize the non-numeric applications (e.g., spreadsheets, web software, graphics codes, etc.) which account for the bulk of the software run on commercial microprocessors. Based on our preliminary studies, we believe that a breakthrough in our ability to automatically parallelize non-numeric applications may be possible through \"thread-level data speculation\", which is a technique that allows the compiler to safely parallelize applications in cases where it believes that dependences are unlikely, but cannot statically prove that they do not exist. To accomplish this, we add modest hardware support to track data dependence violations at run-time and alert the software so that it can recover appropriately. Developing the architectural, compiler, and operating system support necessary to turn this potential into a reality is the goal of the STAMPede (Single-chip Tightly-coupled Architecture for MultiProcessing) project.\n\nCoping with Large Latencies. Processor speeds are continuing to increase far more rapidly than off-chip components such as DRAM, disk, and networks, largely due to physical limitations such as distance and the speed of light. The challenge presented by this trend is that from the processor's perspective, the latency of main memory and I/O is increasing at a dramatic rate, and thus threatens to become an increasingly important performance bottleneck. The good news, however, is that the bandwidth of these off-chip devices has been improving through innovations such as synchronous (i.e. pipelined) DRAM, disk arrays, and fiber optic networks. Therefore we are exploring new ways that the compiler (with varying degrees of help from the hardware and the operating system) can use prefetching and other techniques to intelligently trade off consuming more bandwidth to reduce overall latency. Recent work in this area has included prefetching pointer-based codes, prefetching to hide disk latency in out-of-core numeric applications, and hiding network communication latency in workstation clusters."
+    },
+    {
+      "name": "Ryan O'Donnell",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/ryan-odonnell",
+      "title": "Professor",
+      "email": "odonnell@cs.cmu.edu",
+      "research_areas": [
+        "Theory",
+        "Algorithms and Complexity",
+        "Security and Privacy"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "David O'Hallaron",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/david-ohallaron",
+      "title": "Professor Emeritus",
+      "email": "droh@andrew.cmu.edu",
+      "research_areas": [
+        "Computer Architecture"
+      ],
+      "bio": "I work in the area of computer systems. My interests within computer systems are quite broad, including online education, cloud computing, and scientific computing. My main interest these days is the phenomena surrounding autograding, that is, programs evaluating other programs.\n\nThe CMU Autolab group is developing a new cloud-based service that teachers around the world can use to offer programming labs for their computer classes. The service is based on the notion of autograding, that is, programs evaluating other programs. Our vision is that teachers can select the labs for their classes from a repository of high-quality labs written by other teachers and students. An author whose lab is adopted for a class receives community recognition, in the form of a public adoptions page, and possibly even a small royalty. Each time a student hands in their work for credit, the service spins up a new VM and autogrades the student's work in this new VM. The scores are displayed, anonymized, on a realtime scoreboard that is visible to everyone in the class.\n\nOur aim with this work is to improve the quality of computer science education worldwide by providing a way for teachers to share their good labs with each other. This sharing will enable good teachers to get credit for their work from their peers. The assignment of credit, in turn, will help foster the birth of a new reputation-based community for teachers. Researchers have enjoyed this kind of community for years, but teachers have never developed one, working for the most part in isolation, with little opportunity to learn and benefit from each other.\n\nStudents who are passionate about education would enjoy working with us. Drop by any time if you want to chat."
+    },
+    {
+      "name": "Matthew O'Toole",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/matthew-otoole",
+      "title": "Associate Professor",
+      "email": "motoole2@andrew.cmu.edu",
+      "research_areas": [
+        "Graphics",
+        "Robotics"
+      ],
+      "bio": "I am an Assistant Professor with the Robotics Institute and Computer Science Department in the School of Computer Science at Carnegie Mellon University. My research interests span many topics across computer graphics and computer vision, but I’m particularly interested in computational imaging: a field that combines optics, electronics, and computational processing to capture or display new forms of visual information.\n\nPrior to joining CMU, I was a Banting Postdoctoral Fellow with Gordon Wetzstein ‘s Computational Imaging group at Stanford University. Before that, I received my Ph.D. in Computer Science at the University of Toronto under the supervision of Kyros Kutulakos in 2016, along with an M.Sc. in 2009. I took a break from Toronto in 2011 to be a visiting student with the MIT Media Lab’s Camera Culture group led by Ramesh Raskar . I also completed an undergraduate degree in honours Computer Science and Mathematics from the University of British Columbia in 2007 under the supervision of Abhijeet Ghosh and Wolfgang Heidrich , and worked for various companies including NVIDIA , EA , and MDA .\n\nI spend a lot of time thinking about computational imaging, a field that combines optics, electronics, and processing in new and interesting ways to capture and display visual information. In particular, I’m interested in using programmable lights and cameras to analyze the world around us.\n\nMy work was the recipient of a couple of runner-up best paper awards at ICCV 2007 and CVPR 2014, best demo awards at CVPR 2015 and ICCP 2015, and a runner-up dissertation award at SIGGRAPH 2017. I was also a co-organizer of the CVPR workshop on Computational Cameras and Displays in 2016 and 2017, and taught a course on the subject at SIGGRAPH 2014. My research is supported by the Banting Postdoctoral Fellowships program administered by the Government of Canada."
+    },
+    {
+      "name": "Bryan Parno",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/bryan-parno",
+      "title": "Professor",
+      "email": "parno@cmu.edu",
+      "research_areas": [
+        "Programming Languages",
+        "Security",
+        "Systems",
+        "Cryptography",
+        "Distributed Systems",
+        "Formal Methods",
+        "Operating Systems",
+        "Security and Privacy",
+        "Software Verification"
+      ],
+      "bio": "My research is primarily focused on investigating long-term, fundamental improvements in how to design and build secure systems.  As a result, my work combines theory and practice to provide formal, rigorous security guarantees about concrete systems, with an emphasis on creating solid foundations for practical solutions.  In the past, I have worked on topics such as network and system security, applied cryptography, usable security, and data privacy.\n\nBelow are two of my long-running research directions, both focused on providing users with strong guarantees about the security of remote services.\n\nTo provide strong guarantees for outsourced computations, we developed a new cryptographic framework, Verifiable Computation, which allows clients to outsource general computations to completely untrusted services and efficiently verify the correctness of each returned result.  Through improvements to the theory and the underlying systems over the last few years, we reduced the costs of verification by over twenty orders of magnitude.  As a result, verifiable computation is now a thriving research area that has produced several startups, as well as enhancements to the security and privacy of X.509, MapReduce, and Bitcoin.  We are continuing to explore improvements and applications in this space, as well as other settings where cryptographic advances can be deployed to create fundamentally more secure services.\n\nWhile verifiable computation provides strong guarantees, even the best cryptographic system is useless if implemented badly, applied incorrectly, or used in a vulnerable system.  Thus, I have led a team of researchers and engineers in the Ironclad project ( https://github.com/Microsoft/Ironclad ), Everest project ( https://project-everest.github.io/ ), and Verus project ( https://github.com/verus-lang/verus ), working to expand formal software verification to provide end-to-end guarantees about the security and reliability of complex systems.  Many interesting challenges remain, including improving the performance of verifiers and verified code, and enhancing the stability of automated proofs.  Nonetheless, I expect that verification will fundamentally improve the software that underpins our digital and physical infrastructure."
+    },
+    {
+      "name": "Jignesh Patel",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/jignesh-patel",
+      "title": "Professor; Interim Department Head, Computer Science Department",
+      "email": "jignesh@cmu.edu",
+      "research_areas": [
+        "Systems",
+        "Data-Intensive and Cloud Computing",
+        "Databases"
+      ],
+      "bio": "My research is in database management, and it is organized into two themes. The first theme focuses on designing data processing methods that work synergistically with hardware to deliver high performance to database applications. The second theme focuses on expanding the scope of data platforms, and one aspect of this theme is using a no-code approach to make data science accessible to a broad set of users.\n\nA common aspect of my research is building actual systems to fully understand the end-to-end impact of the underlying research.\n\nHigh-Performance Database Systems: Harnessing Hardware-Software Synergies\n\nDatabase systems have a long history of working synergistically with hardware to deliver high performance. For most of this five-decade history, these synergies were realized in a decoupled manner. For its part, the hardware community was operating under the umbrella of Moore’s Law and continually producing faster processors, and denser and faster storage. Once these devices were ready, the database community adapted their software to these new devices. This mode of operation worked well for decades as hardware was getting faster at a breakneck speed. If database applications demanded twice the performance every 2-3 years and the underlying hardware improved at the same rate, then the database industry could meet application demands by simply ensuring that the database software used the new hardware effectively.\n\nThe slowing down of Moore’s Law over the last decade has shifted this dynamic. Without a dramatic new approach, we are headed to a future in which performance-hungry database applications will either use more and more resources (using parallel database technologies) or will need to find a way to live with lower performance. Neither of these options is satisfactory, as the former is not a path to endless scaling (further, it is expensive both from the cost and the energy efficiency perspectives), and the latter is not acceptable in many application settings.\n\nIn my research group, we are exploring an alternative path, namely, to reimagine the algorithms that are used inside a database engine so that they can work at “bare metal speeds.” We couple this approach with a hardware-software collaborative approach in which we are working closely with architects to rethink the entire database stack on new hardware that aims to package computing and storage closely. Both these research thrusts build on each other and are synergistic in driving towards a simple vision: to deliver to database applications the effect of Moore’s Law but through a true hardware-software synergistic approach.\n\nDemocratizing Data Analytics\n\nThe other theme of my research is focused on the productivity of end users of data platforms. A key current project focuses on data science users, in which we allow a user to express a range of data science/analytics tasks using a no-code approach. The appealing aspect of this perspective is that it presents a natural way for end users to express a broad range of complex tasks, including data wrangling, structured query processing (SQL), machine learning, and visualization using a unified no-code interface. This research has become the central focus of a startup called DataChat."
+    },
+    {
+      "name": "Richard Pattis",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/richard-pattis",
+      "title": "Undergraduate Advisor",
+      "email": "pattis@andrew.cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Andrew Pavlo",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/andrew-pavlo",
+      "title": "Associate Professor",
+      "email": "pavlo@cs.cmu.edu"
+    },
+    {
+      "name": "Richard Peng",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/richard-peng",
+      "title": "Associate Professor",
+      "email": "yangp@andrew.cmu.edu",
+      "research_areas": [
+        "Theory",
+        "Algorithms and Complexity"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Frank Pfenning",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/frank-pfenning",
+      "title": "Professor",
+      "email": "fp@cmu.edu"
+    },
+    {
+      "name": "Babu Pillai",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/babu-pillai",
+      "title": "Associate Teaching Professor",
+      "email": "pspillai@andrew.cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Nancy Pollard",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/nancy-pollard",
+      "title": "Professor",
+      "email": "npollard@andrew.cmu.edu",
+      "research_areas": [
+        "Graphics",
+        "Computational Neuroscience",
+        "Robotics"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Aditi Raghunathan",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/aditi-raghunathan",
+      "title": "Assistant Professor",
+      "email": "raditi@cmu.edu"
+    },
+    {
+      "name": "Brian Railing",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/brian-railing",
+      "title": "Associate Teaching Professor",
+      "email": "bpr@cs.cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "R. Ravi",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/r-ravi",
+      "title": "Vasantrao Dempo Professor of Operations Research and Computer Science, Affiliated Faculty",
+      "email": "ravi@andrew.cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Raj Reddy",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/raj-reddy",
+      "title": "Moza Bint Nasser University Professor",
+      "email": "rr@cmu.edu",
+      "research_areas": [
+        "Artificial Intelligence",
+        "Robotics"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Giselle Reis",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/giselle-reis",
+      "title": "Area Head, Computer Science / Associate Teaching Professor, Computer Science (Qatar)",
+      "email": "giselle@cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Ryan Riley",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/ryan-riley",
+      "title": "Associate Area Head, Computer Science / Associate Teaching Professor, Computer Science (Qatar)",
+      "email": "rileyrd@cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Kelly Rivers",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/kelly-rivers",
+      "title": "Associate Teaching Professor",
+      "email": "krivers@andrew.cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Feras Saad",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/feras-saad",
+      "title": "Assistant Professor",
+      "email": "fsaad@andrew.cmu.edu",
+      "research_areas": [
+        "Artificial Intelligence",
+        "Programming Languages",
+        "Theory"
+      ],
+      "bio": "The goal of my research is to develop new techniques for building scalable computing systems that enable flexible probabilistic modeling and sound probabilistic inference.\n\nBy integrating ideas from programming languages and probabilistic AI, we seek to improve our ability to engineer powerful reasoning systems with a higher degree of automation, accuracy, and scale as compared to existing approaches.\n\nMy interests in this problem span the computing stack---from foundational questions (e.g., how to represent probability on computers) to programming systems (languages, semantics, and compilers for probabilistic programs) up to statistical models and algorithms for tackling high-impact data science problems. Current research interests include:\n\nProbabilistic Programming. Researchers in diverse areas (e.g., econometrics, cognitive science, bioinformatics) work hard to develop computational models of uncertain data and perform inference from observed data to learn about the underlying data-generating process. Probabilistic programs, which produce outputs by making random choices, are a unifying and uniquely expressive approach to modeling and inference over these processes. Our focus lies in developing specialized programmable systems that aim to rigorously formalize the semantics of probabilistic models, automate the process of discovering these models for complex data, and scale-up the very hard aspects of probabilistic inference in high-dimensional settings.\n\nAutomated Probabilistic Model Discovery. A central challenge in artificial intelligence is automating the process of discovering accurate and interpretable probabilistic models that let us learn and reason about data. We attack this problem from the lens of probabilistic program synthesis, formalized as Bayesian structure learning over rich generative model families.\n\nStatistical Estimators and Tests. As probabilistic programs become a more widespread representation, we need to develop new statistical analysis methods for estimating their properties using the black-box computational inferences they expose. While static or closed-form analysis is possible in some restricted cases, a more general framework lies in simulation-based dynamic analyses that learn about programs by analyzing their distributions over execution traces.\n\nRandom Sampling Algorithms. This line of work explores fundamental computational limits of random variate generation, which is a key operation that enables probabilistic computation. Specific interests include new sampling algorithms that are theoretically optimal or near-optimal (in entropy consumption and statistical sampling error) while remaining extremely efficient in practice.\n\nSoftware + Applications. A central motivation of my research is to develop performant, freely available software systems that make probabilistic inference more broadly accessible to everyday users while also helping domain-experts solve meaningful problems in the sciences, engineering, and public interest."
+    },
+    {
+      "name": "Majd Sakr",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/majd-sakr",
+      "title": "Teaching Professor",
+      "email": "msakr@cs.cmu.edu"
+    },
+    {
+      "name": "Tuomas Sandholm",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/tuomas-sandholm",
+      "title": "Angel Jordan University Professor of Computer Science",
+      "email": "sandholm@cs.cmu.edu",
+      "research_areas": [
+        "Artificial Intelligence",
+        "Theory",
+        "Algorithms and Complexity",
+        "Game Theory",
+        "Machine Learning"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Mahadev Satyanarayanan",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/mahadev-satyanarayanan",
+      "title": "Jaime Carbonell University Professor of Computer Science",
+      "email": "satya@cmu.edu",
+      "research_areas": [
+        "Systems",
+        "Distributed Systems",
+        "Mobile and Pervasive Computing",
+        "Security and Privacy"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Jaromir Savelka",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/jaromir-savelka",
+      "title": "Researcher Associate",
+      "email": "jsavelka@cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Russell Schwartz",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/russell-schwartz",
+      "title": "Professor, Affiliated Faculty",
+      "email": "russells@andrew.cmu.edu",
+      "research_areas": [
+        "Computational Biology"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Dana Scott",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/dana-scott",
+      "title": "University Professor Emeritus",
+      "email": "scott@andrew.cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Vyas Sekar",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/vyas-sekar",
+      "title": "Tan Family Professor of Electrical and Computer Engineering, Affiliated Faculty",
+      "email": "vsekar@andrew.cmu.edu",
+      "research_areas": [
+        "Security",
+        "Systems",
+        "Networking"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Srinivasan Seshan",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/srinivasan-seshan",
+      "title": "Joseph Traub Professor of Computer Science",
+      "email": "srini@cs.cmu.edu",
+      "research_areas": [
+        "Systems",
+        "Distributed Systems",
+        "Mobile and Pervasive Computing",
+        "Networking"
+      ],
+      "bio": "My primary interests are in the broad areas of network protocols and distributed network applications. In the past, I have worked on topics such as transport/routing protocol interactions with wireless networks, sensor networking, fast protocol stack implementations, RAID system design, performance prediction for Internet transfers, firewall design, and improvements to the TCP protocol. The following two projects are examples of my current research efforts.\n\nNext Generation Network Architectures. While the Internet has been a great success and supported a wide range of interesting applications, its design is beginning to show its age. My current research is exploring new network protocols and entire network architectures that address the network's shortcomings and provide better support for the next generation of Internet applications. The eXpressive Internet Architecture (XIA) project is a part of this work that explores a clean-slate redesign of the Internet architecture. The primary goal of the XIA architecture is to create a robust and reliable network that easily supports the evolution of in-network functionality over time. In addition to XIA, my research also explores implications of the fact that video content delivery now dominates all forms of traffic on the Internet and is likely to continue dominating for the foreseeable future. My group is exploring both new protocols, content delivery mechanisms and network management techniques that both address the challenges and take advantage of the opportunities created by this flood of video traffic.\n\nWireless Networks and Mobile Systems. Over the past few years smartphones have gone from being a relatively rarity to becoming nearly ubiquitous. These phones are one of the few items that we take almost everywhere. People use phones to take photos, make appointments, find restaurants, browse the Web and keep in touch with their social and business contacts. The information that we reveal to these smartphones and their ability to make observations about their surroundings give them the unique ability to make observations about our lifestyles and our environment in a highly detailed fashion. My research explores the systems challenges in making these observations useful and accessible. This includes designing the software on devices to accurately collect data in a power- efficient fashion, designing changes to the infrastructure to enable the efficient and scalable collection of data from handsets, and managing the privacy issues that arise from this data collection."
+    },
+    {
+      "name": "Nihar Shah",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/nihar-shah",
+      "title": "Associate Professor",
+      "email": "nihars@cs.cmu.edu",
+      "research_areas": [
+        "Artificial Intelligence",
+        "Theory",
+        "Machine Learning"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Mary Shaw",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/mary-shaw",
+      "title": "A. J. Perlis University Professor, Affiliated Faculty",
+      "email": "mary.shaw@cs.cmu.edu",
+      "research_areas": [
+        "Systems",
+        "Software Engineering"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Justine Sherry",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/justine-sherry",
+      "title": "Associate Professor",
+      "email": "sherry@cs.cmu.edu",
+      "research_areas": [
+        "Security",
+        "Systems",
+        "Data-Intensive and Cloud Computing",
+        "Networking",
+        "Security and Privacy"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Reid Simmons",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/reid-simmons",
+      "title": "Research Professor",
+      "email": "rsimmons@andrew.cmu.edu",
+      "research_areas": [
+        "Artificial Intelligence",
+        "Robotics"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Dimitrios Skarlatos",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/dimitrios-skarlatos",
+      "title": "Assistant Professor",
+      "email": "dskarlat@andrew.cmu.edu",
+      "research_areas": [
+        "Artificial Intelligence",
+        "Systems",
+        "Computer Architecture",
+        "Operating Systems",
+        "Security and Privacy"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Danny Sleator",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/danny-sleator",
+      "title": "Professor",
+      "email": "sleator@cmu.edu",
+      "research_areas": [
+        "Artificial Intelligence",
+        "Theory",
+        "Algorithms and Complexity"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Akshitha Sriraman",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/akshitha-sriraman",
+      "title": "Assistant Professor, Affiliated Faculty",
+      "email": "akshitha@cmu.edu",
+      "research_areas": [
+        "Systems"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Peter Steenkiste",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/peter-steenkiste",
+      "title": "Professor of Computer Science and Electrical and Computer Engineering",
+      "email": "prs@cs.cmu.edu",
+      "research_areas": [
+        "Systems",
+        "Distributed Systems",
+        "Mobile and Pervasive Computing",
+        "Networking",
+        "Security and Privacy"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Mark Stehlik",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/mark-stehlik",
+      "title": "University Professor, Assistant Dean for Outreach",
+      "email": "mjs@cs.cmu.edu"
+    },
+    {
+      "name": "Klaus Sutner",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/klaus-sutner",
+      "title": "Teaching Professor",
+      "email": "sutner@cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Michael Taylor",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/michael-taylor",
+      "title": "Assistant Teaching Professor",
+      "email": "mdtaylor@cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "David Touretzky",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/david-touretzky",
+      "title": "Research Professor",
+      "email": "dst@andrew.cmu.edu",
+      "research_areas": [
+        "Artificial Intelligence",
+        "Robotics"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Rashmi Korlakai Vinayak",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/rashmi-korlakai-vinayak",
+      "title": "Associate Professor",
+      "email": "rvinayak@andrew.cmu.edu",
+      "research_areas": [
+        "Systems",
+        "Theory",
+        "Data-Intensive and Cloud Computing",
+        "Distributed Systems",
+        "Networking"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Patrick Virtue",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/patrick-virtue",
+      "title": "Assistant Teaching Professor",
+      "email": "pvirtue@cs.cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Riad Wahby",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/riad-wahby",
+      "title": "Assistant Professor, Affiliated Faculty",
+      "email": "riad@cmu.edu",
+      "research_areas": [
+        "Theory"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Weina Wang",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/weina-wang",
+      "title": "Associate Professor",
+      "email": "weinaw@cs.cmu.edu",
+      "research_areas": [
+        "Theory",
+        "Algorithms and Complexity",
+        "Machine Learning",
+        "Performance Modeling & Analysis"
+      ],
+      "bio": "My research lies in the broad area of applied probability and stochastic systems, with applications in data centers, cloud computing, and privacy-preserving data analytics. Such applications are the backbone of many ever-developing technologies, especially the emerging big-data technology. Enormous challenges are presented by these new technologies, including scalability to large sizes, coordination of data and computation, ultra-low latency, economic efficiency, etc. The goal of my research is to address these challenges, provide a clear understanding of fundamental limits of systems, and build theoretical foundations for designing new architectures and algorithms."
+    },
+    {
+      "name": "Jeannette Wing",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/jeannette_wing",
+      "title": "Adjunct Faculty",
+      "email": "wing@cs.cmu.edu",
+      "research_areas": [
+        "Programming Languages",
+        "Distributed Systems",
+        "Formal Methods",
+        "Security and Privacy",
+        "Software Engineering"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "David Woodruff",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/david-woodruff",
+      "title": "Professor",
+      "email": "dwoodruf@andrew.cmu.edu",
+      "research_areas": [
+        "Theory",
+        "Algorithms and Complexity",
+        "Machine Learning"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Franceska Xhakaj",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/franceska-xhakaj",
+      "title": "Assistant Teaching Professor",
+      "email": "francesx@cs.cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Eric Xing",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/eric-xing",
+      "title": "Professor, Affiliated Faculty",
+      "email": "epxing@andrew.cmu.edu",
+      "research_areas": [
+        "Artificial Intelligence"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Hui Zhang",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/hui-zhang",
+      "title": "Consulting Professor",
+      "email": "huiz1@andrew.cmu.edu",
+      "research_areas": [],
+      "bio": ""
+    },
+    {
+      "name": "Wenting Zheng",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/wenting-zheng",
+      "title": "Assistant Professor",
+      "email": "wenting@cmu.edu",
+      "research_areas": [
+        "Security",
+        "Systems",
+        "Cryptography"
+      ],
+      "bio": ""
+    },
+    {
+      "name": "Jun-Yan Zhu",
+      "profile_url": "https://www.csd.cs.cmu.edu/people/faculty/junyan-zhu",
+      "title": "Assistant Professor, Affiliated Faculty",
+      "email": "junyanz@cs.cmu.edu",
+      "research_areas": [
+        "Artificial Intelligence"
+      ],
+      "bio": ""
+    }
+  ]
+}

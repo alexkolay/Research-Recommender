@@ -1,0 +1,149 @@
+Fetching faculty index: https://www.cs.purdue.edu/people/faculty/index.html
+Found 146 faculty entries
+[1/146] George B. Adams, III
+[2/146] Vamsi Addanki
+[3/146] Vaneet Aggarwal
+[4/146] Daniel G. Aliaga
+[5/146] Konstantinos Ameranis
+[6/146] Snehal Antani
+[7/146] Walid G. Aref
+[8/146] Mikhail Atallah
+[9/146] Saurabh Bagchi
+[10/146] Elias Bareinboim
+[11/146] Saugata Basu
+[12/146] Andres Bejarano
+[13/146] Bedrich Benes
+[14/146] Hisham R. Benotman
+[15/146] Aniket Bera
+[16/146] Tony Bergstrom
+[17/146] Elisa Bertino
+[18/146] Bharat Bhargava
+[19/146] Antonio Bianchi
+[20/146] Jeremiah M. Blocki
+[21/146] Michael H. Borkowski
+[22/146] Simina Branzei
+[23/146] Brian Bullins
+[24/146] Joseph Campbell
+[25/146] Z. Berkay Celik
+[26/146] Gaurav Chopra
+[27/146] Sayeed Shafayet Chowdhury
+[28/146] Federico Cifuentes-Urtubey
+[29/146] Christopher W. Clifton
+[30/146] Douglas E. Comer
+[31/146] Jessica Mackey Conner-Strunk
+[32/146] Marta A. Crowe
+[33/146] William N Crum
+[34/146] Benjamin J. Delaware
+[35/146] Edward J. Delp
+[36/146] Tamal Krishna Dey
+[37/146] Eman Samy Diyab
+[38/146] Petros S. Drineas
+[39/146] H. E. Dunsmore
+[40/146] Ahmed K. Elmagarmid
+[41/146] Sonia Fahmy
+[42/146] Pedro Fonseca
+[43/146] Greg N. Frederickson
+[44/146] Christina Garman
+[45/146] Walter Gautschi
+[46/146] David Gleich
+[47/146] Aarushi Goel
+[48/146] Dan Goldwasser
+[49/146] Ananth Grama
+[50/146] Elena Grigorescu
+[51/146] Susanne E. Hambrusch
+[52/146] Steve Hanneke
+[53/146] Andrew P. Hoblitzell
+[54/146] Jean Honorio
+[55/146] Elias N. Houstis
+[56/146] Y. Charlie Hu
+[57/146] Abdullah Imran
+[58/146] Tunazzina Islam
+[59/146] Suresh Jagannathan
+[60/146] Sooyeon Jeong
+[61/146] Changhee Jung
+[62/146] Sabre Kais
+[63/146] Aniket Kate
+[64/146] Majid Kazemian
+[65/146] Rajiv Khanna
+[66/146] Aaditya Kharel
+[67/146] Daisuke Kihara
+[68/146] Zachary Kingston
+[69/146] Murat Kocaoglu
+[70/146] Milind Kulkarni
+[71/146] Ninghui Li
+[72/146] Zhiyuan Li
+[73/146] Chunwei Liu
+[74/146] Xiaojin Liu
+[75/146] Yung-Hsiang Lu
+[76/146] Bradley J. Lucier
+[77/146] Robert E. Lynch
+[78/146] Hemanta K. Maji
+[79/146] Anuran Makur
+[80/146] Aditya P. Mathur
+[81/146] Christopher K. May
+[82/146] Lucas A. Moser
+[83/146] Snehasis Mukhopadhyay
+[84/146] Jennifer Neville
+[85/146] Sotirios Nousias
+[86/146] Rohan Paleja
+[87/146] Kihong Park
+[88/146] Chunyi Peng
+[89/146] Yuxiang Peng
+[90/146] Voicu S. Popescu
+[91/146] Alex Pothen
+[92/146] Sunil Prabhakar
+[93/146] Alexandros Psomas
+[94/146] Kent Quanrud
+[95/146] Ahmed Qureshi
+[96/146] Sanjay G. Rao
+[97/146] Vinayak A P Rao
+[98/146] Carrie Melinda Rector
+[99/146] Vernon J. Rego
+[100/146] Bruno Ribeiro
+[101/146] John Robinson
+[102/146] Gustavo Rodriguez-Rivera
+[103/146] Tiark Rompf
+[104/146] Elisha Sacks
+[105/146] Ahmed Sameh
+[106/146] Eric Samperton
+[107/146] Philip A. Sands
+[108/146] Abulhair Saparov
+[109/146] Sarah H Sellke
+[110/146] Muhammad Shahbaz
+[111/146] Mary Anne Smart
+[112/146] Eugene H. Spafford
+[113/146] John M. Steele
+[114/146] Wojciech Szpankowski
+[115/146] Lin Tan
+[116/146] Mohammadkazem Taram
+[117/146] Dave (Jing) Tian
+[118/146] Xavier Tricoche
+[119/146] Gavriil Tsechpenakis
+[120/146] Mihran Tuceryan
+[121/146] Jeffrey A. Turkstra
+[122/146] Satish V Ukkusuri
+[123/146] Paul Valiant
+[124/146] T. N. Vijaykumar
+[125/146] Samuel S. Wagstaff, Jr.
+[126/146] Jianguo Wang
+[127/146] Mark Ward
+[128/146] Patrick J. Wolfe
+[129/146] Jason Wu
+[130/146] Jianlin Xia
+[131/146] Hanshen Xiao
+[132/146] Dongyan Xu
+[133/146] Qiuyue Xue
+[134/146] Yexiang Xue
+[135/146] Raymond A. Yeh
+[136/146] Ming Yin
+[137/146] Wei Zhan
+[138/146] Ruizhe Zhang
+[139/146] Ruqi Zhang
+[140/146] Tianyi Zhang
+[141/146] Weiruo Zhang
+[142/146] Xiangyu Zhang
+[143/146] Yongle Zhang
+[144/146] Jiang Yu Zheng
+[145/146] Ning Zhou
+[146/146] Vassilis Zikas
+Wrote 146 faculty records to data/purdue_cs_faculty.json

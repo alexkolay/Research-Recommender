@@ -1,0 +1,3 @@
+Fetching MIT EECS CS-role faculty listing: https://www.eecs.mit.edu/people/?fwp_role=faculty-cs
+Found 86 faculty entries
+Wrote 86 faculty records to data/mit_eecs_faculty.json

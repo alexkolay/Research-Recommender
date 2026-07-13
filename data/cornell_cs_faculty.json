@@ -1,0 +1,1113 @@
+{
+  "school": "Cornell University",
+  "department": "Computer Science",
+  "source_url": "https://www.cs.cornell.edu/directory?department=15&roles%5B147%5D=147",
+  "faculty": [
+    {
+      "name": "Rachit Agarwal",
+      "profile_url": "https://www.cs.cornell.edu/people/rachit-agarwal",
+      "title": "Associate Professor of Computer Science",
+      "email": "RA625@cornell.edu",
+      "research_areas": [
+        "Architecture",
+        "Systems + Networking",
+        "Theory of Computing"
+      ],
+      "bio": "Rachit Agarwal is an associate professor of computer science. His primary research interests are in systems and networking. He is also interested in theoretical problems arising out of building practical systems. Agarwal’s research has been awarded a Sloan Research Fellowship, an NSF CAREER award, a Kavli Fellowship with the National Academy of Sciences, an IRTF Applied Networking Research Prize, and multiple best paper awards at SIGCOMM and Usenix Security. Agarwal loves teaching. He received the 2025 Tau Beta Pi Professor of the Year Award and the James and Mary Tien Excellence in Teaching, the highest teaching award from Cornell Engineering for sustained excellence and innovation in engineering education.",
+      "location": "Ithaca",
+      "office": "Gates Hall 411C",
+      "website": "https://www.cs.cornell.edu/~ragarwal/"
+    },
+    {
+      "name": "Lorenzo Alvisi",
+      "profile_url": "https://www.cs.cornell.edu/people/lorenzo-alvisi",
+      "title": "Tisch University Professor of Computer Science Chair of the Department of Computer Science",
+      "email": "lorenzo@cs.cornell.edu",
+      "research_areas": [
+        "Systems + Networking"
+      ],
+      "bio": "Lorenzo Alvisi is the Tisch University Professor in Computer Science and chair of the Department of Computer Science. He is interested in the theory and practice of dependable distributed computing. His group's research aims to understand how to design and build trustworthy distributed systems. Their work investigates both foundational and applied aspects of reliable distributed computing – and at its best – leverages the former to shape the latter. Alvisi received his Laurea Summa cum Laude and Corso di Specializzazione in Physics from the University of Bologna, and his master's degree and Ph.D. in computer science from Cornell University. He is an IEEE Fellow, an ACM Fellow, a Humboldt Research Award winner, and an Alfred P. Sloan Research Fellow.",
+      "location": "Ithaca",
+      "office": "Gates Hall 402",
+      "website": "https://www.cs.cornell.edu/lorenzo/"
+    },
+    {
+      "name": "Andrew Appel",
+      "profile_url": "https://www.cs.cornell.edu/people/andrew-w-appel",
+      "title": "Visiting Professor of Computer Science",
+      "email": "awa44@cornell.edu",
+      "research_areas": [],
+      "bio": "Andrew W. Appel is Eugene Higgins Professor Emeritus and Senior Scholar in the Department of Computer Science at Princeton University, and Visiting Professor at Cornell University. He served from 2009-2015 as Chair of Princeton's CS department. His research is in software verification, computer security, programming languages and compilers, and technology policy (especially voting machines and election systems). He received his A.B. summa cum laude in physicsfrom Princeton in 1981, and his Ph.D. in computer science from Carnegie Mellon University in 1985. Professor Appel is a Fellow of the Association for Computing Machinery. He has worked on fast N-body algorithms (1980s), Standard ML of New Jersey (1990s), Foundational Proof-Carrying Code (2000s), the Verified Software Toolchain (2010s),",
+      "location": "Ithaca",
+      "office": "Gates 428",
+      "website": "https://www.cs.cornell.edu/~awa44/"
+    },
+    {
+      "name": "Yoav Artzi",
+      "profile_url": "https://www.cs.cornell.edu/people/yoav-artzi",
+      "title": "Associate Professor of Computer Science",
+      "email": "yoav@cs.cornell.edu",
+      "research_areas": [
+        "Machine Learning",
+        "Natural Language Processing"
+      ],
+      "bio": "Yoav Artzi is an associate professor of computer science at Cornell Tech and the Cornell Ann S. Bowers College of Computing and Information Science. His research focuses on developing models and learning methods for natural language understanding and generation in interactive systems.",
+      "location": "NYC",
+      "office": "Cornell Tech",
+      "website": "http://yoavartzi.com/"
+    },
+    {
+      "name": "Hadar Averbuch-Elor",
+      "profile_url": "https://www.cs.cornell.edu/people/hadar-averbuch-elor",
+      "title": "Assistant Professor of Computer Science",
+      "email": "hadarelor@cornell.edu",
+      "research_areas": [
+        "Graphics",
+        "Vision"
+      ],
+      "bio": "Hadar Averbuch-Elor is an assistant professor of computer science at Cornell Tech and the Cornell Ann S. Bowers College of Computing and Information Science. Averbuch-Elor’s research interests lie in the intersection of computer graphics and computer vision, particularly in combining pixels with more structured modalities, such as natural language and 3D geometry.",
+      "location": "NYC",
+      "office": "Cornell Tech",
+      "website": "https://www.hadarelor.com/"
+    },
+    {
+      "name": "Kavita Bala",
+      "profile_url": "https://www.cs.cornell.edu/people/kavita-bala",
+      "title": "Provost Professor of Computer Science",
+      "email": "kavitabala@cornell.edu",
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Graphics",
+        "Machine Learning",
+        "Vision"
+      ],
+      "bio": "Kavita Bala is the 17th provost of Cornell University and professor of computer science. Previously, she served as the inaugural dean of the Cornell Ann S. Bowers College of Computing and Information Science and chair of the Department of Computer Science. In her research, she specializes in computer vision and computer graphics, leading research in visual recognition and search; and material modeling and perception. She co-founded GrokStyle, a visual recognition AI company that drew IKEA as a client, and was acquired by Facebook in 2019. Bala is a Fellow of the American Academy of Arts & Sciences (2025), an Association for Computing Machinery (ACM) Fellow (2019), Fellow of the SIGGRAPH Academy (2020), and recipient of the Computer Graphics Achievement Award (2020).",
+      "location": "Ithaca",
+      "office": "300 Day Hall",
+      "website": "https://www.cs.cornell.edu/~kb/"
+    },
+    {
+      "name": "Tapomayukh Bhattacharjee",
+      "profile_url": "https://www.cs.cornell.edu/people/tapomayukh-bhattacharjee",
+      "title": "Assistant Professor of Computer Science",
+      "email": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Human Interaction",
+        "Machine Learning",
+        "Robotics"
+      ],
+      "bio": "Tapomayukh \"Tapo\" Bhattacharjee is an assistant professor in the Department of Computer Science at Cornell University where he directs the EmPRISE Lab. He completed his Ph.D. in robotics from Georgia Institute of Technology and was an NIH Ruth L. Kirschstein NRSA postdoctoral research associate in Computer Science and Engineering at the University of Washington. He wants to enable robots to assist people with mobility limitations with activities of daily living. His work spans the fields of human-robot interaction, haptic perception, and robot manipulation and focuses on addressing the fundamental research question of how to leverage robot-world physical interactions in unstructured human environments to perform relevant activities of daily living.",
+      "location": "Ithaca",
+      "office": "Computing and Information Science Building 461",
+      "website": "https://sites.google.com/site/tapomayukh"
+    },
+    {
+      "name": "David Bindel",
+      "profile_url": "https://www.cs.cornell.edu/people/david-bindel",
+      "title": "Professor of Computer Science",
+      "email": "bindel@cornell.edu",
+      "research_areas": [
+        "Bayesian Analysis",
+        "Machine Learning",
+        "Scientific Computing",
+        "Spatial Analysis or Spatial Statistics",
+        "Systems + Networking"
+      ],
+      "bio": "David S. Bindel is a professor of computer science and director of the Center for Applied Math . He works at the interface of computational science and engineering, and his research mixes mathematical analysis, application modeling, and software design. Active research areas include: optimizing stellarators, verified numerics, kernel methods, parallel surrogate optimization, spectral network analysis, nonlinear eigenvalue bounds, and nonlinear waves in resonant MEMS. Bindel received his Ph.D. in computer science from the University of California, Berkeley and his B.S. in math and computer science from the University of Maryland, College Park. He is a SIAM Fellow and Sloan Fellow.",
+      "location": "Ithaca",
+      "office": "Computing and Information Science Building 487",
+      "website": "https://www.cs.cornell.edu/~bindel/"
+    },
+    {
+      "name": "Ken Birman",
+      "profile_url": "https://www.cs.cornell.edu/people/ken-birman",
+      "title": "N. Rama Rao Professor of Computer Science",
+      "email": "ken@cs.cornell.edu",
+      "research_areas": [
+        "Machine Learning",
+        "Security",
+        "Software Engineering",
+        "Systems + Networking"
+      ],
+      "bio": "Ken Birman is the N. Rama Rao Professor of Computer Science. His research is on reliable, secure, and scalable distributed systems. Current projects include Vortex , a platform for speeding up AI and ML inference or knowledge retrieval tasks by fully leveraging cutting edge hardware accelerators and reimplementing key data paths to reduce or eliminate copying and other delays; Cascade , an exceptionally performant storage framework for Vortex; and Derecho , a highly optimized library for accelerating communication that leverages RDMA when available. Jointly, these three elements enable dramatic improvements in the cost of ML hosting and sharp reductions in ML latencies. In more entrepreneurial roles, Ken founded a series of companies. One focused on software fault tolerance and created a variety of cloud computing infrastructure solutions. Another architected and implemented the core of the New York Stock Exchange trading floor, the Swiss Exchange, the French Air Traffic Control System communication platform, and created a secure, high-speed data sharing capability for the U.S. Navy AEGIS warship. Ken received his Ph.D. and master's degrees in computer science from the University of California, Berkeley and his B.A. in computer science from Columbia University, is an ACM Fellow and IEEE Fellow, and won the IEEE Tsutomo Kanai award for his innovations in distributed computing.",
+      "location": "Ithaca",
+      "office": "Gates Hall 435",
+      "website": "https://www.cs.cornell.edu/ken/"
+    },
+    {
+      "name": "Claire Cardie",
+      "profile_url": "https://www.cs.cornell.edu/people/claire-cardie",
+      "title": "John C. Ford Professor of Engineering in the Departments of Computer Science and Information Science Associate Dean for Education",
+      "email": null,
+      "research_areas": [
+        "Human Centered Natural Language Processing",
+        "Human Interaction",
+        "Natural Language Processing"
+      ],
+      "bio": "Claire Cardie is the John C. Ford Professor of Engineering in the Departments of Computer Science and Information Science. She was the founding chair of the Department of Information Science and led the development of its academic programs. Cardie works in the area of Natural Language Processing (NLP) on topics ranging from information extraction, text summarization, and noun phrase coreference resolution, to the automatic analysis of opinions, argumentation, and deception in text.",
+      "location": "Ithaca",
+      "office": "Gates Hall 417",
+      "website": "https://www.cs.cornell.edu/home/cardie/"
+    },
+    {
+      "name": "Eshan Chattopadhyay",
+      "profile_url": "https://www.cs.cornell.edu/people/eshan-chattopadhyay",
+      "title": "Associate Professor of Computer Science",
+      "email": "eshan@cs.cornell.edu",
+      "research_areas": [
+        "Theory of Computing"
+      ],
+      "bio": "Eshan Chattopadhyay is currently an associate professor (with tenure) in the Department of Computer Science at Cornell University. He joined Cornell in 2018 after completing postdoctoral work at the Institute for Advanced Study in Princeton and the Simons Institute for the Theory of Computing in Berkeley. Prior to this, Chattopadhyay earned his Ph.D. in computer science from the University of Texas at Austin in 2016 and his B.Tech in computer science from the Indian Institute of Technology Kanpur in 2011.",
+      "location": "Ithaca",
+      "office": "Gates Hall 319",
+      "website": "https://www.cs.cornell.edu/~eshan/"
+    },
+    {
+      "name": "Sanjiban Choudhury",
+      "profile_url": "https://www.cs.cornell.edu/people/sanjiban-choudhury-0",
+      "title": "Assistant Professor of Computer Science",
+      "email": null,
+      "research_areas": [],
+      "bio": "Sanjiban Choudhury is an assistant professor of computer science and works on interactive AI agents that self-align through few-shot interactions with humans and their environment. His research focuses on reinforcement learning (RLHF), imitation learning (IRL), and foundation models for planning, robotics, and code generation. He also leads the PoRTaL group, which builds everyday robots for everyday users and has a mission to make robots accessible, user-friendly, and practical for tasks from cooking to cleaning. Choudhury did his postdoctoral research at the University of Washington and his M.A. and Ph.D. at Carnegie Mellon University. He earned his B.S. and M.S. in electrical engineering from the Indian Institute of Technology, Kharagpur.",
+      "location": "Ithaca",
+      "office": "Computing and Information Science Building 465",
+      "website": "https://sanjibanc.github.io/"
+    },
+    {
+      "name": "Michael Clarkson",
+      "profile_url": "https://www.cs.cornell.edu/people/michael-clarkson",
+      "title": "Steven H. Weiss Provost’s Teaching Fellow Teaching Professor of Computer Science Director of Undergraduate Studies, Computer Science",
+      "email": "mrc26@cornell.edu",
+      "research_areas": [
+        "Programming Languages",
+        "Security"
+      ],
+      "bio": "Michael Clarkson is teaching-track faculty in the Department of Computer Science at Cornell University. In 2022, after a decade of teaching a total of about 6,000 students, he received the university’s highest annual teaching award for teaching-track faculty and was appointed as a Provost’s Teaching Fellow, which is a permanent designation. He is best known for his open-source textbook on OCaml programming, which is used at Cornell and elsewhere. His accompanying YouTube channel on functional programming has received more than a million views from around the world. He also teaches courses on object-oriented programming, formal verification, computer security, and data science. Clarkson received his M.S. and Ph.D. in computer science from Cornell.",
+      "location": "Ithaca",
+      "office": "Gates Hall 461",
+      "website": "https://sites.coecis.cornell.edu/clarkson/"
+    },
+    {
+      "name": "Liron Cohen",
+      "profile_url": null,
+      "title": "Visting Scientist of computer science",
+      "email": "lironcohen@cornell.edu",
+      "research_areas": [],
+      "bio": "I am interested broadly in connections between logic, computation, and mathematics. My current research interests include:",
+      "location": null,
+      "office": "332 Gates Hall",
+      "website": "https://www.cs.cornell.edu/~lc864/"
+    },
+    {
+      "name": "Alex Conway",
+      "profile_url": "https://www.cs.cornell.edu/people/alex-conway",
+      "title": "Assistant Professor of Computer Science",
+      "email": "aconway@cornell.edu",
+      "research_areas": [
+        "Systems + Networking",
+        "Theory of Computing"
+      ],
+      "bio": "Alex Conway is an assistant professor of computer science at Cornell Tech and the Cornell Ann S. Bowers College of Computing and Information Science.",
+      "location": "NYC",
+      "office": "Cornell Tech",
+      "website": "https://ajhconway.com/"
+    },
+    {
+      "name": "Preston Culbertson",
+      "profile_url": "https://www.cs.cornell.edu/people/preston-culbertson",
+      "title": "Assistant Professor of Computer Science",
+      "email": "pdc79@cornell.edu",
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Machine Learning",
+        "Robotics"
+      ],
+      "bio": "Preston Culbertson draws on machine learning, computer vision, and control theory to develop robots that move like humans. Prior to joining Cornell, he was a research scientist at The AI Institute in Cambridge, Mass. He received his Ph.D. in mechanical engineering from Stanford University.",
+      "location": "Ithaca",
+      "office": "Computing and Information Science Building 459",
+      "website": "https://pculbertson.github.io"
+    },
+    {
+      "name": "Anil Damle",
+      "profile_url": "https://www.cs.cornell.edu/people/anil-damle",
+      "title": "Associate Professor of Computer Science",
+      "email": "damle@cornell.edu",
+      "research_areas": [
+        "Scientific Computing"
+      ],
+      "bio": "Anil Damle is an associate professor of computer science. His research focuses on the development and analysis of robust and efficient algorithms in applied and computational mathematics that exploit structure coming from underlying physical or statistical models. He interfaces with a broad range of application areas and his work is inherently interdisciplinary – with the ultimate goal of developing algorithms that are usable for practitioners. He received his Ph.D. from Stanford University in computational and mathematical engineering, and his M.A. in applied mathematics and B.S. in applied mathematics and computer engineering from the University of Colorado, Boulder.",
+      "location": "Ithaca",
+      "office": "Computing and Information Science Building 485",
+      "website": "https://www.cs.cornell.edu/~damle/"
+    },
+    {
+      "name": "Abe Davis",
+      "profile_url": "https://www.cs.cornell.edu/people/abe-davis",
+      "title": "Assistant Professor of Computer Science",
+      "email": "abedavis@cornell.edu",
+      "research_areas": [
+        "Graphics",
+        "Human Interaction",
+        "Vision"
+      ],
+      "bio": "Abe Davis is an assistant professor of computer science who specializes in computer graphics, computer vision, and human-computer interaction (HCI). His group brings these areas together to work on new problems at the intersection of different disciplines. Davis completed postdoctoral research at Stanford University and Cornell Tech, and his M.A. and Ph.D. at the Massachusetts Institute of Technology, studying electrical engineering and computer science. He earned his undergraduate degree in computer science at Stanford.",
+      "location": "Ithaca",
+      "office": "Gates Hall 351",
+      "website": "https://abedavis.com/"
+    },
+    {
+      "name": "Christopher De Sa",
+      "profile_url": "https://www.cs.cornell.edu/people/christopher-de-sa",
+      "title": "Associate Professor of Computer Science",
+      "email": "cmd353@cornell.edu",
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Machine Learning",
+        "Systems + Networking"
+      ],
+      "bio": "Christopher De Sa is an associate professor of computer science and a member of the Cornell Machine Learning Group where he leads the Relax ML Lab . His research interests include algorithmic, software, and hardware techniques for high-performance machine learning, with a focus on relaxed-consistency variants of stochastic algorithms such as asynchronous and low-precision stochastic gradient descent (SGD) and Markov chain Monte Carlo. His work builds towards using these techniques to construct data analytics and machine learning frameworks, including for deep learning, that are efficient, parallel, and distributed. De Sa received his B.S., M.A., and Ph.D. from Stanford University in electrical engineering.",
+      "location": "Ithaca",
+      "office": "Gates Hall 426",
+      "website": "https://www.cs.cornell.edu/~cdesa/"
+    },
+    {
+      "name": "Sarah Dean",
+      "profile_url": "https://www.cs.cornell.edu/people/sarah-dean",
+      "title": "Assistant Professor of Computer Science",
+      "email": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Machine Learning",
+        "Theory of Computing"
+      ],
+      "bio": "Sarah Dean is an assistant professor of computer science. She studies the interplay between optimization, machine learning, and dynamics in real-world systems. Her research focuses on understanding the fundamentals of data-driven methods for control and decision-making, inspired by applications ranging from robotics to recommendation systems. She completed her postdoctoral research at the University of Washington and earned her M.S. and Ph.D. in electrical engineering and computer science at the University of California, Berkeley. Dean received her B.S.E. in electrical engineering and mathematics from the University of Pennsylvania.",
+      "location": "Ithaca",
+      "office": "Gates Hall 424",
+      "website": "https://sdean.website/"
+    },
+    {
+      "name": "Saikat Dutta",
+      "profile_url": "https://www.cs.cornell.edu/people/saikat-dutta",
+      "title": "Assistant Professor of Computer Science",
+      "email": "saikatd@cornell.edu",
+      "research_areas": [
+        "Programming Languages",
+        "Software Engineering"
+      ],
+      "bio": "Saikat Dutta is an assistant professor in the Department of Computer Science. His research interests are at the intersection of software engineering and machine learning, with a particular focus on developing software testing and debugging techniques to improve the reliability of machine learning-based systems. He is also exploring how to leverage the latest machine learning techniques to solve software engineering problems. Dutta completed his postdoctoral research at the University of Pennsylvania and received his Ph.D. in computer science from the University of Illinois Urbana-Champaign. He received his bachelor's degree in computer science and engineering from Jadavpur University.",
+      "location": "Ithaca",
+      "office": "Gates Hall 438",
+      "website": "https://www.cs.cornell.edu/~saikatd/"
+    },
+    {
+      "name": "Matthew Eichhorn",
+      "profile_url": "https://www.cs.cornell.edu/people/matthew-eichhorn",
+      "title": "Lecturer of Computer Science",
+      "email": "meichhorn@cornell.edu",
+      "research_areas": [
+        "Causal Inference",
+        "Theory of Computing"
+      ],
+      "bio": "Matthew Eichhorn is a lecturer of computer science who leads large undergraduate courses on discrete mathematics and programming. His research focuses on developing tools to inform decisions with societal implications. This ranges from developing algorithms for online team formation, finding ways to fairly distribute goods in settings such as public health and education where the normative allocation criteria are often at odds, and using statistical tools from causal inference to estimate the effectiveness of an intervention that propagates through a social interference network.",
+      "location": "Ithaca",
+      "office": "Gates Hall 452",
+      "website": "https://maeichho.github.io"
+    },
+    {
+      "name": "Kevin Ellis",
+      "profile_url": "https://www.cs.cornell.edu/people/kevin-ellis",
+      "title": "Assistant Professor of Computer Science",
+      "email": "kellis@cornell.edu",
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Machine Learning",
+        "Programming Languages"
+      ],
+      "bio": "Kevin Ellis is an assistant professor of computer science. He works on program synthesis and neurosymbolic AI. Ellis earned his Ph.D. in cognitive science and his B.S. in physics with a concentration in linguistics from the Massachusetts Institute of Technology.",
+      "location": "Ithaca",
+      "office": "Computing and Information Science Building 486",
+      "website": "https://www.cs.cornell.edu/~ellisk/"
+    },
+    {
+      "name": "Deborah Estrin",
+      "profile_url": "https://www.cs.cornell.edu/people/deborah-estrin",
+      "title": "Associate Dean for Impact Robert V. Tishman ’37 Professor of Computer Science",
+      "email": "destrin@cornell.edu",
+      "research_areas": [
+        "Ubiquitous Computing",
+        "Systems + Networking"
+      ],
+      "bio": "Deborah Estrin is the Robert V. Tishman ’37 professor of computer science at Cornell Tech and the Cornell Ann S. Bowers College of Computing and Information Science. At Cornell Tech, she serves as the Associate Dean for Impact. She is also an affiliate faculty member at Weill Cornell Medicine.",
+      "location": "NYC",
+      "office": "Cornell Tech",
+      "website": "https://destrin.tech.cornell.edu/"
+    },
+    {
+      "name": "K.-Y. Daisy Fan",
+      "profile_url": "https://www.cs.cornell.edu/people/k-y-daisy-fan",
+      "title": "Teaching Professor of Computer Science",
+      "email": "daisy.fan@cornell.edu",
+      "research_areas": [],
+      "bio": "Daisy Fan is a teaching professor of computer science who teaches in the areas of programming, scientific computing, and optimization. Fan's interests include collaborative learning methodologies and technologies in computer science and engineering education, application of systems-analysis techniques for water resources and environmental problems, and development of numerically efficient optimization methods for engineering applications. Problems she has investigated include optimal control of multiple-reservoir operation using stochastic dynamic programming and river basin water quality management.",
+      "location": "Ithaca",
+      "office": "Gates Hall 459",
+      "website": "https://www.cs.cornell.edu/~dfan/"
+    },
+    {
+      "name": "Kuan Fang",
+      "profile_url": "https://www.cs.cornell.edu/people/kuan-fang",
+      "title": "Assistant Professor of Computer Science",
+      "email": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Machine Learning",
+        "Robotics",
+        "Vision"
+      ],
+      "bio": "Kuan Fang is an assistant professor of computer science who conducts research at the intersection of robotics, machine learning, and computer vision. His research aims to enable robots to perform diverse and complex tasks in unstructured environments using deep learning. To achieve this, his lab develops scalable algorithms and systems for robot perception and control with the following focuses: acquiring versatile and generalizable skills for visuomotor control by learning from massive and diverse data; continuously improving the capabilities of robots through autonomous data collection and generation; and boosting generalization to novel tasks, environments, and robots by integrating prior knowledge from broad sources. Fang did his postdoctoral research at the University of California, Berkeley and received his Ph.D. and M.S. from Stanford University. His bachelor's degree is from Tsinghua University. Fang also spent time at the RAI Institute, Google Brain, Google X Robotics, and Microsoft Research Asia.",
+      "location": "Ithaca",
+      "office": "Computing and Information Science Building 463",
+      "website": "https://kuanfang.github.io/"
+    },
+    {
+      "name": "Nate Foster",
+      "profile_url": "https://www.cs.cornell.edu/people/nate-foster",
+      "title": "Adjunct Professor of Computer Science",
+      "email": "jnfoster@cs.cornell.edu",
+      "research_areas": [
+        "Critical and humanistic approaches to computing",
+        "History of Technology",
+        "Philosophy of Technology",
+        "Science + Technology Studies",
+        "Database Systems",
+        "Ethics, Law and Policy",
+        "Privacy + Surveillance",
+        "Tech and the law",
+        "Programming Languages",
+        "Security",
+        "Systems + Networking"
+      ],
+      "bio": "Nate Foster is an adjunct professor of computer science at Cornell University and a visiting researcher at Jane Street . He currently serves as vice chair of DARPA's Information Science and Technology (ISAT) study group , and as chair of the P4 Language Governing Board .",
+      "location": "Ithaca",
+      "office": "Gates Hall 432",
+      "website": "https://www.cs.cornell.edu/~jnfoster/"
+    },
+    {
+      "name": "Sainyam Galhotra",
+      "profile_url": "https://www.cs.cornell.edu/people/sainyam-galhotra",
+      "title": "Assistant Professor of Computer Science",
+      "email": "sg@cs.cornell.edu",
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Causal Inference",
+        "Database Systems",
+        "Machine Learning",
+        "Software Engineering"
+      ],
+      "bio": "Sainyam Galhotra is an assistant professor in computer science. Before that, he was a Computing Innovation Fellow pursuing postdoctoral research at the University of Chicago. The goal of his research is to develop data science tools for effective and responsible analytics.",
+      "location": "Ithaca",
+      "office": "Gates Hall 445",
+      "website": "https://sainyamgalhotra.com/"
+    },
+    {
+      "name": "Aleksandr Golovnev",
+      "profile_url": "https://www.cs.cornell.edu/people/aleksandr-golovnev",
+      "title": "Associate Professor of Computer Science",
+      "email": "ag2759@cornell.edu",
+      "research_areas": [],
+      "bio": "Golovnev’s research interests include computational complexity, algorithms, pseudorandomness, learning theory, and cryptography. He is currently an assistant professor of computer science at Georgetown University and a visiting professor in the Centre for Quantum Technologies at the National University of Singapore. Previously, Golovnev was a research scientist at Columbia University and Yahoo Research, and a Rabin Postdoctoral Fellow at Harvard University. He received a Ph.D. in computer science from New York University in 2017.",
+      "location": null,
+      "office": null,
+      "website": null
+    },
+    {
+      "name": "Carla Gomes",
+      "profile_url": "https://www.cs.cornell.edu/people/carla-gomes",
+      "title": "Ronald C. and Antonia V. Nielsen Professor of Computing and Information Science",
+      "email": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Computational Biology",
+        "Computing and the Environment",
+        "Scientific Computing"
+      ],
+      "bio": "Carla Gomes is the Ronald C. and Antonia V. Nielsen Professor of Computing and Information Science, director of the Institute for Computational Sustainability at Cornell University, and co-director of the Cornell University AI for Science Institute. Gomes received a Ph.D. in computer science in artificial intelligence from the University of Edinburgh. Her research area is AI with a focus on large-scale constraint reasoning, optimization, and machine learning.",
+      "location": "Ithaca",
+      "office": "Computing and Information Science Building 483",
+      "website": "http://www.cs.cornell.edu/gomes"
+    },
+    {
+      "name": "Tanya Goyal",
+      "profile_url": "https://www.cs.cornell.edu/people/tanya-goyal",
+      "title": "Assistant Professor of Computer Science",
+      "email": "tanyagoyal@cornell.edu",
+      "research_areas": [
+        "Natural Language Processing"
+      ],
+      "bio": "Tanya Goyal is an assistant professor in the Department of Computer Science. Previously, she was a postdoctoral scholar at Princeton Language and Intelligence Center (2023-2024). Her research interests are primarily in the field of natural language processing. Problems that she is currently excited about include: reliable and sustainable evaluation frameworks for large language models (LLMs); factuality assessment and improvement of LLMs; and understanding LLM behaviors as a function of training data and/or alignment strategies.",
+      "location": "Ithaca",
+      "office": "Gates Hall 441A",
+      "website": "https://tagoyal.github.io/"
+    },
+    {
+      "name": "Giulia Guidi",
+      "profile_url": "https://www.cs.cornell.edu/people/giulia-guidi",
+      "title": "Assistant Professor of Computer Science",
+      "email": "gguidi@cornell.edu",
+      "research_areas": [
+        "Scientific Computing",
+        "Systems + Networking"
+      ],
+      "bio": "Giulia Guidi is an assistant professor in the Department of Computer Science at Cornell University. She received her Ph.D. in computer science from UC Berkeley. Guidi works in the field of high-performance computing (HPC) for large-scale computational sciences and leads the Cornell HPC group. She is interested in developing algorithms and software infrastructures on parallel machines to speed up data processing without sacrificing programming productivity, and to make high-performance computing more accessible. She is also a big fan of sparse linear algebra and believed in sparse linear algebra as a computational abstraction for tackling large-scale computational challenges.",
+      "location": "Ithaca",
+      "office": "Gates Hall 437",
+      "website": "https://giuliaguidi.github.io/"
+    },
+    {
+      "name": "Joseph Halpern",
+      "profile_url": "https://www.cs.cornell.edu/people/joseph-halpern",
+      "title": "Joseph C. Ford Chair of Engineering Professor of Computer Science",
+      "email": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Security",
+        "Theory of Computing"
+      ],
+      "bio": "In Memoriam : Joe Halpern, ‘towering’ computer scientist and mentor, dies at 72",
+      "location": "Ithaca",
+      "office": null,
+      "website": "https://www.cs.cornell.edu/home/halpern/"
+    },
+    {
+      "name": "Bharath Hariharan",
+      "profile_url": "https://www.cs.cornell.edu/people/bharath-hariharan",
+      "title": "Associate Professor of Computer Science",
+      "email": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Machine Learning",
+        "Vision"
+      ],
+      "bio": "Bharath Hariharan is an associate professor in computer science. He works on computer vision and machine learning, specifically, on important problems that defy the \"Big Data\" label. He enjoys problems that require marrying advances in machine learning with insights from computer vision, geometry, and domain-specific knowledge. A few of the research problems his group works on include recognition for satellite images and earth science and 4D reconstruction and recognition. An exhaustive list of publications is available on Google scholar . His work has been recognized with an NSF CAREER award and a PAMI Young Researcher Award.",
+      "location": "Ithaca",
+      "office": "Gates Hall 311",
+      "website": "https://www.cs.cornell.edu/~bharathh/"
+    },
+    {
+      "name": "Haym Hirsh",
+      "profile_url": "https://www.cs.cornell.edu/people/haym-hirsh",
+      "title": "Professor of Computer Science Director of MEng Program",
+      "email": null,
+      "research_areas": [
+        "Data Science",
+        "Human-AI interaction",
+        "Artificial Intelligence (AI)",
+        "Machine Learning"
+      ],
+      "bio": "Haym Hirsh is a professor in the Department of Computer Science at Cornell University. His research has focused on foundations and applications of machine learning, data mining, information retrieval, and artificial intelligence, especially targeting questions that integrally involve both people and computing. Most recently these interests have turned to crowdsourcing, human computation, and collective intelligence. Haym received his B.S. from the Mathematics and Computer Science Departments at the University of California, Los Angeles, and his M.S. and Ph.D. from the Computer Science Department at Stanford University. Prior to moving to Cornell in 2013 to serve as dean of the Faculty of Computing and Information Science, Hirsh spent 24 years on the computer science faculty at Rutgers University, and has had visiting positions at AT&T Labs, Bar-Ilan University, Carnegie Mellon University, MIT, and the University of Zurich. From 2006-2010 he served as director of the Division of Information and Intelligent Systems at the National Science Foundation. In 2022 he was elected a Fellow of the American Association for the Advancement of Science.",
+      "location": "Ithaca",
+      "office": "Computing and Information Science Building 484",
+      "website": "https://www.cs.cornell.edu/~hirsh/"
+    },
+    {
+      "name": "Justin Hsu",
+      "profile_url": "https://www.cs.cornell.edu/people/justin-hsu",
+      "title": "Associate Professor of Computer Science",
+      "email": "justin@cs.cornell.edu",
+      "research_areas": [
+        "Programming Languages",
+        "Security",
+        "Theory of Computing"
+      ],
+      "bio": "Justin Hsu is an associate professor of computer science. Previously, he was an assistant professor in the Department of Computer Sciences at the University of Wisconsin–Madison, and a postdoc in the Department of Computer Science at Cornell University and in the Programming Principles, Logic, and Verification Group at the University College London. He obtained his Ph.D. from the Department of Computer Science at the University of Pennsylvania.",
+      "location": "Ithaca",
+      "office": "Gates Hall 446",
+      "website": "https://www.justinhsu.net/"
+    },
+    {
+      "name": "Thorsten Joachims",
+      "profile_url": "https://www.cs.cornell.edu/people/thorsten-joachims",
+      "title": "Jacob Gould Schurman Professor of Computer Science and Information Science Director, Cornell AI Initiative Vice Provost for AI Strategy",
+      "email": "tj@cs.cornell.edu",
+      "research_areas": [
+        "Human-AI interaction",
+        "Artificial Intelligence (AI)",
+        "Human Interaction",
+        "Machine Learning"
+      ],
+      "bio": "Thorsten Joachims is the Jacob Gould Schurman Professor of computer science and information science at Cornell University. He is also the Vice Provost for Artificial Intelligence Strategy at Cornell, where he leads the Cornell AI Initiative and the AI Radical Collaboration. He previously served as the interim dean for Cornell Bowers, as associate dean for research for Cornell Bowers, and as chair of the Department of Information Science. He has also served as program chair of the ICML, KDD, and RecSys conferences, and he is a member of the IMLS Board and the SIGKDD Executive Committee. Thorsten Joachims joined Cornell in 2001 after finishing his Ph. D. as a student of Prof. Morik at the University of Dortmund, from where he also received a Diplom in computer science in 1997.",
+      "location": "Ithaca",
+      "office": "Computing and Information Science Building",
+      "website": "https://www.cs.cornell.edu/people/tj/"
+    },
+    {
+      "name": "Ari Juels",
+      "profile_url": "https://www.cs.cornell.edu/people/ari-juels",
+      "title": "Weill Family Foundation and Joan and Sanford I. Weill Professor of Computer Science",
+      "email": null,
+      "research_areas": [
+        "Security",
+        "Systems + Networking"
+      ],
+      "bio": "Ari Juels is the Weill Family Foundation and Joan and Sanford I. Weill Professor of computer science at Cornell Tech, the Cornell Ann S. Bowers College of Computing and Information Science, and the Jacobs Technion-Cornell Institute. He is co-director of the Initiative for CryptoCurrencies and Contracts (IC3). He is also the chief scientist at Chainlink Labs.",
+      "location": "NYC",
+      "office": "Cornell Tech",
+      "website": "http://www.arijuels.com/"
+    },
+    {
+      "name": "Michael Kim",
+      "profile_url": "https://www.cs.cornell.edu/people/michael-kim",
+      "title": "Assistant Professor of Computer Science",
+      "email": "mpk@cs.cornell.edu",
+      "research_areas": [
+        "Machine Learning",
+        "Theory of Computing"
+      ],
+      "bio": "Michael Kim is an assistant professor of computer science. His research investigates foundational questions about responsible machine learning. Much of this work aims to identify problematic behaviors that emerge in machine-learned models and to develop algorithmic tools that provably mitigate such behaviors. More broadly, he is interested in how the theory of computation can provide insight into emerging societal and scientific challenges.",
+      "location": "Ithaca",
+      "office": "Gates Hall 320",
+      "website": "https://www.cs.cornell.edu/~mpkim/"
+    },
+    {
+      "name": "Jon Kleinberg",
+      "profile_url": "https://www.cs.cornell.edu/people/jon-kleinberg",
+      "title": "Tisch University Professor of Computer Science and Information Science",
+      "email": "kleinber@cs.cornell.edu",
+      "research_areas": [
+        "Data Science",
+        "Artificial Intelligence (AI)",
+        "Network Science",
+        "Computational Social Sciences",
+        "Ethics, Law and Policy",
+        "Human-Computer Interaction and Design",
+        "Theory of Computing"
+      ],
+      "bio": "Jon Kleinberg is a professor in both computer science and information science. His research focuses on issues at the interface of networks and information, with an emphasis on the social and information networks that underpin the Web and other online media. His work has been supported by an NSF Career Award, an ONR Young Investigator Award, a MacArthur Foundation Fellowship, a Packard Foundation Fellowship, a Sloan Foundation Fellowship, and grants from Google, Yahoo!, and the NSF. He is a member of the National Academy of Sciences, the National Academy of Engineering, the American Academy of Arts and Sciences, and the American Philosophical Society.",
+      "location": "Ithaca",
+      "office": "Gates Hall 318",
+      "website": "https://www.cs.cornell.edu/home/kleinber/"
+    },
+    {
+      "name": "Robert Kleinberg",
+      "profile_url": "https://www.cs.cornell.edu/people/robert-kleinberg",
+      "title": "Professor of Computer Science",
+      "email": "rdk@cs.cornell.edu",
+      "research_areas": [
+        "Theory of Computing"
+      ],
+      "bio": "Robert Kleinberg is a professor of computer science at Cornell University and a member of the field of information science. His research studies the design and analysis of algorithms and their applications to electronic commerce, networking, information retrieval, and other areas. Prior to receiving his doctorate from the Massachusetts Institute of Technology in 2005, Kleinberg spent three years at Akamai Technologies, where he assisted in designing the world's largest Internet Content Delivery Network. He is the recipient of a Microsoft Research New Faculty Fellowship, an Alfred P. Sloan Foundation Fellowship, and an NSF CAREER Award.",
+      "location": "Ithaca",
+      "office": "Gates Hall 317",
+      "website": "https://www.cs.cornell.edu/~rdk/"
+    },
+    {
+      "name": "Volodymyr Kuleshov",
+      "profile_url": "https://www.cs.cornell.edu/people/volodymyr-kuleshov",
+      "title": "Joan Eliasoph, M.D. Assistant Professor of Computer Science",
+      "email": "vk379@cornell.edu",
+      "research_areas": [
+        "Computational Biology",
+        "Scientific Computing"
+      ],
+      "bio": "Volodymyr Kuleshov is the Joan Eliasoph, M.D. Assistant Professor of Computer Science at Cornell Tech, the Jacobs Technion-Cornell Institute, and the Cornell Ann S. Bowers College of Computing and Information Science. He obtained his Ph.D. in computer science from Stanford University, where he received the Arthur Samuel Best Thesis Award.",
+      "location": null,
+      "office": "Cornell Tech",
+      "website": null
+    },
+    {
+      "name": "Lillian Lee",
+      "profile_url": "https://www.cs.cornell.edu/people/lillian-lee",
+      "title": "Charles Roy Davis Professor of Computer Science",
+      "email": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Human Interaction",
+        "Machine Learning",
+        "Natural Language Processing"
+      ],
+      "bio": "Lillian Lee is the Charles Roy Davis Professor in the Department of Computer Science.",
+      "location": "Ithaca",
+      "office": "Gates Hall 419",
+      "website": "https://www.cs.cornell.edu/home/llee/"
+    },
+    {
+      "name": "Owolabi Legunsen",
+      "profile_url": "https://www.cs.cornell.edu/people/owolabi-legunsen",
+      "title": "Assistant Professor of Computer Science",
+      "email": "legunsen@cornell.edu",
+      "research_areas": [
+        "Software Engineering"
+      ],
+      "bio": "Owolabi Legunsen is an assistant professor of computer science. He is part of the Software Engineering Group and is broadly interested in research on software engineering, with a focus on software testing and runtime verification. Legunsen completed his Ph.D. in computer science at the University of Illinois at Urbana-Champaign, his master's degree in computer science at the University of Texas at Dallas, and his B.Sc. in computer engineering at Obafemi Awolowo University, Nigeria. He has received three ACM SIGSOFT distinguished paper awards (ASE 2016, ISSTA 2023, ISSTA 2024), an NSF CAREER Award, an Intel Rising Star Faculty Award, and a Microsoft Faculty Research Fellowship Finalist designation.",
+      "location": "Ithaca",
+      "office": "Gates Hall 442A",
+      "website": "https://www.cs.cornell.edu/~legunsen/"
+    },
+    {
+      "name": "Sorin Lerner",
+      "profile_url": "https://www.cs.cornell.edu/people/sorin-lerner",
+      "title": "Dean, Cornell Bowers Professor of Computer Science",
+      "email": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Machine Learning"
+      ],
+      "bio": "Sorin Lerner is the dean of the Cornell Ann S. Bowers College of Computing and Information Science, appointed Nov. 1, 2025. A professor of computer science, his research focuses on providing programmers with tools to make software more secure and reliable.",
+      "location": "Ithaca",
+      "office": "201 Computing and Information Science Building",
+      "website": "https://www.cs.cornell.edu/~lerner/"
+    },
+    {
+      "name": "Wei-Chiu Ma",
+      "profile_url": "https://www.cs.cornell.edu/people/wei-chiu-ma",
+      "title": "Assistant Professor of Computer Science",
+      "email": "wm347@cornell.edu",
+      "research_areas": [
+        "Scientific Computing",
+        "Vision"
+      ],
+      "bio": "Wei-Chiu Ma is an assistant professor of computer science at Cornell University. His research lies at the intersection of 3D/4D computer vision and robotics. He is interested in building AI systems that can understand, reconstruct, and re-simulate our dynamic world, and leveraging these capabilities to enable more robust autonomous systems or advanced entertainment applications.",
+      "location": "Ithaca",
+      "office": "Gates Hall 353",
+      "website": "https://www.cs.cornell.edu/~weichiu/"
+    },
+    {
+      "name": "Steve Marschner",
+      "profile_url": "https://www.cs.cornell.edu/people/steve-marschner",
+      "title": "Professor of Computer Science Associate Dean for Research",
+      "email": "srm@cs.cornell.edu",
+      "research_areas": [
+        "Graphics",
+        "Vision"
+      ],
+      "bio": "Steve Marschner is a professor of computer science, and currently serves as the associate dean for research in the Ann S. Bowers College of Computing and Information science. His research and teaching are in computer graphics and vision, centered around how optics and mechanics determine the appearance of materials, with interests in realistic rendering, material models (optical and mechanical), appearance capture, simulation, and computational photography. Some questions that run through his work are “How can we get objects to appear to be made from exactly the right kind of material?” and “How can we cleverly use cameras to help us measure the information we need to make great images?”",
+      "location": "Ithaca",
+      "office": "Gates Hall 313",
+      "website": "https://www.cs.cornell.edu/~srm/"
+    },
+    {
+      "name": "Mae Milano",
+      "profile_url": null,
+      "title": "Visiting Scholar in computer science",
+      "email": "mpm288@cornell.edu",
+      "research_areas": [],
+      "bio": null,
+      "location": null,
+      "office": null,
+      "website": null
+    },
+    {
+      "name": "Kristina Monakhova",
+      "profile_url": "https://www.cs.cornell.edu/people/kristina-monakhova",
+      "title": "Assistant Professor of Computer Science",
+      "email": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Computational Biology",
+        "Graphics",
+        "Machine Learning",
+        "Vision"
+      ],
+      "bio": "Kristina Monakhova is an assistant professor in the Department of Computer Science at Cornell. She works on co-designing optics and algorithms to create better, smaller, and more capable cameras and microscopes.",
+      "location": "Ithaca",
+      "office": "Gates Hall 442B",
+      "website": "https://kristinamonakhova.com/kristina/"
+    },
+    {
+      "name": "Greg Morrisett",
+      "profile_url": "https://www.cs.cornell.edu/people/greg-morrisett",
+      "title": "Professor of Computer Science Jack and Rilla Neafsey Dean and Vice Provost, Cornell Tech",
+      "email": "jgm19@cornell.edu",
+      "research_areas": [
+        "Programming Languages",
+        "Security",
+        "Systems + Networking"
+      ],
+      "bio": "Greg Morrisett is the Jack and Rilla Neafsey Dean and Vice Provost of Cornell Tech, Cornell University’s state-of-the-art campus in New York City that develops leaders and technologies for the AI era through foundational and applied research, graduate education, and new ventures. As the second dean of Cornell Tech, he has led the campus since 2019 and is responsible for the academic quality and direction of its degree programs as well as for efforts to recruit faculty, researchers, and students from around the world. His efforts have built pathways to expand access to the field as well as to engage industry partners and early-stage investors, further accelerating Cornell Tech’s contribution to New York City’s innovation economy.",
+      "location": "NYC",
+      "office": "Cornell Tech",
+      "website": "http://www.cs.cornell.edu/~jgm/"
+    },
+    {
+      "name": "Andrew Myers",
+      "profile_url": "https://www.cs.cornell.edu/people/andrew-myers",
+      "title": "Professor of Computer Science Class of 1912 Professor of Engineering Director of Graduate Studies",
+      "email": "andru@cs.cornell.edu",
+      "research_areas": [
+        "Programming Languages",
+        "Security",
+        "Systems + Networking"
+      ],
+      "bio": "Andrew Myers is the Class of 1912 Professor of Engineering in the Department of Computer Science at Cornell University. He received his Ph.D. in electrical engineering and computer science from MIT in 1999, advised by Barbara Liskov.",
+      "location": "Ithaca",
+      "office": "Computing and Information Science Building 488",
+      "website": "https://www.cs.cornell.edu/andru/"
+    },
+    {
+      "name": "David Naumann",
+      "profile_url": null,
+      "title": "Visiting Professor of computer science",
+      "email": "dan223@cornell.edu",
+      "research_areas": [],
+      "bio": null,
+      "location": null,
+      "office": null,
+      "website": null
+    },
+    {
+      "name": "Andrew Owens",
+      "profile_url": "https://www.cs.cornell.edu/people/andrew-owens",
+      "title": "Associate Professor of Computer Science",
+      "email": "andrew.owens@cornell.edu",
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Graphics",
+        "Vision"
+      ],
+      "bio": "Andrew Owens is an associate professor of computer science at Cornell Tech and the Cornell Ann S. Bowers College of Computing and Information Science. His research aims to create multimodal systems that learn to see, hear, and touch without human-labeled training data. Instead, these systems learn from co-occurring sensory signals, such as the correlations between the visual and audio streams of a video. His work has enabled applications that include producing soundtracks for silent videos, robotic manipulation with vision and touch, detecting AI-generated images, and generating visual illusions.",
+      "location": "NYC",
+      "office": "Cornell Tech",
+      "website": "https://www.andrewowens.com/"
+    },
+    {
+      "name": "Rafael Pass",
+      "profile_url": "https://www.cs.cornell.edu/people/rafael-pass",
+      "title": "Professor of Computer Science",
+      "email": null,
+      "research_areas": [
+        "Security",
+        "Theory of Computing"
+      ],
+      "bio": "Rafael Pass is a Professor at Cornell Tech and in the Computer Science Department at Cornell University. He obtained his bachelor’s in Engineering Physics and a master’s in Computer Science, both from the Royal Institute of Technology (KTH) in Sweden, and his Ph.D. in Computer Science from the Massachusetts Institute of Technology (M.I.T.) in 2006. He has been on the faculty of Cornell University since 2006 and joined Cornell Tech in 2013.",
+      "location": "NYC",
+      "office": "Cornell Tech",
+      "website": "http://www.cs.cornell.edu/~rafael/"
+    },
+    {
+      "name": "Leah Perlmutter",
+      "profile_url": "https://www.cs.cornell.edu/people/leah-perlmutter",
+      "title": "Lecturer of Computer Science",
+      "email": "lrp87@cornell.edu",
+      "research_areas": [
+        "Human Interaction"
+      ],
+      "bio": null,
+      "location": "Ithaca",
+      "office": "Computing and Information Science Building 467",
+      "website": null
+    },
+    {
+      "name": "Adrian Sampson",
+      "profile_url": "https://www.cs.cornell.edu/people/adrian-sampson",
+      "title": "Associate Professor of Computer Science",
+      "email": "asampson@cs.cornell.edu",
+      "research_areas": [
+        "Architecture",
+        "Programming Languages"
+      ],
+      "bio": "Adrian Sampson is an associate professor in the Department of Computer Science at Cornell University. He works on programming languages, computer architecture, and the abstractions that separate them. He is especially excited about languages and compilers that make it easy for anyone to construct and exploit specialized hardware accelerators. In a different era, he worked on approximate computing , the idea that we should design computers that compute worse answers.",
+      "location": "Ithaca",
+      "office": "Computing and Information Science Building 482",
+      "website": "https://www.cs.cornell.edu/~asampson/"
+    },
+    {
+      "name": "Fred B. Schneider",
+      "profile_url": "https://www.cs.cornell.edu/people/fred-b-schneider",
+      "title": "Samuel B. Eckert Professor of Computer Science",
+      "email": "fbs@cs.cornell.edu",
+      "research_areas": [
+        "Ethics, Law and Policy",
+        "Tech and the law",
+        "Programming Languages",
+        "Security",
+        "Software Engineering",
+        "Systems + Networking"
+      ],
+      "bio": "Fred B. Schneider is the Samuel B. Eckert Professor of Computer Science at Cornell University. He joined Cornell's faculty in Fall 1978 and served as department chair from 2014-2018. His Ph.D. (1978) is from Stony Brook University, having completed a B.S. in engineering at Cornell in 1975.",
+      "location": "Ithaca",
+      "office": "Gates Hall 422",
+      "website": "https://www.cs.cornell.edu/fbs/"
+    },
+    {
+      "name": "Bart Selman",
+      "profile_url": "https://www.cs.cornell.edu/people/bart-selman",
+      "title": "Professor of Computer Science",
+      "email": "selman@cs.cornell.edu",
+      "research_areas": [
+        "Computing and the Environment"
+      ],
+      "bio": "Bart Selman is a professor of computer science at Cornell University. Previously, he was at AT&T Bell Laboratories. His research interests include computational sustainability, efficient reasoning procedures, planning, knowledge representation, and connections between computer science and statistical physics. He has (co-)authored more than 100 publications, including six best paper awards. His papers have appeared in venues spanning Nature, Science, Proceedings of the National Academy of Sciences, and a variety of conferences and journals in AI and computer science. He has received the Cornell Stephen Miles Excellence in Teaching Award, the Cornell Outstanding Educator Award, an NSF Career Award, and an Alfred P. Sloan Research Fellowship. He is a Fellow of the American Association for Artificial Intelligence and a Fellow of the American Association for the Advancement of Science.",
+      "location": "Ithaca",
+      "office": "Computing and Information Science Building 479",
+      "website": "https://www.cs.cornell.edu/selman/"
+    },
+    {
+      "name": "Vitaly Shmatikov",
+      "profile_url": "https://www.cs.cornell.edu/people/vitaly-shmatikov",
+      "title": "Professor of Computer Science",
+      "email": "shmat@cs.cornell.edu",
+      "research_areas": [
+        "Security",
+        "Systems + Networking"
+      ],
+      "bio": "Vitaly Shmatikov is a professor of computer science at Cornell Tech and the Cornell Ann S. Bowers College of Computing and Information Science. Before Cornell, he worked at the University of Texas at Austin and SRI International. His research areas include digital privacy, computer security, and security and privacy issues in machine learning.",
+      "location": "NYC",
+      "office": "Cornell Tech",
+      "website": "http://www.cs.cornell.edu/~shmat/"
+    },
+    {
+      "name": "Alexandra Silva",
+      "profile_url": "https://www.cs.cornell.edu/people/alexandra-silva",
+      "title": "Professor of Computer Science",
+      "email": "alexandra.silva@cornell.edu",
+      "research_areas": [
+        "Programming Languages",
+        "Security",
+        "Software Engineering",
+        "Theory of Computing"
+      ],
+      "bio": "Alexandra Silva is a professor in the Department of Computer Science at Cornell University. Before joining the faculty at Cornell, she was a Royal Society Wolfson Fellow and Professor of Algebra, Semantics, and Computation at the Programming Principles, Logic and Verification Group , University College London .",
+      "location": "Ithaca",
+      "office": "Gates Hall 434",
+      "website": "https://alexandrasilva.org/"
+    },
+    {
+      "name": "Rachee Singh",
+      "profile_url": "https://www.cs.cornell.edu/people/rachee-singh",
+      "title": "Assistant Professor of Computer Science",
+      "email": "rachee@cs.cornell.edu",
+      "research_areas": [
+        "Systems + Networking"
+      ],
+      "bio": "Rachee Singh is an assistant professor of computer science at Cornell University where she leads the sysphotonics group . Her group develops systems and algorithms for efficient communication on server-scale, rack-scale, and long-haul photonic interconnects. We use these systems to improve the performance of important applications like distributed machine learning and general planet-scale cloud workloads.",
+      "location": "Ithaca",
+      "office": "Gates Hall 441B",
+      "website": "https://www.racheesingh.com/"
+    },
+    {
+      "name": "Noah Snavely",
+      "profile_url": "https://www.cs.cornell.edu/people/noah-snavely",
+      "title": "Professor of Computer Science",
+      "email": "snavely@cs.cornell.edu",
+      "research_areas": [
+        "Graphics",
+        "Human Interaction",
+        "Vision"
+      ],
+      "bio": "Noah Snavely is a professor of computer science at Cornell Tech and the Cornell Ann S. Bowers College of Computing and Information Science. Snavely’s research interests are in computer vision and graphics, in particular, recovering structure from large photo collections for use in understanding and visualizing the world around us.",
+      "location": "NYC",
+      "office": "Cornell Tech",
+      "website": "http://www.cs.cornell.edu/~snavely/"
+    },
+    {
+      "name": "Nicholas Spooner",
+      "profile_url": "https://www.cs.cornell.edu/people/nicholas-spooner",
+      "title": "Assistant Professor of Computer Science",
+      "email": null,
+      "research_areas": [
+        "Security",
+        "Theory of Computing"
+      ],
+      "bio": "Nicholas Spooner is an assistant professor of computer science at Cornell University and a member of the Theory of Computing group. His work focuses on post-quantum proof systems. His interests include probabilistic proof systems and zero knowledge in general, post-quantum cryptography, quantum information, coding theory, and computational complexity.",
+      "location": "Ithaca",
+      "office": "Gates Hall 315",
+      "website": "https://spooner.cc/"
+    },
+    {
+      "name": "Karthik Sridharan",
+      "profile_url": "https://www.cs.cornell.edu/people/karthik-sridharan",
+      "title": "Associate Professor of Computer Science",
+      "email": "sridharan@cs.cornell.edu",
+      "research_areas": [],
+      "bio": "Karthik Sridharan is an associate professor in the Department of Computer Science at Cornell University. Prior to that, he was a postdoctoral research associate at the University of Pennsylvania, jointly with Alexander Rakhlin and Michael Kearns. He obtained his Ph.D. from Toyota Technological Institute at Chicago where his thesis advisor was Nathan Srebro . His primary area of research is theoretical machine learning, with interests in statistical learning theory, online learning, optimization, empirical process theory, concentration inequalities, and game theory.",
+      "location": "Ithaca",
+      "office": "Computing and Information Science Building 477",
+      "website": "https://www.cs.cornell.edu/~sridharan/"
+    },
+    {
+      "name": "Kamile Stankevičiūtė",
+      "profile_url": null,
+      "title": "Visiting Research Scholar of computer science",
+      "email": "ks2448@cornell.edu",
+      "research_areas": [],
+      "bio": null,
+      "location": null,
+      "office": null,
+      "website": null
+    },
+    {
+      "name": "Noah Stephens-Davidowitz",
+      "profile_url": "https://www.cs.cornell.edu/people/noah-stephens-davidowitz",
+      "title": "Assistant Professor of Computer Science",
+      "email": "noahsd@gmail.com",
+      "research_areas": [
+        "Security",
+        "Theory of Computing"
+      ],
+      "bio": "Noah Stephens-Davidowitz is an assistant professor in the Department of Computer Science, and a member of the applied math field and the mathematics field. His research to date has focused primarily on the study of lattices. He is also interested more broadly in theoretical computer science, cryptography, and geometry.",
+      "location": "Ithaca",
+      "office": "Gates Hall 321",
+      "website": "https://www.noahsd.com/"
+    },
+    {
+      "name": "Jennifer J. Sun",
+      "profile_url": "https://www.cs.cornell.edu/people/jennifer-j-sun",
+      "title": "Assistant Professor in Computer Science",
+      "email": "jjs533@cornell.edu",
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Machine Learning",
+        "Vision"
+      ],
+      "bio": "Jennifer J. Sun is an assistant professor in the Department of Computer Science at Cornell University. Her research develops AI for scientists to accelerate discovery across fields. Her group works with researchers and domain experts to build approaches that enable new ways to collaborate between human experts and machine learning systems. Her work intersects different areas of computer vision and machine learning, including representation learning, program synthesis, generative modeling, and human-AI collaboration. Sun received her Ph.D. in computing and mathematical science from the California Institute of Technology and her bachelor's degree in engineering science (electrical and computer engineering) from the University of Toronto.",
+      "location": "Ithaca",
+      "office": "Gates Hall 450",
+      "website": "https://jenjsun.com/"
+    },
+    {
+      "name": "Éva Tardos",
+      "profile_url": "https://www.cs.cornell.edu/people/tardos",
+      "title": "Jacob Gould Schurman Professor of Computer Science",
+      "email": "eva.tardos@cornell.edu",
+      "research_areas": [
+        "Economics + Information",
+        "Network Science",
+        "Computational Social Sciences",
+        "Theory of Computing"
+      ],
+      "bio": "Éva Tardos is the Jacob Gould Schurman Professor of Computer Science. Her research interests include algorithms and algorithmic game theory, the subarea of theoretical computer science theory of designing and analyzing systems, and algorithms for selfish users. Her research focuses on algorithms and games on networks and simple auctions. She is most known for her work on quantifying the efficiency of selfish routing. Tardos received her Dipl.Math. and Ph.D. from Eötvös University, in Hungary. She has been elected to the National Academy of Engineering, the National Academy of Sciences, the American Philosophical Society, the American Academy of Arts and Sciences. She is the recipient of a number of fellowships and awards including the Packard Fellowship and the IEEE von Neumann Medal.",
+      "location": "Ithaca",
+      "office": "Gates Hall 316",
+      "website": "https://www.cs.cornell.edu/~eva/"
+    },
+    {
+      "name": "John Thickstun",
+      "profile_url": "https://www.cs.cornell.edu/people/john-thickstun",
+      "title": "Assistant Professor of Computer Science",
+      "email": "jthickstun@cornell.edu",
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Machine Learning",
+        "Natural Language Processing"
+      ],
+      "bio": "John Thickstun is an assistant professor of computer science. He works on machine learning and generative models. Thickstun is interested in methods that control the behavior of models, both from the perspective of a user who hopes to use a model to accomplish concrete tasks, and from the perspective of a model provider or policymaker who hopes to broadly regulate the outputs of a model. He is also interested in applications of generative models that push beyond the standard text and image modalities, including music technologies.",
+      "location": "Ithaca",
+      "office": "Gates 413A",
+      "website": "https://johnthickstun.com/"
+    },
+    {
+      "name": "Immanuel Trummer",
+      "profile_url": "https://www.cs.cornell.edu/people/immanuel-trummer",
+      "title": "Associate Professor of Computer Science",
+      "email": "itrummer@cornell.edu",
+      "research_areas": [
+        "Database Systems"
+      ],
+      "bio": "Immanuel Trummer is an associate professor of computer science. In his research, he makes data analysis more efficient and more user-friendly, often leveraging methods from the area of machine learning. His papers were selected for “Best of VLDB,” “Best of SIGMOD,” the ACM SIGMOD Research Highlight Award, and for publication in CACM as a CACM Research Highlight. He is a recipient of the NSF CAREER Award and multiple Google Faculty Research Awards. Trummer obtained a Ph.D. in computer science from the École Polytechnique Fédérale de Lausanne and a French-German double diploma in computer science and engineering.",
+      "location": "Ithaca",
+      "office": "Gates Hall 411B",
+      "website": "https://itrummer.github.io/"
+    },
+    {
+      "name": "Douglas Turnbull",
+      "profile_url": null,
+      "title": "Visiting Associate Professor of computer science",
+      "email": "drt67@cornell.edu",
+      "research_areas": [],
+      "bio": null,
+      "location": null,
+      "office": null,
+      "website": "https://cseweb.ucsd.edu/~dturnbul/resume.htm"
+    },
+    {
+      "name": "Robbert van Renesse",
+      "profile_url": "https://www.cs.cornell.edu/people/robbert-van-renesse",
+      "title": "Professor of Computer Science",
+      "email": "rvr@cs.cornell.edu",
+      "research_areas": [
+        "Security",
+        "Systems + Networking"
+      ],
+      "bio": "Robbert van Renesse is a professor in the Department of Computer Science at Cornell University. He is a member of the Systems and Networking group and is interested in distributed systems, particularly in their  fault tolerance and scalability aspects. He is co-editor-in-chief for ACM Transactions on Computing Systems . He also plays jazz guitar and banjo in various bands, including the Ageless Jazz Band , the The JazzHappensBand , and Soda Ash Six. Van Renesse received his M.Sc. in mathematics and computer science and his Ph.D. in computer science, both from the Vrije Universiteit under the supervision of Andrew S. Tanenbaum. He is a Fellow of the Association of Computing Machinery.",
+      "location": "Ithaca",
+      "office": "Gates Hall 433",
+      "website": "https://www.cs.cornell.edu/home/rvr/"
+    },
+    {
+      "name": "Anke van Zuylen",
+      "profile_url": "https://www.cs.cornell.edu/people/anke-van-zuylen",
+      "title": "Teaching Professor of Computer Science",
+      "email": null,
+      "research_areas": [
+        "Theory of Computing"
+      ],
+      "bio": "Anke van Zuylen is a teaching professor in the Department of Computer Science. Her research interests are in combinatorial optimization. She designs and analyzes algorithms for optimization problems arising in areas such as: information science, in particular, aggregating inconsistent structured information; network design, scheduling and logistics, and computational biology.",
+      "location": "Ithaca",
+      "office": "Gates Hall 447",
+      "website": "https://ankevanzuylen.com"
+    },
+    {
+      "name": "Hakim Weatherspoon",
+      "profile_url": "https://www.cs.cornell.edu/people/hakim-weatherspoon",
+      "title": "Associate Dean for Belonging at Bowers, Professor of Computer Science",
+      "email": "hweather@cs.cornell.edu",
+      "research_areas": [
+        "Systems + Networking"
+      ],
+      "bio": "Hakim Weatherspoon is a professor in the Department of Computer Science. His research interests cover various aspects of information systems, distributed systems, network systems, and peer-to-peer systems. In these areas, he particularly focuses on fault-tolerance, reliability, security, and performance of internet-scale systems with decentralized – autonomous, federated, multi-organizational, and cooperative – control.",
+      "location": "Ithaca",
+      "office": "Gates Hall 427",
+      "website": "https://www.cs.cornell.edu/~hweather/"
+    },
+    {
+      "name": "Kilian Weinberger",
+      "profile_url": "https://www.cs.cornell.edu/people/kilian-weinberger",
+      "title": "Professor of Computer Science",
+      "email": null,
+      "research_areas": [
+        "Artificial Intelligence (AI)",
+        "Machine Learning",
+        "Natural Language Processing",
+        "Vision"
+      ],
+      "bio": "Kilian Weinberger is a professor in the Department of Computer Science at Cornell University. He received his Ph.D. from the University of Pennsylvania in machine learning under the supervision of Lawrence Saul, and his undergraduate degree in mathematics and computing from the University of Oxford. In 2011 he was awarded the Outstanding AAAI Senior Program Chair Award and in 2012 he received an NSF CAREER award. He is the recipient of the Daniel M. Lazar '29 Excellence in Teaching Award (2016) and the Ann S. Bowers Teaching and Advising Excellence Award (2024). As of 2024, he is an ACM and AAAI fellow and in 2021 became a Blavatnik National Awards Finalist. Since 2024 he has been a member of the Sloan Research Fellowships Selection Committee. Weinberger's research focuses on machine learning and its applications. In particular, he has worked on learning under resource constraints, metric learning, AI in science, computer vision, autonomous vehicles, Gaussian processes, and deep learning. Before joining Cornell University, he was an associate professor at Washington University in St. Louis, and before that, he worked as a research scientist at Yahoo! Research in Santa Clara.",
+      "location": "Ithaca",
+      "office": "Computing and Information Science Building 475",
+      "website": "https://www.cs.cornell.edu/~kilian/"
+    },
+    {
+      "name": "Walker White",
+      "profile_url": "https://www.cs.cornell.edu/people/walker-white",
+      "title": "Senior Lecturer of Computer Science Stephen H. Weiss Provost’s Teaching Fellow",
+      "email": "wmwhite@cs.cornell.edu",
+      "research_areas": [],
+      "bio": "Walker White is a senior lecturer of computer science and a Stephen H. Weiss Provost's Teaching Fellow. A mathematical logician by training, White studied computable model theory for his thesis work, and then moved onto the design of high-level languages for databases and information systems. More recently, White has combined his professional research in databases and query languages with his hobbies in gaming and game design. He is the director of the Game Design Initiative at Cornell , which he helped launch in 2001 as one of the first official computer game programs of its kind and the first such program established at an Ivy League university. In his role as director, he leads Cornell’s undergraduate minor in game design. He received a Ph.D. in mathematics and a master’s in computer science from Cornell, and a bachelor’s in mathematics from Dartmouth.",
+      "location": "Ithaca",
+      "office": "Gates Hall 451",
+      "website": "https://www.cs.cornell.edu/~wmwhite/"
+    },
+    {
+      "name": "Ramin Zabih",
+      "profile_url": "https://www.cs.cornell.edu/people/ramin-zabih",
+      "title": "Professor of Computer Science",
+      "email": "rdz@cs.cornell.edu",
+      "research_areas": [],
+      "bio": "Ramin Zabih is a Professor at Cornell Tech and in the Computer Science Department at Cornell University. He received his undergraduate degrees from MIT in Computer Science and Math, and his Ph.D. from Stanford in Computer Science.",
+      "location": "NYC",
+      "office": null,
+      "website": null
+    },
+    {
+      "name": "Yiyi Zhang",
+      "profile_url": null,
+      "title": "Visiting Scientist in computer science, Weill Cornell",
+      "email": "yz2364@cornell.edu",
+      "research_areas": [],
+      "bio": null,
+      "location": "NYC",
+      "office": null,
+      "website": "https://www.yiyezhang.com/"
+    }
+  ]
+}

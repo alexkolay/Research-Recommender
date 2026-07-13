@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Personal resume data - never commit real PII
+*.pdf
+*.docx
+data/*.extracted.json
+data/*.matches.json
+data/*.extracted.matches.json
+*.extracted.json
+*.matches.json
+*.extracted.matches.json
+
+# Env / secrets
+.env

@@ -1,0 +1,767 @@
+{
+  "school": "Stanford University",
+  "department": "Computer Science",
+  "source_url": "https://www.cs.stanford.edu/people/faculty",
+  "faculty": [
+    {
+      "name": "Sara Achour",
+      "profile_url": "https://www.cs.stanford.edu/people/sara-achour",
+      "short_title": "Assistant Professor of Computer Science and of Electrical Engineering",
+      "title": "Assistant Professor of Computer Science and of Electrical Engineering",
+      "bio": null,
+      "email": null
+    },
+    {
+      "name": "Ehsan Adeli",
+      "profile_url": "https://www.cs.stanford.edu/people/ehsan-adeli",
+      "short_title": "Assistant Professor of Psychiatry & Behavioral Sciences, by courtesy, of Biomedical Data Science, and of Computer Science | Director, Stanford Translational AI (STAI) Lab Stanford University",
+      "title": "Assistant Professor of Psychiatry & Behavioral Sciences, by courtesy, of Biomedical Data Science, and of Computer Science | Director, Stanford Translational AI (STAI) Lab Stanford University",
+      "bio": "With a Ph.D. in artificial intelligence and computer vision and postgraduate training in biomedical imaging & computational neuroscience, I solve critical problems in healthcare and neuroscience.My research group focuses on developing Translational Artificial Intelligence (AI) algorithms in medicine and mental health. My work involves the automatic analysis of human activities and behaviors from videos, connecting how humans perform actions to the brain by analyzing magnetic resonance images (MRIs). By exploring explainable machine learning algorithms, I aim to uncover the underlying factors of neurodegenerative and neuropsychiatric diseases and their impact on everyday life.My research concentrates on and connects two main areas: digital humans and human neuroscience. I analyze 3D motion, actions, and behaviors using various human sensing technologies, such as video and sensory data. Additionally, I employ clinical and cognitive tests, as well as neuroimaging modalities like MRIs, to explore brain function and neural processes. Integrating these technologies to enhance clinical applications and provide deeper insights into the complexities of human behavior and brain function, my group develops world models for neuroscience. Honors & Awards 2023 Chairman’s Award for Educational Excellence, Stanford School of Medicine, Department of Psychiatry and Behavioral Sciences (2023) Jaswa Innovator Award, Stanford School of Medicine (2022-2024) Faculty Professional & Leadership Award, Department of Psychiatry and Behavioral Sciences, Stanford School of Medicine (2022) Senior Member, IEEE (2021-Now) REC Fellow, Stanford University Alzheimer's Disease Research Center (ADRC) (2020-2022) Innovator Award 2021, Stanford University School of Medicine Department of Psychiatry & Behavioral Sciences (2020-2021) Young Investigator Travel Award, Medical Image Computing and Computer Assisted Interventions (MICCAI) (2018) NIH F32 Fellowship Award, NIAAA (2018-2019)",
+      "email": "eadeli@stanford.edu"
+    },
+    {
+      "name": "Maneesh Agrawala",
+      "profile_url": "https://www.cs.stanford.edu/people/maneesh-agrawala",
+      "short_title": "Forest Baskett Professor and Professor, by courtesy, of Electrical Engineering",
+      "title": "Forest Baskett Professor and Professor, by courtesy, of Electrical Engineering",
+      "bio": "Maneesh Agrawala is the Forest Baskett Professor of Computer Science and Director of the Brown Institute for Media Innovation at Stanford University. He was previously a Professor of Electrical Engineering and Computer Science at the University of California, Berkeley (2005 - 2015). He works on computer graphics, human computer interaction and visualization. His focus is on investigating how cognitive design principles can be used to improve the effectiveness of audio/visual media. The goals of this work are to discover the design principles and then instantiate them in both interactive and automated design tools. He received an Okawa Foundation Research Grant in 2006, an Alfred P. Sloan Foundation Fellowship and an NSF CAREER Award in 2007, a SIGGRAPH Significant New Researcher Award in 2008, and a MacArthur Foundation Fellowship in 2009.",
+      "email": null
+    },
+    {
+      "name": "Alex Aiken",
+      "profile_url": "https://www.cs.stanford.edu/people/alex-aiken",
+      "short_title": "Alcatel-Lucent Professor of Communications and Networking, Professor of Particle Physics and Astrophysics, and of Photon Science",
+      "title": "Alcatel-Lucent Professor of Communications and Networking, Professor of Particle Physics and Astrophysics, and of Photon Science",
+      "bio": "Alex Aiken is the Alcatel-Lucent Professor of Computer Science at Stanford. Alex received his Bachelors degree in Computer Science and Music from Bowling Green State University in 1983 and his Ph.D. from Cornell University in 1988. Alex was a Research Staff Member at the IBM Almaden Research Center (1988-1993) and a Professor in the EECS department at UC Berkeley (1993-2003) before joining the Stanford faculty in 2003. His research interest is in areas related to programming languages.",
+      "email": null
+    },
+    {
+      "name": "Nima Anari",
+      "profile_url": "https://www.cs.stanford.edu/people/nima-anari",
+      "short_title": "Assistant Professor of Computer Science",
+      "title": "Assistant Professor of Computer Science",
+      "bio": null,
+      "email": null
+    },
+    {
+      "name": "Zain Asgar",
+      "profile_url": "https://www.cs.stanford.edu/people/zain-asgar",
+      "short_title": "Adjunct Professor",
+      "title": "Adjunct Professor",
+      "bio": null,
+      "email": "zasgar@stanford.edu"
+    },
+    {
+      "name": "Stephen B. Montgomery",
+      "profile_url": "https://www.cs.stanford.edu/people/stephen-b-montgomery",
+      "short_title": "Professor of Pathology, of Genetics and of Biomedical Data Science, by courtesy, of Computer Science",
+      "title": "Professor of Pathology, of Genetics and of Biomedical Data Science, by courtesy, of Computer Science",
+      "bio": null,
+      "email": "smontgom@stanford.edu"
+    },
+    {
+      "name": "Peter Bailis",
+      "profile_url": "https://www.cs.stanford.edu/people/peter-bailis-0",
+      "short_title": "Adjunct Professor",
+      "title": "Adjunct Professor",
+      "bio": null,
+      "email": null
+    },
+    {
+      "name": "Clark Barrett",
+      "profile_url": "https://www.cs.stanford.edu/people/clark-barrett",
+      "short_title": "Corbel Professor",
+      "title": "Corbel Professor",
+      "bio": "Clark Barrett is the Corbel Professor (Research) of Computer Science in the School of Engineering at Stanford University.  Before coming to Stanford in 2016, he was an Associate Professor of Computer Science at the Courant Institute of Mathematical Sciences at New York University.  His expertise is in automated reasoning and its applications.  He was an early pioneer in satisfiability modulo theories, formal hardware verification, and neural network verification.  More recently, he has also pioneered efforts on AI-assisted formal verification.  He is the director of the Stanford Center for Automated Reasoning (Centaur), co-director of the Stanford Center for AI Safety, and a member of the CSLib steering committee. He is an ACM Fellow and a two-time winner of the Computer Aided Verification (CAV) award (2021, 2024).",
+      "email": null
+    },
+    {
+      "name": "Gill Bejerano",
+      "profile_url": "https://www.cs.stanford.edu/people/gill-bejerano",
+      "short_title": "Professor of Developmental Biology, of Computer Science and of Pediatrics (Genetics)",
+      "title": "Professor of Developmental Biology, of Computer Science and of Pediatrics (Genetics)",
+      "bio": "Gill Bejerano holds a B.Sc. In Mathematics, Physics and Computer Science, and a Ph.D in Computer Science (Machine Learning applications in Biology) from Hebrew University of Jerusalem. Gill got into genomics in 2003, started a wet lab in 2007, began analyzing patient genomes and medical records in 2014, got into cryptogenomics in 2017 and has become very interested in healthcare economics and patient risk management in 2021. He is recognized by multiple academic awards including two best paper and tomorrow's PI awards, Mallinckrodt, Sloan, Human Frontiers, Searle, Okawa, David and Lucile Packard, Microsoft and Sony Scholar awards. Gill has trained, collaborated and advised computational scientists, experimentalists, clinicians, and MBAs and has helped both start-ups and Fortune 500 companies.",
+      "email": null
+    },
+    {
+      "name": "Michael Bernstein",
+      "profile_url": "https://www.cs.stanford.edu/people/michael-bernstein",
+      "short_title": "Professor of Computer Science and Senior Fellow at the Stanford Institute for Human-Centered AI",
+      "title": "Professor of Computer Science and Senior Fellow at the Stanford Institute for Human-Centered AI",
+      "bio": "Michael Bernstein is a Professor of Computer Science at Stanford University, where he is a Bass University Fellow and Senior Fellow at the Stanford Institute for Human-Centered Artificial Intelligence. A nationally bestselling author, Michael focuses on designing social, societal, and interactive technologies. This research has been reported in venues such as The New York Times, TED AI, and MIT Technology Review, and Michael himself has been recognized with an Alfred P. Sloan Fellowship and the Computer History Museum's Tech for Humanity Prize. Michael holds a bachelor's degree in Symbolic Systems from Stanford University, as well as a master's degree and a Ph.D. in Computer Science from MIT.",
+      "email": null
+    },
+    {
+      "name": "Thomas Binford",
+      "profile_url": "https://www.cs.stanford.edu/people/thomas-binford",
+      "short_title": "Professor (research) of Computer Science, Emeritus",
+      "title": "Professor (research) of Computer Science, Emeritus",
+      "bio": null,
+      "email": null
+    },
+    {
+      "name": "Jeannette Bohg",
+      "profile_url": "https://www.cs.stanford.edu/people/jeannette-bohg",
+      "short_title": "Associate Professor of Computer Science",
+      "title": "Associate Professor of Computer Science",
+      "bio": "Jeannette Bohg is an Assistant Professor of Computer Science at Stanford University. She was a group leader at the Autonomous Motion Department (AMD) of the MPI for Intelligent Systems until September 2017. Before joining AMD in January 2012, Jeannette Bohg was a PhD student at the Division of Robotics, Perception and Learning (RPL) at KTH in Stockholm. In her thesis, she proposed novel methods towards multi-modal scene understanding for robotic grasping. She also studied at Chalmers in Gothenburg and at the Technical University in Dresden where she received her Master in Art and Technology and her Diploma in Computer Science, respectively. Her research focuses on perception and learning for autonomous robotic manipulation and grasping. She is specifically interesting in developing methods that are goal-directed, real-time and multi-modal such that they can provide meaningful feedback for execution and learning. Jeannette Bohg has received several awards, most notably the 2019 IEEE International Conference on Robotics and Automation (ICRA) Best Paper Award, the 2019 IEEE Robotics and Automation Society Early Career Award and the 2017 IEEE Robotics and Automation Letters (RA-L) Best Paper Award.",
+      "email": null
+    },
+    {
+      "name": "Dan Boneh",
+      "profile_url": "https://www.cs.stanford.edu/people/dan-boneh",
+      "short_title": "Cryptography Professor and Professor of Electrical Engineering",
+      "title": "Cryptography Professor and Professor of Electrical Engineering",
+      "bio": "Professor Boneh heads the applied cryptography group and co-direct the computer security lab.  Professor Boneh's research focuses on applications of cryptography to computer security. His work includes cryptosystems with novel properties, web security, security for mobile devices, and cryptanalysis. He is the author of over a hundred publications in the field and is a Packard and Alfred P. Sloan  fellow.  He is a recipient of the 2014 ACM prize and the 2013 Godel prize.  In 2011 Dr. Boneh received the Ishii award for industry education innovation. Professor Boneh received his Ph.D from Princeton University and joined Stanford in 1997.",
+      "email": null
+    },
+    {
+      "name": "Adam Bouland",
+      "profile_url": "https://www.cs.stanford.edu/people/adam-bouland",
+      "short_title": "Assistant Professor of Computer Science",
+      "title": "Assistant Professor of Computer Science",
+      "bio": "Adam Bouland is an Assistant Professor of Computer Science. His research focuses on quantum computing theory and connections between computational complexity and physics. Please see http://theory.stanford.edu/~abouland/ for details.",
+      "email": null
+    },
+    {
+      "name": "Emma Brunskill",
+      "profile_url": "https://www.cs.stanford.edu/people/emma-brunskill",
+      "short_title": "Associate Professor of Computer Science",
+      "title": "Associate Professor of Computer Science",
+      "bio": null,
+      "email": null
+    },
+    {
+      "name": "Mike Carbin",
+      "profile_url": "https://www.cs.stanford.edu/people/mike-carbin",
+      "short_title": "Visiting Associate Professor",
+      "title": "Visiting Associate Professor",
+      "bio": null,
+      "email": null
+    },
+    {
+      "name": "Edward Chang",
+      "profile_url": "https://www.cs.stanford.edu/people/edward-chang-0",
+      "short_title": "Adjunct Professor, Computer Science",
+      "title": "Adjunct Professor, Computer Science",
+      "bio": "Edward Chang, a pioneer working on data-centric parallel machine learning since 2005. He is an adjunct professor at Stanford CS department. He also serves as the CTO of AILLY.ai. Prior to his current posts, Ed was the president of HTC Healthcare BU (DeepQ) from 2012 to 2021. Between 2006 and 2012 he served as a director of research at Google, leading research and development in areas including scalable machine learning, indoor localization, Google Q&A, and recommendation systems. Between 1999 and 2006, Ed was a full professor of Electrical & Computer Engineering at the University of California, Santa Barbara. He joined UCSB in 1999 after receiving his MS in CS and PhD in EE degrees, both from Stanford University. He is a recipient of the NSF Career award, Google Innovation award, US$1M Tricorder XPRIZE (AI for disease diagnosis) award, and ACM SIGMM test-of-time award. Ed is a Fellow of ACM and IEEE for his contributions to scalable machine learning and healthcare. For further details, please visit https://en.wikipedia.org/wiki/Edward_Y._Chang",
+      "email": "echang@cs.stanford.edu"
+    },
+    {
+      "name": "Moses Charikar",
+      "profile_url": "https://www.cs.stanford.edu/people/moses-charikar",
+      "short_title": "Donald E. Knuth Professor",
+      "title": "Donald E. Knuth Professor",
+      "bio": "Moses Charikar is the Donald E. Knuth professor of Computer Science at Stanford University. He obtained his PhD from Stanford in 2000, spent a year in the research group at Google, and was on the faculty at Princeton from 2001-2015. His research interests include: efficient algorithmic techniques for processing, searching and indexing massive high-dimensional data sets; efficient algorithms for computational problems in high-dimensional statistics and optimization problems in machine learning; approximation algorithms for discrete optimization problems with provable guarantees; convex optimization approaches for non-convex combinatorial optimization problems; low-distortion embeddings of finite metric spaces. His work won best paper awards at FOCS 2003, COLT 2017 and SODA 2024, the 10 year best paper award at VLDB 2017 and the 20 year test of time award at STOC 2022. He was jointly awarded the 2012 Paris Kanellakis Theory and Practice Award for his work on locality sensitive hashing, was named a Simons Investigator in theoretical computer science in 2014, and an ACM Fellow in 2021.",
+      "email": null
+    },
+    {
+      "name": "Yejin Choi",
+      "profile_url": "https://www.cs.stanford.edu/people/yejin-choi",
+      "short_title": "Dieter Schwarz Foundation HAI Professor and Senior Fellow at the Stanford Institute for Human-Centered Artificial Intelligence",
+      "title": "Dieter Schwarz Foundation HAI Professor and Senior Fellow at the Stanford Institute for Human-Centered Artificial Intelligence",
+      "bio": "Yejin Choi is the Dieter Schwarz Foundation Professor and Senior Fellow at the Department of Computer Science at Stanford University and the Stanford Institute for Human-Centered Artificial Intelligence (HAI) respectively. Choi is MacArthur Fellow (class of 2022), AI2050 Senior Fellow (class of 2024), and named among Time100 Most Influential People in AI in 2023. In addition, Choi is a co-recipient of 2 Test-of-Time awards and 8 Best and Outstanding Paper Awards at top AI conferences including ACL, ICML, NeurIPS, ICCV, CVPR, and AAAI, the Borg Early Career Award (BECA) in 2018, the inaugural Alexa Prize Challenge in 2017, and IEEE AI’s 10 to Watch in 2016. Choi was a main stage speaker at TED 2023, and a keynote speaker for a dozen conferences across several AI disciplines including ACL, CVPR, ICLR, MLSys, VLDB, WebConf, and AAAI. Her current research interests include fundamental limits and capabilities of large language models, alternative training recipes for language models, symbolic methods for neural networks, reasoning and knowledge discovery, moral norms and values, pluralistic alignment, and AI safety.",
+      "email": null
+    },
+    {
+      "name": "William Dally",
+      "profile_url": "https://www.cs.stanford.edu/people/william-dally-0",
+      "short_title": "Adjunct Professor, Emeritus",
+      "title": "Adjunct Professor, Emeritus",
+      "bio": null,
+      "email": "dally@stanford.edu"
+    },
+    {
+      "name": "Emma Dauterman",
+      "profile_url": "https://www.cs.stanford.edu/people/emma-dauterman",
+      "short_title": "Assistant Professor of Computer Science",
+      "title": "Assistant Professor of Computer Science",
+      "bio": "Emma Dauterman is an assistant professor at Stanford University in the Department of Computer Science. She works at the intersection of systems, security, and applied cryptography to build systems that provide strong security and privacy properties. She was a postdoc at MIT with Henry Corrigan-Gibbs, and before that, she was a PhD student at UC Berkeley advised by Raluca Ada Popa and Ion Stoica. Emma's work has influenced the Signal messaging application, as well as Apple's Enhanced Visual Search. Emma was a runner-up for the ACM SIGSAC Doctoral Dissertation Award and a recipient of the Microsoft Ada Lovelace Research Fellowship and NSF Graduate Research Fellowship.",
+      "email": null
+    },
+    {
+      "name": "Dora Demszky",
+      "profile_url": "https://www.cs.stanford.edu/people/dora-demszky",
+      "short_title": "Assistant Professor, Graduate School of Education, Assistant Professor, by courtesy, Computer Science",
+      "title": "Assistant Professor, Graduate School of Education, Assistant Professor, by courtesy, Computer Science",
+      "bio": "Dr. Demszky is an Assistant Professor in Education Data Science at the Graduate School of Education at Stanford University. She works on developing natural language processing methods to support equitable and student-centered instruction. She has developed tools to give feedback to teachers on dialogic instructional practices, to analyze representation in textbooks, measure the presence of dialect features in text, among others. Dr Demszky has received her PhD in Linguistics at Stanford University, supervised by Dr Dan Jurafsky. Prior to her PhD, Dr. Demszky received a BA summa cum laude from Princeton University in Linguistics with a minor in Computer Science.",
+      "email": null
+    },
+    {
+      "name": "Ron Dror",
+      "profile_url": "https://www.cs.stanford.edu/people/ron-dror",
+      "short_title": "Cheriton Family Professor and Professor, by courtesy, of Structural Biology and of Molecular & Cellular Physiology",
+      "title": "Cheriton Family Professor and Professor, by courtesy, of Structural Biology and of Molecular & Cellular Physiology",
+      "bio": "Ron Dror is the Cheriton Family Professor of Computer Science in the Stanford Artificial Intelligence Lab. Dr. Dror leads a research group that uses molecular simulation and machine learning to elucidate biomolecular structure, dynamics, and function, and to guide the development of more effective medicines. He collaborates extensively with experimentalists in both academia and industry. Before moving to Stanford, Dr. Dror served as second-in-command of D. E. Shaw Research, a hundred-person company, having joined as its first hire. He designed computer hardware, software, and algorithms that accelerate molecular dynamics simulations by orders of magnitude, and applied these simulations to the study of protein function, protein folding, and protein-drug interactions. Dr. Dror earned a PhD in Electrical Engineering and Computer Science at MIT, where he developed machine learning methods for computer vision and genomics. He earned an MPhil in Biological Sciences as a Churchill Scholar at the University of Cambridge, as well as undergraduate degrees in Mathematics and in Electrical and Computer Engineering at Rice University, summa cum laude. He has been awarded a Fulbright Scholarship and fellowships from the National Science Foundation, the Department of Defense, and the Whitaker Foundation, as well as two Gordon Bell Prizes and several Best Paper awards. His work has been highlighted by Science as a top-10 breakthrough of the year.",
+      "email": null
+    },
+    {
+      "name": "Zakir Durumeric",
+      "profile_url": "https://www.cs.stanford.edu/people/zakir-durumeric",
+      "short_title": "Assistant Professor of Computer Science",
+      "title": "Assistant Professor of Computer Science",
+      "bio": "I am an Assistant Professor of Computer Science. My research brings a large-scale, empirical approach to the study of Internet security, trust, and safety. I am interested in how to protect people against attacks on the Internet ranging from cybercrime and harassment to censorship and disinformation. I am broadly an empiricist: I build systems to measure complex networked ecosystems at scale, which I use to understand real-world behavior, uncover weaknesses and attacks, architect more resilient defenses, and guide public policy.",
+      "email": null
+    },
+    {
+      "name": "Dawson Engler",
+      "profile_url": "https://www.cs.stanford.edu/people/dawson-engler",
+      "short_title": "Associate Professor of Computer Science and of Electrical Engineering",
+      "title": "Associate Professor of Computer Science and of Electrical Engineering",
+      "bio": "Engler's research focuses both on building interesting software systems and on discovering and exploring the underlying principles of all systems.",
+      "email": null
+    },
+    {
+      "name": "Stefano Ermon",
+      "profile_url": "https://www.cs.stanford.edu/people/stefano-ermon",
+      "short_title": "Associate Professor of Computer Science and Senior Fellow at the Woods Institute for the Environment",
+      "title": "Associate Professor of Computer Science and Senior Fellow at the Woods Institute for the Environment",
+      "bio": "I am an Assistant Professor in the Department of Computer Science at Stanford University, where I am affiliated with the Artificial Intelligence Laboratory and a fellow of the Woods Institute for the Environment. My research is centered on techniques for scalable and accurate inference in graphical models, statistical modeling of data, large-scale combinatorial optimization, and robust decision making under uncertainty, and is motivated by a range of applications, in particular ones in the emerging field of computational sustainability.",
+      "email": null
+    },
+    {
+      "name": "Kayvon Fatahalian",
+      "profile_url": "https://www.cs.stanford.edu/people/kayvon-fatahalian",
+      "short_title": "Associate Professor of Computer Science",
+      "title": "Associate Professor of Computer Science",
+      "bio": "Kayvon Fatahalian is an Associate Professor in the Computer Science Department at Stanford University. Kayvon's research focuses on the design of systems for real-time graphics, high-efficiency simulation engines for applications in entertainment and AI, and platforms for the analysis of images and videos at scale.",
+      "email": null
+    },
+    {
+      "name": "Ron Fedkiw",
+      "profile_url": "https://www.cs.stanford.edu/people/ron-fedkiw",
+      "short_title": "Canon Professor in the School of Engineering",
+      "title": "Canon Professor in the School of Engineering",
+      "bio": "Fedkiw's research is focused on the design of new computational algorithms for a variety of applications including computational fluid dynamics, computer graphics, and biomechanics.",
+      "email": null
+    },
+    {
+      "name": "Edward Feigenbaum",
+      "profile_url": "https://www.cs.stanford.edu/people/edward-feigenbaum",
+      "short_title": "Professor of Computer Science, Emeritus",
+      "title": "Professor of Computer Science, Emeritus",
+      "bio": null,
+      "email": null
+    },
+    {
+      "name": "Chelsea Finn",
+      "profile_url": "https://www.cs.stanford.edu/people/chelsea-finn",
+      "short_title": "Assistant Professor of Computer Science and of Electrical Engineering",
+      "title": "Assistant Professor of Computer Science and of Electrical Engineering",
+      "bio": "Chelsea Finn is an Assistant Professor in Computer Science and Electrical Engineering at Stanford University, and the William George and Ida Mary Hoover Faculty Fellow. Professor Finn's research interests lie in the ability to enable robots and other agents to develop broadly intelligent behavior through learning and interaction. Her work lies at the intersection of machine learning and robotic control, including topics such as end-to-end learning of visual perception and robotic manipulation skills, deep reinforcement learning of general skills from autonomously collected data, and meta-learning algorithms that can enable fast learning of new concepts and behaviors. Professor Finn received her Bachelors degree in Electrical Engineering and Computer Science at MIT and her PhD in Computer Science at UC Berkeley. Her research has been recognized through the ACM doctoral dissertation award, the Presidential Early Career Award for Scientists and Engineers, and the MIT Technology Review 35 under 35 list, and her work has been covered by various media outlets, including the New York Times, Wired, and Bloomberg. Throughout her career, she has sought to increase the representation of underrepresented minorities within CS and AI by developing an AI outreach camp at Berkeley for underprivileged high school students, a mentoring program for underrepresented undergraduates across three universities, and leading efforts within the WiML and Berkeley WiCSE communities of women researchers.",
+      "email": null
+    },
+    {
+      "name": "Emily Fox",
+      "profile_url": "https://www.cs.stanford.edu/people/emily-fox",
+      "short_title": "Professor of Statistics and of Computer Science",
+      "title": "Professor of Statistics and of Computer Science",
+      "bio": "Emily Fox is a Professor in the Departments of Statistics and Computer Science at Stanford University.  Prior to Stanford, she was the Amazon Professor of Machine Learning in the Paul G. Allen School of Computer Science & Engineering and Department of Statistics at the University of Washington. From 2018-2021, Emily led the Health AI team at Apple, where she was a Distinguished Engineer.  Before joining UW, Emily was an Assistant Professor at the Wharton School Department of Statistics at the University of Pennsylvania. She earned her doctorate from Electrical Engineering and Computer Science (EECS) at MIT where her thesis was recognized with EECS' Jin-Au Kong Outstanding Doctoral Thesis Prize and the Leonard J. Savage Award for Best Thesis in Applied Methodology. Emily has been awarded a CZ Biohub Investigator Award, Presidential Early Career Award for Scientists and Engineers (PECASE), a Sloan Research Fellowship, ONR Young Investigator Award, and NSF CAREER Award.  Her research interests are in modeling complex time series arising in health, particularly from health wearables and neuroimaging modalities.",
+      "email": null
+    },
+    {
+      "name": "Adrien Gaidon",
+      "profile_url": "https://www.cs.stanford.edu/people/adrien-gaidon",
+      "short_title": "Adjunct Professor",
+      "title": "Adjunct Professor",
+      "bio": "Current Projects Human-Centered Action Recognition and Prediction Physical and Functional Inductive Biases for Visual Representation Learning (Collaboration with MIT) Planning Set-Based Trajectory Envelopes in Dynamic Driving Environments for Guaranteed-Safe Guardian Autonomy Completed Projects Robust and Interpretable Machine Learning via Natural Language Explanations Interaction-Aware Control for Cars that Anticipate and Explain Complex Environments Joint Contextual Forecasting of Vehicle Behaviors, Actions, and Trajectories Joint Contextual Forecasting of Vehicle Behaviors, Actions, and Trajectories (2) Data-efficient Algorithms for Machine Learning with Provable Guarantee",
+      "email": null
+    },
+    {
+      "name": "Michael Genesereth",
+      "profile_url": "https://www.cs.stanford.edu/people/michael-genesereth",
+      "short_title": "Associate Professor of Computer Science",
+      "title": "Associate Professor of Computer Science",
+      "bio": "Genesereth is most known for his work on Computational Logic and applications of that work in Enterprise Management, Computational Law, and General Game Playing. He is one of the founders of Teknowledge, CommerceNet, Mergent Systems, and Symbium. Genesereth is the director of the Logic Group at Stanford and the founder and research director of CodeX - the Stanford Center for Legal Informatics.",
+      "email": null
+    },
+    {
+      "name": "Noah Goodman",
+      "profile_url": "https://www.cs.stanford.edu/people/noah-goodman",
+      "short_title": "Professor of Psychology and of Computer Science",
+      "title": "Professor of Psychology and of Computer Science",
+      "bio": null,
+      "email": null
+    },
+    {
+      "name": "Christopher Gregg",
+      "profile_url": "https://www.cs.stanford.edu/people/christopher-gregg",
+      "short_title": "Associate Professor (Teaching) of Computer Science",
+      "title": "Associate Professor (Teaching) of Computer Science",
+      "bio": "Chris Gregg received his Ph.D. in Computer Engineering from the University of Virginia in 2012, has a Master's of Education from Harvard University (2002), and a BS in Electrical Engineering from Johns Hopkins University (1994). Prior to becoming a lecturer at Stanford, Chris was a lecturer in the computer science department at Tufts University, and prior to that he taught high school physics in Massachusetts and California for seven years. Chris was on active duty in the Navy for seven years, and remains as a Commander in the Navy Reserves in the Information Warfare / Cryptology community. Chris's research interests include computer architecture (specifically, general purpose computing on GPUs) and the pedagogy of computer science teaching and instruction.",
+      "email": null
+    },
+    {
+      "name": "Carlos Ernesto Guestrin",
+      "profile_url": "https://www.cs.stanford.edu/people/carlos-guestrin",
+      "short_title": "Fortinet Founders Professor and Senior Fellow at the Stanford Institute for Human-Centered AI",
+      "title": "Fortinet Founders Professor and Senior Fellow at the Stanford Institute for Human-Centered AI",
+      "bio": "Carlos Guestrin is a Professor in the Computer Science Department at Stanford University. His previous positions include the Amazon Professor of Machine Learning at the Computer Science & Engineering Department of the University of Washington, the Finmeccanica Associate Professor at Carnegie Mellon University, and the Senior Director of Machine Learning and AI at Apple, after the acquisition of Turi, Inc. (formerly GraphLab and Dato) — Carlos co-founded Turi, which developed a platform for developers and data scientist to build and deploy intelligent applications. He is a technical advisor for OctoML.ai. His team also released a number of popular open-source projects, including XGBoost, LIME, Apache TVM, MXNet, Turi Create, GraphLab/PowerGraph, SFrame, and GraphChi. Carlos received the IJCAI Computers and Thought Award and the Presidential Early Career Award for Scientists and Engineers (PECASE). He is also a recipient of the ONR Young Investigator Award, NSF Career Award, Alfred P. Sloan Fellowship, and IBM Faculty Fellowship, and was named one of the 2008 ‘Brilliant 10’ by Popular Science Magazine. Carlos’ work received awards at a number of conferences and journals, including ACL, AISTATS, ICML, IPSN, JAIR, JWRPM, KDD, NeurIPS, UAI, and VLDB. He is a former member of the Information Sciences and Technology (ISAT) advisory group for DARPA.",
+      "email": null
+    },
+    {
+      "name": "Leonidas Guibas",
+      "profile_url": "https://www.cs.stanford.edu/people/leonidas-guibas",
+      "short_title": "Paul Pigott Professor of Engineering and Professor, by courtesy, of Electrical Engineering",
+      "title": "Paul Pigott Professor of Engineering and Professor, by courtesy, of Electrical Engineering",
+      "bio": "Professor Guibas heads the Geometric Computation group in the Computer Science Department of Stanford University and is a member of the Computer Graphics and Artificial Intelligence Laboratories. He works on algorithms for sensing, modeling, reasoning, rendering, and acting on the physical world. Guibas interests span computational geometry, geometric modeling, computer graphics, computer vision, sensor networks, robotics, and discrete algorithms --- all areas in which he has published and lectured extensively. Current foci of interest include geometric modeling with point cloud data, deformations and contacts, organizing and searching libraries of 3D shapes and images, sensor networks for lightweight distributed estimation / reasoning, analysis of GPS traces and other mobility data, and modeling the shape and motion biological macromolecules and other biological structures. More theoretical work is aimed at investigating fundamental computational issues and limits in geometric computing and modeling.",
+      "email": null
+    },
+    {
+      "name": "Christopher Hahn",
+      "profile_url": "https://www.cs.stanford.edu/people/christopher-hahn-0",
+      "short_title": "Visiting Associate Professor",
+      "title": "Visiting Associate Professor",
+      "bio": null,
+      "email": null
+    },
+    {
+      "name": "Tatsunori Hashimoto",
+      "profile_url": "https://www.cs.stanford.edu/people/tatsunori-hashimoto",
+      "short_title": "Assistant Professor of Computer Science",
+      "title": "Assistant Professor of Computer Science",
+      "bio": null,
+      "email": null
+    },
+    {
+      "name": "John Hennessy",
+      "profile_url": "https://www.cs.stanford.edu/people/john-hennessy",
+      "short_title": "President Emeritus, Shriram Family Director of the Knight-Hennessy Scholars Program, James F. and Mary Lynn Gibbons Professor and Professor of Electrical Engineering and of Computer Science",
+      "title": "President Emeritus, Shriram Family Director of the Knight-Hennessy Scholars Program, James F. and Mary Lynn Gibbons Professor and Professor of Electrical Engineering and of Computer Science",
+      "bio": "John L. Hennessy joined Stanford’s faculty in 1977 as an assistant professor of electrical engineering. He rose through the academic ranks to full professorship in 1986 and was the inaugural Willard R. and Inez Kerr Bell Professor of Electrical Engineering and Computer Science from 1987 to 2004. From 1983 to 1993, Dr. Hennessy was director of the Computer Systems Laboratory, a research and teaching center operated by the Departments of Electrical Engineering and Computer Science that fosters research in computer systems design. He served as chair of computer science from 1994 to 1996 and, in 1996, was named dean of the School of Engineering. As dean, he launched a five-year plan that laid the groundwork for new activities in bioengineering and biomedical engineering. In 1999, he was named provost, the university’s chief academic and financial officer. As provost, he continued his efforts to foster interdisciplinary activities in the biosciences and bioengineering and oversaw improvements in faculty and staff compensation. In October 2000, he was inaugurated as Stanford University’s 10th president, a position he held until 2016. In 2016, he cofounded the Knight-Hennessy Scholars Program, which provides scholarships and leadership development for a global community of scholars enrolled in graduate programs at Stanford. The program admitted it's first class in 2018 and will provide full scholarships for up to 100 100 students every year. A pioneer in computer architecture, in 1981 Dr. Hennessy drew together researchers to focus on a computer architecture known as RISC (Reduced Instruction Set Computer), a technology that has revolutionized the computer industry by increasing performance while reducing costs. In addition to his role in the basic research, Dr. Hennessy helped transfer this technology to industry. In 1984, he cofounded MIPS Computer Systems, now MIPS Technologies, which designs microprocessors. In recent years, his research has focused on the architecture of high-performance computers. Dr. Hennessy is a recipient of the 2000 IEEE John von Neumann Medal, the 2000 ASEE Benjamin Garver Lamme Award, the 2001 ACM Eckert-Mauchly Award, the 2001 Seymour Cray Computer Engineering Award, a 2004 NEC C&C Prize for lifetime achievement in computer science and engineering, a 2005 Founders Award from the American Academy of Arts and Sciences and the 2012 IEEE Medal of Honor, IEEE's highest award. He is a member of the National Academy of Engineering and the National Academy of Sciences, and he is a fellow of the American Academy of Arts and Sciences, the Association for Computing Machinery, and the Institute of Electrical and Electronics Engineers. He has lectured and published widely and is the co-author of two internationally used undergraduate and graduate textbooks on computer architecture design. Dr. Hennessy earned his bachelor’s degree in electrical engineering from Villanova University and his master’s and doctoral degrees in computer science from the State University of New York at Stony Brook.",
+      "email": null
+    },
+    {
+      "name": "Daniel Ho",
+      "profile_url": "https://www.cs.stanford.edu/people/daniel-ho",
+      "short_title": "William Benjamin Scott & Luna M. Scott Professor of Law, Professor of Political Science, Senior Fellow at the Stanford Institute for Economic Policy Research, at the Stanford Institute for HAI and Professor, by courtesy, of Computer Science",
+      "title": "William Benjamin Scott & Luna M. Scott Professor of Law, Professor of Political Science, Senior Fellow at the Stanford Institute for Economic Policy Research, at the Stanford Institute for HAI and Professor, by courtesy, of Computer Science",
+      "bio": "Daniel E. Ho is the William Benjamin Scott and Luna M. Scott Professor of Law, Professor of Political Science, Professor of Computer Science (by courtesy), Senior Fellow at Stanford's Institute for Human-Centered Artificial Intelligence, and Senior Fellow at the Stanford Institute for Economic Policy Research at Stanford University. He is a Faculty Fellow at the Center for Advanced Study in the Behavioral Sciences and is Director of the Regulation, Evaluation, and Governance Lab (RegLab). Ho serves on the National Artificial Intelligence Advisory Commission (NAIAC), advising the White House on artificial intelligence, as Senior Advisor on Responsible AI at the U.S. Department of Labor, and as a Public Member of the Administrative Conference of the United States (ACUS). He received his J.D. from Yale Law School and Ph.D. from Harvard University and clerked for Judge Stephen F. Williams on the U.S. Court of Appeals, District of Columbia Circuit.",
+      "email": null
+    },
+    {
+      "name": "Mark Horowitz",
+      "profile_url": "https://www.cs.stanford.edu/people/mark-horowitz",
+      "short_title": "Fortinet Founders Chair of the Department of Electrical Engineering, Yahoo! Founders Professor in the School of Engineering and Professor of Computer Science",
+      "title": "Fortinet Founders Chair of the Department of Electrical Engineering, Yahoo! Founders Professor in the School of Engineering and Professor of Computer Science",
+      "bio": "Professor Horowitz initially focused on designing high-performance digital systems by combining work in computer-aided design tools, circuit design, and system architecture. During this time, he built a number of early RISC microprocessors, and contributed to the design of early distributed shared memory multiprocessors. In 1990, Dr. Horowitz took leave from Stanford to help start Rambus Inc., a company designing high-bandwidth memory interface technology. After returning in 1991, his research group pioneered many innovations in high-speed link design, and many of today’s high speed link designs are designed by his former students or colleagues from Rambus. In the 2000s he started a long collaboration with Prof. Levoy on computational photography, which included work that led to the Lytro camera, whose photographs could be refocused after they were captured.. Dr. Horowitz's current research interests are quite broad and span using EE and CS analysis methods to problems in neuro and molecular biology to creating new agile design methodologies for analog and digital VLSI circuits. He remains interested in learning new things, and building interdisciplinary teams.",
+      "email": null
+    },
+    {
+      "name": "Doug James",
+      "profile_url": "https://www.cs.stanford.edu/people/doug-james",
+      "short_title": "LeRa Professor and Professor, by courtesy, of Music",
+      "title": "LeRa Professor and Professor, by courtesy, of Music",
+      "bio": "Doug L. James is the LeRa Professor of Computer Science at Stanford University (since June 2015), and a Professor, by courtesy, of Music. He is a member of Stanford's Center for Computer Research in Music and Acoustics (CCRMA) and the Institute for Computational and Mathematical Engineering (ICME). He holds three degrees in applied mathematics, including a Ph.D. in 2001 from the University of British Columbia. In 2002 he joined the School of Computer Science at Carnegie Mellon University as an Assistant Professor, and later became an Associate Professor of Computer Science at Cornell University (2006-2015). His research interests include computer graphics, computer sound, physically based modeling and animation, and reduced-order physics models. Doug is a recipient of a National Science Foundation CAREER award, and a fellow of both the Alfred P. Sloan Foundation and the Guggenheim Foundation. He received the ACM SIGGRAPH 2021 Computer Graphics Achievement Award, a 2012 Technical Achievement Award from The Academy of Motion Picture Arts and Sciences for \"Wavelet Turbulence,\" and the 2013 Katayanagi Emerging Leadership Prize from Carnegie Mellon University and Tokyo University of Technology. He was the Technical Papers Program Chair of ACM SIGGRAPH 2015, and a consulting Senior Research Scientist at Pixar Animation Studios (2015-2020) and NVIDIA Research (2022-2025).",
+      "email": null
+    },
+    {
+      "name": "Dan Jurafsky",
+      "profile_url": "https://www.cs.stanford.edu/people/dan-jurafsky",
+      "short_title": "Reynolds Professor in Humanities, Professor of Linguistics, Professor of Computer Science Stanford University",
+      "title": "Reynolds Professor in Humanities, Professor of Linguistics, Professor of Computer Science Stanford University",
+      "bio": "Dan Jurafsky is Professor and Chair of Linguistics and Professor of Computer Science at Stanford University. He is the recipient of a 2002 MacArthur Fellowship, is the co-author with Jim Martin of the widely-used textbook \"Speech and Language Processing\", and co-created with Chris Manning one of the first massively open online courses, Stanford's course in Natural Language Processing. His trade book \"The Language of Food: A Linguist Reads the Menu\" was a finalist for the 2015 James Beard Award. Dan received a B.A in Linguistics in 1983 and a Ph.D. in Computer Science in 1992 from the University of California at Berkeley, was a postdoc 1992-1995 at the International Computer Science Institute, and was on the faculty of the University of Colorado, Boulder until moving to Stanford in 2003. His research ranges widely across computational linguistics; special interests include natural language understanding, human-human conversation, the relationship between human and machine processing, and the application of natural language processing to the social and behavioral sciences. He also works on the linguistics of food and the linguistics of Chinese.",
+      "email": null
+    },
+    {
+      "name": "Zerina Kapetanovic",
+      "profile_url": "https://www.cs.stanford.edu/people/zerina-kapetanovic",
+      "short_title": "Assistant Professor of Electrical Engineering and, by courtesy, of Computer Science and of Geophysics",
+      "title": "Assistant Professor of Electrical Engineering and, by courtesy, of Computer Science and of Geophysics",
+      "bio": "Zerina Kapetanovic is an Assistant Professor in the Department of Electrical Engineering at Stanford University working in the area of low-power wireless communication, sensing, and Internet of Things (IoT) systems. Prior to starting at Stanford, Kapetanovic was a postdoctoral researcher at Microsoft Research in the Networking Research Group and Research for Industry Group.Kapetanovic's research has been recognized by the Yang Research Award, the Distinguished Dissertation Award from the University of Washington, and is a Terman Faculty Fellow. She also received the Microsoft Research Distinguished Dissertation Grant and was selected to attend the 2020 UC Berkeley Rising Stars in EECS Workshop. Kapetanovic completed her PhD in Electrical Engineering from the University of Washington in 2022.",
+      "email": null
+    },
+    {
+      "name": "Sachin Katti",
+      "profile_url": "https://www.cs.stanford.edu/people/sachin-katti-0",
+      "short_title": "Adjunct Professor, Emeritus",
+      "title": "Adjunct Professor, Emeritus",
+      "bio": null,
+      "email": null
+    },
+    {
+      "name": "Oussama Khatib",
+      "profile_url": "https://www.cs.stanford.edu/people/oussama-khatib",
+      "short_title": "Weichai Professor and Professor, by courtesy, of Electrical Engineering",
+      "title": "Weichai Professor and Professor, by courtesy, of Electrical Engineering",
+      "bio": "Robotics research on novel control architectures, algorithms, sensing, and human-friendly designs for advanced capabilities in complex environments. With a focus on enabling robots to interact cooperatively and safely with humans and the physical world, these studies bring understanding of human movements for therapy, athletic training, and performance enhancement. Our work on understanding human cognitive task representation and physical skills is enabling transfer for increased robot autonomy. With these core capabilities, we are exploring applications in healthcare and wellness, industry and service, farms and smart cities, and dangerous and unreachable settings -- deep in oceans, mines, and space.",
+      "email": null
+    },
+    {
+      "name": "Fredrik Kjolstad",
+      "profile_url": "https://www.cs.stanford.edu/people/fredrik-kjoelstad",
+      "short_title": "Assistant Professor of Computer Science",
+      "title": "Assistant Professor of Computer Science",
+      "bio": "Fredrik Kjolstad is an Assistant Professor in Computer Science at Stanford University. He works on topics in compilers, programming models, and systems, with an emphasis on compiler techniques that make high-level languages portable. He has received the NSF CAREER Award, the MIT EECS Sprowls PhD Thesis Award in Computer Science, the Tau Beta Phi 2024 Teaching Honor Roll, the Google ML and Systems Junior Faculty Awards, and several distinguished paper awards.",
+      "email": null
+    },
+    {
+      "name": "Sanmi Koyejo",
+      "profile_url": "https://www.cs.stanford.edu/people/sanmi-koyejo",
+      "short_title": "Assistant Professor of Computer Science",
+      "title": "Assistant Professor of Computer Science",
+      "bio": "Sanmi Koyejo is an Assistant Professor in the Department of Computer Science at Stanford University and an adjunct Associate Professor at the University of Illinois at Urbana-Champaign. He leads the Stanford Trustworthy AI Research (STAIR) lab, which develops measurement-theoretic foundations for trustworthy AI systems, spanning AI evaluation science, algorithmic accountability, and privacy-preserving machine learning, with applications to healthcare and scientific discovery. His research on AI capabilities evaluation has challenged conventional understanding in the field, including work on measurement frameworks cited in the 2024 Economic Report of the President. Koyejo has received the Presidential Early Career Award for Scientists and Engineers (PECASE), Skip Ellis Early Career Award, Alfred P. Sloan Research Fellowship, NSF CAREER Award, and multiple outstanding paper awards at flagship venues, including NeurIPS and ACL. He has delivered keynote presentations at major conferences, including ECCV and FAccT. He serves in key leadership roles, including Board President of Black in AI, Board of Directors of the Neural Information Processing Systems Foundation, and other leadership positions in professional organizations advancing AI research and broadening participation in the field.",
+      "email": null
+    },
+    {
+      "name": "Christoforos Kozyrakis",
+      "profile_url": "https://www.cs.stanford.edu/people/christos-kozyrakis",
+      "short_title": "Leonard Bosack and Sandy K. Lerner Professor of Engineering and Professor of Computer Science",
+      "title": "Leonard Bosack and Sandy K. Lerner Professor of Engineering and Professor of Computer Science",
+      "bio": "Christos Kozyrakis is the Leonard Bosack and Sandy K. Lerner Professor of Engineering and a Professor of Electrical Engineering and Computer Science at Stanford University. His primary research areas are computer architecture and computer systems. His current work focuses on cloud computing, systems for machine learning, and machine learning for systems. Christos holds a BS degree from the University of Crete and a PhD degree from the University of California at Berkeley. He is a fellow of the ACM and the IEEE. He has received the ACM SIGARCH Maurice Wilkes Award, the ISCA Influential Paper Award, the NSF Career Award, the Okawa Foundation Research Grant, and faculty awards by IBM, Microsoft, and Google.",
+      "email": null
+    },
+    {
+      "name": "Anshul Kundaje",
+      "profile_url": "https://www.cs.stanford.edu/people/anshul-kundaje",
+      "short_title": "Associate Professor of Genetics and of Computer Science",
+      "title": "Associate Professor of Genetics and of Computer Science",
+      "bio": "Anshul Kundaje is Associate Professor of Genetics and Computer Science at Stanford University. The Kundaje lab develops machine learning models of gene regulation to decipher the genetic and molecular basis of disease. The lab has pioneered deep learning models and interpretation frameworks to decode the functional language encoded in DNA, RNA and proteins. Dr. Kundaje has led computational efforts of large genomics consortia including the ENCODE Project and the Roadmap Epigenomics Project. Dr. Kundaje is a recipient of the NIH Director's New Innovator Award, the Alfred Sloan Fellowship and the HUGO Chen Award of Excellence.",
+      "email": null
+    },
+    {
+      "name": "Monica Lam",
+      "profile_url": "https://www.cs.stanford.edu/people/monica-lam",
+      "short_title": "Kleiner Perkins, Mayfield, Sequoia Capital Professor in the School of Engineering, Professor of Computer Science and, by courtesy, of Electrical Engineering",
+      "title": "Kleiner Perkins, Mayfield, Sequoia Capital Professor in the School of Engineering, Professor of Computer Science and, by courtesy, of Electrical Engineering",
+      "bio": "Professor Lam's current research interest is to create effective and reliable AI assistants to accelerate the discovery of knowledge. Her OVAL lab has created numerous open-source LLM-based tools used by consumers, historians, and journalists in their work; currently, she is focusing on research assistants that can discover new insights for biomedicine and other technical areas. Professor Lam's team has created the first quantifiably factual and engaging conversational agent, which has won the Best Research of the Year Award from Wikimedia Foundation; pioneered deep research agent called STORM that has been used by about a million users; developed the best-performing agent for retrieving knowledge from hybrid sources, including databases, knowledge graphs, and free-text, currently deployed at Wikimedia; created an agent framework that produces fluent task-oriented agents that do not hallucinate. Prof. Lam is also an expert in compilers for high-performance machines. Her pioneering work of affine partitioning provides a unifying theory to the field of loop transformations for parallelism and locality.  Her software pipelining algorithm is used in commercial systems for instruction level parallelism.  Her research team created the first, widely adopted research compiler, SUIF. She is a co-author of the classic compiler textbook, popularly known as the “dragon book”.   She was on the founding team of Tensilica, now a part of Cadence. Dr. Lam is a Member of  the National Academy of Engineering and an Association of Computing Machinery (ACM) Fellow.",
+      "email": null
+    },
+    {
+      "name": "James Landay",
+      "profile_url": "https://www.cs.stanford.edu/people/james-landay",
+      "short_title": "Denning Director of Stanford Institute for Human-Centered AI, Anand Rajaraman and Venky Harinarayan Professor and Senior Fellow at the Stanford Institute for Human-Centered AI",
+      "title": "Denning Director of Stanford Institute for Human-Centered AI, Anand Rajaraman and Venky Harinarayan Professor and Senior Fellow at the Stanford Institute for Human-Centered AI",
+      "bio": "James Landay is a Professor of Computer Science and the Anand Rajaraman and Venky Harinarayan Professor in the School of Engineering at Stanford University. He specializes in human-computer interaction. Landay is the co-founder and Co-Director of the Stanford Institute for Human-centered Artificial Intelligence (HAI). Prior to joining Stanford, Landay was a Professor of Information Science at Cornell Tech in New York City for one year and a Professor of Computer Science & Engineering at the University of Washington for 10 years. From 2003-2006, he also served as the Director of Intel Labs Seattle, a leading research lab that explored various aspects of ubiquitous computing. Landay was also the chief scientist and co-founder of NetRaker, which was acquired by KeyNote Systems in 2004. Before that he was an Associate Professor of Computer Science at UC Berkeley. Landay received his BS in EECS from UC Berkeley in 1990, and MS and PhD in Computer Science from Carnegie Mellon University in 1993 and 1996, respectively. His PhD dissertation was the first to demonstrate the use of sketching in user interface design tools. He is a member of the ACM SIGCHI Academy and an ACM Fellow. He is an ACM SIGCHI Lifetime Research Award winner. He served for six years on the NSF CISE Advisory Committee.",
+      "email": null
+    },
+    {
+      "name": "Jure Leskovec",
+      "profile_url": "https://www.cs.stanford.edu/people/jure-leskovec",
+      "short_title": "Alfred and Rebecca Lin Professor",
+      "title": "Alfred and Rebecca Lin Professor",
+      "bio": "Jure Leskovec is Professor of Computer Science at Stanford University. He is affiliated with the Stanford AI Lab, Machine Learning Group and the Center for Research on Foundation Models. In the past, he served as a Chief Scientist at Pinterest and was an investigator at Chan Zuckerberg BioHub. Leskovec recently pioneered the field of Graph Neural Networks and co-authored PyG, the most widely-used graph neural network library. Research from his group has been used by many countries to fight COVID-19 pandemic, and has been incorporated into products at Facebook, Pinterest, Uber, YouTube, Amazon, and more. His research received several awards including Microsoft Research Faculty Fellowship in 2011, Okawa Research award in 2012, Alfred P. Sloan Fellowship in 2012, Lagrange Prize in 2015, and ICDM Research Contributions Award in 2019. His research contributions have spanned social networks, data mining and machine learning, and computational biomedicine with the focus on drug discovery. His work has won 12 best paper awards and 5 10-year test of time awards at a premier venues in these research areas. Leskovec received his bachelor's degree in computer science from University of Ljubljana, Slovenia, PhD in machine learning from Carnegie Mellon University and postdoctoral training at Cornell University.",
+      "email": null
+    },
+    {
+      "name": "Philip Levis",
+      "profile_url": "https://www.cs.stanford.edu/people/philip-levis",
+      "short_title": "Professor of Computer Science and of Electrical Engineering",
+      "title": "Professor of Computer Science and of Electrical Engineering",
+      "bio": "Professor Levis' research focuses on the design and implementation of efficient software systems for embedded wireless sensor networks; embedded network sensor architecture and design; systems programming and software engineering.",
+      "email": null
+    },
+    {
+      "name": "Fei-Fei Li",
+      "profile_url": "https://www.cs.stanford.edu/people/fei-fei-li",
+      "short_title": "Sequoia Capital Professor, Senior Fellow at HAI and Professor, by courtesy, of Operations, Information and Technology at the Graduate School of Business",
+      "title": "Sequoia Capital Professor, Senior Fellow at HAI and Professor, by courtesy, of Operations, Information and Technology at the Graduate School of Business",
+      "bio": "Dr. Fei-Fei Li is the inaugural Sequoia Professor in the Computer Science Department at Stanford University, and a Founding Co-Director of Stanford’s Human-Centered AI Institute. She served as the Director of Stanford’s AI Lab from 2013 to 2018. In industry, Dr. Li has served as a Vice President at Google and Chief Scientist of AI/ML at Google Cloud (2017-2018), board member or advisor in various public or private companies (notably Twitter). She is currently a Co-founder/CEO of World Labs, an AI company focusing on Spatial Intelligence and generative AI. Dr. Li obtained her B.A. degree in physics from Princeton in 1999 with High Honors, and her PhD degree in electrical engineering from California Institute of Technology (Caltech) in 2005. She has been recognized as the Distinguished Alumni by both Princeton and Caltech in 2020 and 2024 respectively. Dr. Li also holds Honorary Doctorate Degrees from Yale University and Harvey Mudd College. Dr. Li is a researcher and technologist in AI, currently focusing on deep learning, robotic learning, spatial intelligence and ambient intelligence for healthcare delivery. In the past she has also worked on cognitive and computational neuroscience. Dr. Li has published more than 400 scientific articles in top-tier journals and conferences in science, engineering and computer science, and is recognized as one of the most cited computer scientists. She is the inventor of ImageNet and the ImageNet Challenge, a critical large-scale dataset and benchmarking effort that has been widely regarded as one of the three driving forces of the birth of modern AI and deep learning revolution. Dr. Li is the author a popular science memoir called “The Worlds I See: Curiosity, Exploration and Discovery at the Dawn of AI”, published by Macmillan Publishers. Dr. Li is widely recognized as a pioneer of modern AI. She is an elected Member of the National Academy of Engineering (NAE), the National Academy of Medicine (NAM) and American Academy of Arts and Sciences (AAAS). She is also a Fellow of ACM, a member of the Council on Foreign Relations (CFR). Among her many recognitions, Dr. Li is a laureate of the Queen Elizabeth Prize for Engineering (2025), VinFuture Prize (2024), a recipient of the Intel Lifetime Achievements Award (2023), the IEEE PAMI Thomas Huang Memorial Prize (2022), the IEEE PAMI Longuet-Higgins Prize (2019), the National Geographic Society Further Award (2019), the IAPR J.K. Aggarwal Prize (2016), the IEEE PAMI Mark Everingham Award (2016), the Alfred Sloan Faculty Award (2011), among others. Dr. Li is a keynote speaker at many academic or influential conferences, including NeurIPS, ICML, the World Economics Forum (Davos), the Grace Hopper Conference, and TED2015 and TED2024. Often called the \"Godmother of AI\" by the popular press, she has been recognized as Person of the Year by Time Magazine (2025), one of the Time Magazine AI100 influencers in 2023, Women in Tech by the ELLE Magazine (2017), a Global Thinker of 2015 by Foreign Policy, and one of the “Great Immigrants: The Pride of America” in 2016 by the Carnegie Foundation, among other distinctions. Dr. Li works with policymakers nationally and locally to ensure positive and human-centered progress in AI technologies, including a number of U.S. Senate and Congressional testimonies, a special advisor to the Secretary General of the United Nations, a member of the California Future of Work Commission for the Governor of California in 2019 - 2020, and a member of the National Artificial Intelligence Research Resource Task Force (NAIRR) for the White House Office of Science and Technology Policy (OSTP) and the National Science Foundation (NSF) in 2021-2022. She has delivered numerous speeches including to the President of the United States, the Security Council of the United Nations and other Heads of States internationally. (Dr. Li publishes under the name L. Fei-Fei)",
+      "email": null
+    },
+    {
+      "name": "Percy Liang",
+      "profile_url": "https://www.cs.stanford.edu/people/percy-liang",
+      "short_title": "Professor of Computer Science and Senior Fellow at the Stanford Institute for Human-Centered AI",
+      "title": "Professor of Computer Science and Senior Fellow at the Stanford Institute for Human-Centered AI",
+      "bio": "Percy Liang is an Associate Professor of Computer Science at Stanford University (B.S. from MIT, 2004; Ph.D. from UC Berkeley, 2011) and the director of the Center for Research on Foundation Models (CRFM).  He is currently focused on making foundation models (in particular, language models) more accessible through open-source and understandable through rigorous benchmarking.  In the past, he has worked on many topics centered on machine learning and natural language processing, including robustness, interpretability, human interaction, learning theory, grounding, semantics, and reasoning.  He is also a strong proponent of reproducibility through the creation of CodaLab Worksheets. His awards include the Presidential Early Career Award for Scientists and Engineers (2019), IJCAI Computers and Thought Award (2016), an NSF CAREER Award (2016), a Sloan Research Fellowship (2015), a Microsoft Research Faculty Fellowship (2014), and paper awards at ACL, EMNLP, ICML, COLT, ISMIR, CHI, UIST, and RSS.",
+      "email": null
+    },
+    {
+      "name": "C. Karen Liu",
+      "profile_url": "https://www.cs.stanford.edu/people/karen-liu",
+      "short_title": "Professor of Computer Science",
+      "title": "Professor of Computer Science",
+      "bio": "C. Karen Liu is a professor in the Computer Science Department at Stanford University. Prior to joining Stanford, Liu was a faculty member at the School of Interactive Computing at Georgia Tech. She received her Ph.D. degree in Computer Science from the University of Washington. Liu's research interests are in computer graphics and robotics, including physics-based animation, character animation, optimal control, reinforcement learning, and computational biomechanics. She developed computational approaches to modeling realistic and natural human movements, learning complex control policies for humanoids and assistive robots, and advancing fundamental numerical simulation and optimal control algorithms. The algorithms and software developed in her lab have fostered interdisciplinary collaboration with researchers in robotics, computer graphics, mechanical engineering, biomechanics, neuroscience, and biology. Liu received a National Science Foundation CAREER Award, an Alfred P. Sloan Fellowship, and was named Young Innovators Under 35 by Technology Review. In 2012, Liu received the ACM SIGGRAPH Significant New Researcher Award for her contribution in the field of computer graphics.",
+      "email": null
+    },
+    {
+      "name": "Tengyu Ma",
+      "profile_url": "https://www.cs.stanford.edu/people/tengyu-ma",
+      "short_title": "Assistant Professor of Computer Science",
+      "title": "Assistant Professor of Computer Science",
+      "bio": null,
+      "email": null
+    },
+    {
+      "name": "Christopher Manning",
+      "profile_url": "https://www.cs.stanford.edu/people/christopher-manning",
+      "short_title": "Thomas M. Siebel Professor of Machine Learning, Professor of Linguistics, of Computer Science and Senior Fellow at the Stanford Institute for Human-Centered AI",
+      "title": "Thomas M. Siebel Professor of Machine Learning, Professor of Linguistics, of Computer Science and Senior Fellow at the Stanford Institute for Human-Centered AI",
+      "bio": "Christopher Manning is the inaugural Thomas M. Siebel Professor in Machine Learning in the Departments of Linguistics and Computer Science at Stanford University, Director of the Stanford Artificial Intelligence Laboratory (SAIL), and an Associate Director of the Stanford Institute for Human-Centered Artificial Intelligence (HAI). From 2010, Manning pioneered Natural Language Understanding and Inference using Deep Learning, with impactful research on sentiment analysis, paraphrase detection, the GloVe model of word vectors, attention, neural machine translation, question answering, self-supervised model pre-training, tree-recursive neural networks, machine reasoning, dependency parsing, and summarization, work for which he has received two ACL Test of Time Awards and the IEEE John von Neumann Medal (2024). He earlier led the development of empirical, probabilistic approaches to NLP, computational linguistics, and language understanding, defining and building theories and systems for Natural Language Inference, syntactic parsing, machine translation, and multilingual language processing, work for which he won ACL, Coling, EMNLP, and CHI Best Paper Awards. In NLP education, Manning coauthored foundational textbooks on statistical approaches to NLP (Manning and Schütze 1999) and information retrieval (Manning, Raghavan, and Schütze, 2008), and his online CS224N Natural Language Processing with Deep Learning course videos have been watched by hundreds of thousands. In linguistics, Manning is a principal developer of Stanford Dependencies and Universal Dependencies, and has authored monographs on ergativity and complex predicates. He is the founder of the Stanford NLP group (@stanfordnlp) and was an early proponent of open source software in NLP with Stanford CoreNLP and Stanza. He is an ACM Fellow, a AAAI Fellow, and an ACL Fellow, and a Past President of the ACL (2015). Manning has a B.A. (Hons) from The Australian National University, a Ph.D. from Stanford in 1994, and an Honorary Doctorate from U. Amsterdam in 2023. He held faculty positions at Carnegie Mellon University and the University of Sydney before returning to Stanford.",
+      "email": null
+    },
+    {
+      "name": "David Mazieres",
+      "profile_url": "https://www.cs.stanford.edu/people/david-mazieres",
+      "short_title": "Professor of Computer Science",
+      "title": "Professor of Computer Science",
+      "bio": "Mazieres investigates ways to improve the security of operating systems, file systems, and distributed systems. In addition, he has worked on large-scale peer-to-peer systems and e-mail privacy.",
+      "email": null
+    },
+    {
+      "name": "Azalia Mirhoseini",
+      "profile_url": "https://www.cs.stanford.edu/people/azalia-mirhoseini",
+      "short_title": "Assistant Professor of Computer Science",
+      "title": "Assistant Professor of Computer Science",
+      "bio": "Azalia Mirhoseini is an Assistant Professor in the Computer Science Department at Stanford University. Professor Mirhoseini's research interest is in developing capable, reliable, and efficient AI systems for solving high-impact, real-world problems. Her work includes generalized learning-based methods for decision-making problems in systems and chip design, self-improving AI models through interactions with the world, and scalable deep learning optimization. Prior to Stanford, she spent several years in industry AI labs, including Anthropic and Google Brain. At Anthropic, she worked on advancing the capabilities and reliability of large language models. At Google Brain, she co-founded the ML for Systems team, with a focus on automating and optimizing computer systems and chip design. She received her BSc degree in Electrical Engineering from Sharif University of Technology and her PhD in Electrical and Computer Engineering from Rice University. Her work has been recognized through the MIT Technology Review’s 35 Under 35 Award, the Best ECE Thesis Award at Rice University, publications in flagship venues such as Nature, and coverage by various media outlets, including MIT Technology Review, IEEE Spectrum, The Verge, The Times, ZDNet, VentureBeat, and WIRED.",
+      "email": null
+    },
+    {
+      "name": "John Mitchell",
+      "profile_url": "https://www.cs.stanford.edu/people/john-mitchell",
+      "short_title": "Mary and Gordon Crary Family Professor in the School of Engineering, and Professor, by courtesy, of Electrical Engineering and of Education",
+      "title": "Mary and Gordon Crary Family Professor in the School of Engineering, and Professor, by courtesy, of Electrical Engineering and of Education",
+      "bio": "John Mitchell is the Mary and Gordon Crary Family Professor, professor of computer science, and by courtesy professor of electrical engineering and professor of education. He was previously Stanford Vice Provost for Teaching and Learning and chair of the Computer Science Department. As vice provost, his team worked with more than 500 Stanford faculty members and instructors on over 1,000 online projects for campus or public audiences and organized the Year of Learning to envision the future of teaching and learning at Stanford and beyond. As co-director of the Lytics Lab, Carta Lab and Pathways Lab, he has worked to improve educational outcomes through data-driven research and iterative design. Mitchell’s research focusses on programming languages, computer security and privacy, blockchain, machine learning, and technology for education.  Sample publications include Reinforcement Learning for the Adaptive Scheduling of Educational Activities (CHI 2020), Automated Analysis of Cryptographic Assumptions in Generic Group Models (J. Cryptology, 2019),  Evaluating the privacy properties of telephone metadata (PNAS 2016), and Third-party web tracking: Policy and Technology (IEEE S&P). He is the author of two textbooks, Foundations for Programming Languages (1996) and Concepts in Programming Languages (2002). With over 250 publications and over 30,000 citations, he has led research projects on a range of topics, been a consultant or advisor to many companies, and served as editor-in-chief of the Journal of Computer Security. Mitchell’s first research project in online learning started in 2009, when he and six undergraduate students built Stanford CourseWare, an innovative platform that expanded to support interactive video and discussion. CourseWare served as the foundation for initial flipped classroom experiments at Stanford and helped inspire the first massive open online courses (MOOCs) from Stanford.",
+      "email": null
+    },
+    {
+      "name": "Subhasish Mitra",
+      "profile_url": "https://www.cs.stanford.edu/people/subhasish-mitra",
+      "short_title": "William E. Ayer Professor of Electrical Engineering and Professor of Computer Science",
+      "title": "William E. Ayer Professor of Electrical Engineering and Professor of Computer Science",
+      "bio": "Subhasish Mitra holds the William E. Ayer Endowed Chair Professorship in the Departments of Electrical Engineering and Computer Science at Stanford University. He directs the Stanford Robust Systems Group, serves on the leadership team of the Microelectronics Commons AI Hardware Hub, leads the Computation Focus Area of the Stanford SystemX Alliance, and is the Associate Chair (Faculty Affairs) of Stanford Computer Science. His research ranges across Robust Computing, NanoSystems, Electronic Design Automation (EDA), and Neurosciences. Results from his research group have influenced almost every contemporary electronic system and have inspired significant government and research initiatives in multiple countries. He has held several international academic appointments — the Carnot Chair of Excellence in NanoSystems at CEA-LETI in France, and Invited Professor at ETH and EPFL in Switzerland and University of Tokyo in Japan. Prof. Mitra also has consulted for major technology companies including AMD (XIlinx), Anthropic, Cisco, Google, Intel, Samsung, and Sony. He recently cofounded TenX Semi, a startup on AI autopilot for chip design. In the field of Robust Computing, he has created many key approaches for circuit failure prediction, CASP on-line diagnostics, QED system validation, soft error resilience, and X-Compact test compression. Their adoption by industry is growing rapidly, in markets ranging from cloud computing to automotive systems, under various names such as Silicon Lifecycle Management, Predictive Health Monitoring, In-System Test, In-field Scan, In-fleet Scan. His X-Compact approach has proven essential to cost-effective manufacturing and high-quality testing of almost all contemporary digital systems. X-Compact and its derivatives enabled billions of dollars of cost savings across the industry. In the field of NanoSystems, with his students and collaborators, he demonstrated several firsts:  the first NanoSystems hardware among all beyond-silicon nanotechnologies for energy-efficient computing (the carbon nanotube computer), the first 3D NanoSystem with computation immersed in data storage, the first published end-to-end computing systems using resistive memories (Resistive RAM-based non-volatile computing systems delivering 10-fold energy efficiency versus embedded flash), and the first monolithic 3D integration combining heterogeneous logic and memory technologies in silicon foundry. These received wide recognition: cover of NATURE, several Highlights to the US Congress, and highlight as \"important scientific breakthrough\" by news organizations worldwide. Prof. Mitra's honors include the Harry H. Goode Memorial Award (by IEEE Computer Society for outstanding contributions in the information processing field), Newton Technical Impact Award in EDA (test-of-time honor by ACM SIGDA and IEEE CEDA), the University Researcher Award (by Semiconductor Industry Association and Semiconductor Research Corporation to recognize lifetime research contributions), the EDAA Achievement Award (by European Design and Automation Association, for outstanding lifetime contributions to electronic design, automation and testing), the Intel Achievement Award (Intel’s highest honor), and the Distinguished Alumnus Award from the Indian Institute of Technology, Kharagpur. He and his students have published over 15 award-winning papers across 5 topic areas (technology, circuits, EDA, test, verification) at major venues including the Design Automation Conference, International Electron Devices Meeting, International Solid-State Circuits Conference, International Test Conference, Symposia on VLSI Technology/VLSI Circuits, and Formal Methods in Computer-Aided Design. Stanford undergraduates have honored him several times \"for being important to them.\" He is a Fellow of the Association for Computing Machinery (ACM) and the Institute of Electrical and Electronics Engineers (IEEE), and a Foreign Member of Academia Europaea.",
+      "email": null
+    },
+    {
+      "name": "Kunle Olukotun",
+      "profile_url": "https://www.cs.stanford.edu/people/oyekunle-olukotun",
+      "short_title": "Cadence Design Systems Professor, Professor of Electrical Engineering and of Computer Science",
+      "title": "Cadence Design Systems Professor, Professor of Electrical Engineering and of Computer Science",
+      "bio": "Kunle Olukotun is the Cadence Design Professor of Electrical Engineering and Computer Science at Stanford University. Olukotun is a pioneer in multicore processor design and the leader of the Stanford Hydra chip multiprocessor (CMP) research project. He founded Afara Websystems to develop high-throughput, low-power multicore processors for server systems. The Afara multi-core processor, called Niagara, was acquired by Sun Microsystems and now powers Oracle's SPARC-based servers. In 2017, Olukotun co-founded SambaNova Systems, a Machine Learning and Artificial Intelligence company, and continues to lead as their Chief Technologist. Olukotun is the Director of the Pervasive Parallel Lab and a member of the Data Analytics tor What's Next (DAWN) Lab, developing infrastructure for usable machine learning. He is a member of the National Academy of Engineering, an ACM Fellow, and an IEEE Fellow for contributions to multiprocessors on a chip design and the commercialization of this technology. He also received the Harry H. Goode Memorial Award. Olukotun received his Ph.D. in Computer Engineering from The University of Michigan.",
+      "email": null
+    },
+    {
+      "name": "John Ousterhout",
+      "profile_url": "https://www.cs.stanford.edu/people/john-ousterhout",
+      "short_title": "Leonard Bosack and Sandy K. Lerner Professor of Engineering and Professor of Computer Science, Emeritus",
+      "title": "Leonard Bosack and Sandy K. Lerner Professor of Engineering and Professor of Computer Science, Emeritus",
+      "bio": "John Ousterhout is Professor of Computer Science at Stanford University. His research addresses a wide range of topics related to infrastructure for building software systems, including distributed systems, operating systems, storage systems, development frameworks, and programming languages. His current research is in the area of granular computing: new software stack layers that allow the execution of large numbers of very small tasks (as short as a few microseconds) in a datacenter. His current projects are developing new techniques for thread management, network communication, and logging. Ousterhout's prior positions include 14 years in industry, where he founded two companies (Scriptics and Electric Cloud), preceded by 14 years as Professor of Computer Science at U.C. Berkeley.  He is the creator of the Tcl scripting language and is also well known for his work in distributed operating systems and file systems.  Ousterhout received a BS degree in Physics from Yale University and a PhD in Computer Science from Carnegie Mellon University. He is a member of the National Academy of Engineering and has received numerous awards, including the ACM Software System Award, the ACM Grace Murray Hopper Award, the National Science Foundation Presidential Young Investigator Award, and the U.C. Berkeley Distinguished Teaching Award.",
+      "email": null
+    },
+    {
+      "name": "Christopher Piech",
+      "profile_url": "https://www.cs.stanford.edu/people/chris-piech",
+      "short_title": "Associate Professor (Teaching) of Computer Science and, by courtesy, in the Graduate School of Education",
+      "title": "Associate Professor (Teaching) of Computer Science and, by courtesy, in the Graduate School of Education",
+      "bio": null,
+      "email": null
+    },
+    {
+      "name": "Balaji Prabhakar",
+      "profile_url": "https://www.cs.stanford.edu/people/balaji-prabhakar",
+      "short_title": "VMware Founders Professor of Computer Science, Professor of Electrical Engineering and, by courtesy, of Operations, Information and Technology at the Graduate School of Business",
+      "title": "VMware Founders Professor of Computer Science, Professor of Electrical Engineering and, by courtesy, of Operations, Information and Technology at the Graduate School of Business",
+      "bio": "Prabhakar's research focuses on the design, analysis, and implementation of data networks: both wireline and wireless. He has been interested in designing network algorithms, problems in ad hoc wireless networks, and designing incentive mechanisms. He has a long-standing interest in stochastic network theory, information theory, algorithms, and probability theory.",
+      "email": null
+    },
+    {
+      "name": "Priyanka Raina",
+      "profile_url": "https://www.cs.stanford.edu/people/priyanka-raina-0",
+      "short_title": "Assistant Professor of Electrical Engineering, by courtesy, of Computer Science",
+      "title": "Assistant Professor of Electrical Engineering, by courtesy, of Computer Science",
+      "bio": "Priyanka Raina is an Assistant Professor of Electrical Engineering at Stanford University. She received her BTech in Electrical Engineering from the IIT Delhi in 2011 and her SM and PhD in Electrical Engineering and Computer Science from MIT in 2013 and 2018. Priyanka’s research is on creating high-performance and energy-efficient architectures for domain-specific hardware accelerators in existing and emerging technologies and agile hardware-software co-design. Her research has won best paper awards at VLSI, ESSCIRC and MICRO conferences and in the JSSC journal. Priyanka teaches several VLSI design classes at Stanford. She has also won the Intel Rising Star Faculty Award, Hellman Faculty Scholar Award and is a Terman Faculty Fellow.",
+      "email": "praina@stanford.edu"
+    },
+    {
+      "name": "Christopher Re",
+      "profile_url": "https://www.cs.stanford.edu/people/chris-re",
+      "short_title": "Professor of Computer Science",
+      "title": "Professor of Computer Science",
+      "bio": "Christopher (Chris) Re is a professor in the Department of Computer Science at Stanford University. He is in the Stanford AI Lab and is affiliated with the Machine Learning Group and the Center for Research on Foundation Models.  His recent work is to understand how software and hardware systems will change because of machine learning along with a continuing, petulant drive to work on math problems. Research from his group has been incorporated into scientific efforts, finding extrasolar neutrinos or developing Evo, a DNA foundation model, and humanitarian efforts, such as the fight against human trafficking. His work is used in products from companies including Apple, Google, YouTube, and more. His friends let him tag along to found companies while they did the hard work of building them. He loves investing in technology companies and built a firm to do more of it. His family still brags that he received the MacArthur Foundation Fellowship, but his closest friends are confident that it was a mistake. His research contributions have spanned database theory, database systems, and machine learning, and his work has won best paper at a premier venue in each area, respectively, at PODS 2012, SIGMOD 2014, and ICML 2016. Due to great collaborators, he received the NeurIPS 2020 test-of-time award and the PODS 2022 test-of-time award. Due to great students, he received best paper at MIDL 2022, best paper runner up at ICLR22 and ICML22, and best student-paper runner up at UAI22.",
+      "email": null
+    },
+    {
+      "name": "Omer Reingold",
+      "profile_url": "https://www.cs.stanford.edu/people/omer-reingold",
+      "short_title": "Rajeev Motwani Professor of Computer Science",
+      "title": "Rajeev Motwani Professor of Computer Science",
+      "bio": null,
+      "email": null
+    },
+    {
+      "name": "Bruno Ribeiro",
+      "profile_url": "https://www.cs.stanford.edu/people/bruno-robeiro",
+      "short_title": "Visiting Associate Professor",
+      "title": "Visiting Associate Professor",
+      "bio": "Bruno Ribeiro is an Associate Professor in the Department of Computer Science at Purdue University and currently a Visiting Associate Professor at Stanford University. Before joining Purdue, he earned his Ph.D. from the University of Massachusetts Amherst and was a postdoctoral fellow at Carnegie Mellon University. Ribeiro has made significant contributions in the intersection between invariant theory, graph learning, and out-of-distribution robustness. Ribeiro received an NSF CAREER award in 2020, an Amazon Research Award in 2022, and multiple best paper awards.",
+      "email": null
+    },
+    {
+      "name": "Mendel Rosenblum",
+      "profile_url": "https://www.cs.stanford.edu/people/mendel-rosenblum",
+      "short_title": "Cheriton Family Professor and Professor of Electrical Engineering",
+      "title": "Cheriton Family Professor and Professor of Electrical Engineering",
+      "bio": "Rosenblum’s research interests include system software, distributed systems, and computer architecture. He has published research in the area of disk storage management, computer simulation techniques, scalable operating system  structure, virtualization computer security, and mobility. He is also a co-founder VMware Inc. As the Chief Scientist of VMware for the company’s first 10 years he helped design and build virtualization technology for commodity computing platforms.",
+      "email": null
+    },
+    {
+      "name": "Aviad Rubinstein",
+      "profile_url": "https://www.cs.stanford.edu/people/aviad-rubinstein",
+      "short_title": "Professor of Computer Science and, by courtesy, of Management Science and Engineering",
+      "title": "Professor of Computer Science and, by courtesy, of Management Science and Engineering",
+      "bio": null,
+      "email": null
+    },
+    {
+      "name": "Dorsa Sadigh",
+      "profile_url": "https://www.cs.stanford.edu/people/dorsa-sadigh",
+      "short_title": "Associate Professor of Computer Science, of Electrical Engineering and Senior Fellow at the Stanford Institute for Human-Centered AI",
+      "title": "Associate Professor of Computer Science, of Electrical Engineering and Senior Fellow at the Stanford Institute for Human-Centered AI",
+      "bio": null,
+      "email": null
+    },
+    {
+      "name": "Mehran Sahami",
+      "profile_url": "https://www.cs.stanford.edu/people/mehran-sahami",
+      "short_title": "Tencent Chair of the of the Computer Science Department, James and Ellenor Chesebrough Professor and Senior Fellow, by courtesy, at the Freeman Spogli Institute for International Studies",
+      "title": "Tencent Chair of the of the Computer Science Department, James and Ellenor Chesebrough Professor and Senior Fellow, by courtesy, at the Freeman Spogli Institute for International Studies",
+      "bio": "Mehran Sahami is Tencent Chair of the Computer Science Department and the James and Ellenor Chesebrough Professor in the School of Engineering.  As a Professor (Teaching) in the Computer Science department, he is also a Bass Fellow in Undergraduate Education and previously served as the Associate Chair for Education in Computer Science.  Prior to joining the Stanford faculty, he was a Senior Research Scientist at Google.  His research interests include computer science education, artificial intelligence, and ethics.  He served as co-chair of the ACM/IEEE-CS joint task force on Computer Science Curricula 2013, which created curricular guidelines for college programs in Computer Science at an international level.  He has also served as chair of the ACM Education Board, an elected member of the ACM Council, and was appointed by California Governor Jerry Brown to the state's Computer Science Strategic Implementation Plan Advisory Panel.",
+      "email": null
+    },
+    {
+      "name": "Tselil Schramm",
+      "profile_url": "https://www.cs.stanford.edu/people/tselil-schramm",
+      "short_title": "Assistant professor of statistics and, by courtesy, of computer science",
+      "title": "Assistant professor of statistics and, by courtesy, of computer science",
+      "bio": null,
+      "email": null
+    },
+    {
+      "name": "Aaron Sidford",
+      "profile_url": "https://www.cs.stanford.edu/people/aaron-sidford",
+      "short_title": "Associate Professor of Management Science and Engineering and of Computer Science",
+      "title": "Associate Professor of Management Science and Engineering and of Computer Science",
+      "bio": null,
+      "email": null
+    },
+    {
+      "name": "Micah Steven Siegel",
+      "profile_url": "https://www.cs.stanford.edu/people/micah-steven-siegel",
+      "short_title": "Visiting Professor",
+      "title": "Visiting Professor",
+      "bio": "Micah joined the Stanford faculty as a Consulting Professor in 2006 and returned to investing full-time in 2014. His engineering research focused primarily on finding commercial applications of new software and hardware technologies, such as scientific instrumentation, molecular biology tools and AI systems. From 2006 to 2013 he also taught the graduate-level course Business for Engineers (EE204) . The EE204 course was directed to Engineering, Life Science, and Computer Science students at Stanford and covered the basic principles of business, from the engineer's perspective. Topics of EE204 included new product development, marketing, intellectual property, accounting and finance, with a focus on building profitable and well-funded technology companies based on high-profile academic research. Micah's students at Stanford have gone on to start a number of successful Silicon Valley companies such as Gusto , Notion , Visby Medical , Pulse ( acquired by LinkedIn for $90 million in 2013) and Katango ( acquired by Google in 2011). Micah was the first investor in companies that have been acquired for more than $2 billion in cash. Micah is an active investor in new technology companies formed by students, faculty, and former students at the earliest stage (often before there is a company) through his private venture capital fund, C2C Ventures , where he is the sole Managing Director. He helps founders discover attractive markets for new technologies and secure rich customers who will move fast and pay a premium for a unique solution. A market on the path to a $1B potential allows for error and time for real margins to develop. His passion is helping missionary entrepreneurs, professors and students commercialize the “Next Big Thing” in computational biology, enterprise software, scientific instruments and other technology platforms that generate complex intellectual property. A small number of companies are formed every year with foundational technologies that will change the world. Frequently these technologies were developed at universities by academic founders with limited business experience. Micah aspires to identify those companies and partner with their founders at the earliest stage to become their trusted source of capital and advice. Micah was an early VC investor in Stack Overflow (started in 2010, acquired in 2021 by Prosus for $1.8 billion in cash), Cellular Research (started at Stanford in 2013, acquired in 2015 by Becton Dickinson for $120 million in cash), Sentry (started at Disqus in 2013), BioImagene (started at UCLA in 2003, acquired in 2010 by Roche for $100 million in cash), Judicata (started at Stanford in 2012, acquired in 2020 by FastCase), Hadapt (started at Yale in 2011, acquired in 2014 by Teradata), and C2C Patents (started at Stanford in 2014). Earlier he was an investor in Affinity Engines (started at Stanford in 2002, litigation resulted in a license and settlement with Google in 2006), and Adapt Technologies (started at Caltech in 2004, acquired in 2008 by Webvisible, now a subsidiary of Vivial ). These companies have raised more than $70 million in seed-stage venture capital and $525 million in follow-on capital from Accel Partners, Andreessen Horowitz, Bezos Expeditions, Founders Fund, Index Ventures, Khosla Ventures, New Enterprise Associates, Union Square Ventures, and other leading venture capital firms. He began his career in 1993 working directly for Carver Mead to design early artificial intelligence (AI) systems in VLSI. In 1999, he and Craig Johnson , a well-known Silicon Valley lawyer, formed C2C Ventures. Micah is a techie and the co-inventor of several U.S. patents related to genetic engineering and software systems, and was recognized in 2009, 2010, 2011 and 2012 by Intellectual Asset Management Magazine as one of the world's 250 \"Leading IP Experts\" (\"IAM 250\"), and in 2003 by MIT Technology Review magazine, as \"one of the top 100 innovators of the world\" (\" TR100 List \"). He was born the eldest of six children and raised in Okemos, Michigan. He graduated with a B.S. from Yale University (Phi Beta Kappa, magna cum laude ) and received a Ph.D. in Computation and Neural Systems from the California Institute of Technology. He can be reached at msiegel@c2cventures.com and on twitter",
+      "email": "msiegel@c2cventures.com"
+    },
+    {
+      "name": "Shuran Song",
+      "profile_url": "https://www.cs.stanford.edu/people/shuran-song",
+      "short_title": "Assistant professor of electrical engineering and, by courtesy, of computer science",
+      "title": "Assistant professor of electrical engineering and, by courtesy, of computer science",
+      "bio": "Shuran Song is an Assistant Professor of Electrical Engineering at Stanford University. Before joining Stanford, she was faculty at Columbia University. Shuran received her Ph.D. in Computer Science at Princeton University, BEng. at HKUST. Her research interests lie at the intersection of computer vision and robotics. Song’s research has been recognized through several awards, including the Best Paper Awards at RSS’22 and T-RO’20, Best System Paper Awards at CoRL’21, RSS’19, and finalists at RSS, ICRA, CVPR, and IROS. She is also a recipient of the NSF Career Award, Sloan Foundation fellowship as well as research awards from Microsoft, Toyota Research, Google, Amazon, and JP Morgan.",
+      "email": null
+    },
+    {
+      "name": "Hariharan Subramonyam",
+      "profile_url": "https://www.cs.stanford.edu/people/hariharan-subramonyam",
+      "short_title": "Assistant professor (research) of education and, by courtesy, of computer science",
+      "title": "Assistant professor (research) of education and, by courtesy, of computer science",
+      "bio": "Hari Subramonyam is an Assistant Professor (Research) at the Graduate School of Education and a Faculty Fellow at Stanford's Institute for Human-Centered AI. He is also a member of the HCI Group at Stanford. His research focuses on augmenting critical human tasks (such as learning, creativity, and sensemaking) with AI by incorporating principles from cognitive psychology. He also investigates support tools for multidisciplinary teams to co-design AI experiences. His work has received multiple best paper awards at top human-computer interaction conferences, including CHI and IUI.",
+      "email": null
+    },
+    {
+      "name": "Vasilis Syrgkanis",
+      "profile_url": "https://www.cs.stanford.edu/people/vasilis-syrgkanis",
+      "short_title": "Assistant professor of management science and engineering and, by courtesy, of computer science and electrical engineering",
+      "title": "Assistant professor of management science and engineering and, by courtesy, of computer science and electrical engineering",
+      "bio": null,
+      "email": null
+    },
+    {
+      "name": "Li-Yang Tan",
+      "profile_url": "https://www.cs.stanford.edu/people/li-yang-tan",
+      "short_title": "Associate Professor of Computer Science",
+      "title": "Associate Professor of Computer Science",
+      "bio": null,
+      "email": null
+    },
+    {
+      "name": "Caroline Trippel",
+      "profile_url": "https://www.cs.stanford.edu/people/caroline-trippel",
+      "short_title": "Assistant Professor of Computer Science and of Electrical Engineering",
+      "title": "Assistant Professor of Computer Science and of Electrical Engineering",
+      "bio": "Caroline Trippel is an Assistant Professor in the Computer Science and Electrical Engineering Departments at Stanford University, where she leads the High Assurance Computer Architectures Lab. Following her PhD, prior to starting at Stanford, Trippel spent nine months as a Research Scientist at Facebook in the FAIR SysML group. Trippel's research fits broadly in the area of computer architecture and focuses on promoting high assurance—correctness, security, and reliability—as a first-order computer architecture design goal. A central theme of her work is leveraging formal methods, especially automated reasoning, techniques to design and verify hardware systems. Trippel research has influenced the design of the RISC-V ISA memory consistency model both via her formal analysis of its draft specification and her subsequent participation in the RISC-V Memory Model Task Group; prompted Intel to update their Software Security Guidance to confirm that two Intel microarchitectures satisfy assumptions made by the Seberus Spectre defense that her lab developed; and produced a novel methodology and tool that synthesized two new variants of the famous Meltdown and Spectre attacks. Trippel's research has been recognized with IEEE Top Picks distinctions, a Sloan Research Fellowship, an NSF CAREER Award, the inaugural Google ML and Systems Junior Faculty Award, the Intel Rising Star Faculty Award, an Intel Outstanding Researcher Award, the 2020 ACM SIGARCH/IEEE CS TCCA Outstanding Dissertation Award, the 2020 CGS/ProQuest® Distinguished Dissertation Award in Mathematics, Physical Sciences, & Engineering, and more.",
+      "email": null
+    },
+    {
+      "name": "Gregory Valiant",
+      "profile_url": "https://www.cs.stanford.edu/people/gregory-valiant",
+      "short_title": "Associate Professor of Computer Science",
+      "title": "Associate Professor of Computer Science",
+      "bio": null,
+      "email": null
+    },
+    {
+      "name": "Ellen Vitercik",
+      "profile_url": "https://www.cs.stanford.edu/people/ellen-vitercik",
+      "short_title": "Assistant Professor of Management Sciences and Engineering and of Computer Science",
+      "title": "Assistant Professor of Management Sciences and Engineering and of Computer Science",
+      "bio": null,
+      "email": null
+    },
+    {
+      "name": "Jennifer Widom",
+      "profile_url": "https://www.cs.stanford.edu/people/jennifer-widom-0",
+      "short_title": "Frederick Emmons Terman Dean of the School of Engineering Fletcher Jones Professor in Computer Science and Electrical Engineering",
+      "title": "Frederick Emmons Terman Dean of the School of Engineering, Fletcher Jones Professor in Computer Science and Electrical Engineering",
+      "bio": "Jennifer Widom is the Frederick Emmons Terman Dean of the School of Engineering and the Fletcher Jones Professor in Computer Science and Electrical Engineering at Stanford University. She served as Computer Science Department Chair from 2009-2014 and School of Engineering Senior Associate Dean from 2014-2016. Jennifer received her Bachelor's degree from the Indiana University Jacobs School of Music in 1982 and her Computer Science Ph.D. from Cornell University in 1987. She was a Research Staff Member at the IBM Almaden Research Center before joining the Stanford faculty in 1993. Her research interests span many aspects of nontraditional data management. She is an ACM Fellow and a member of the National Academy of Engineering and the American Academy of Arts & Sciences; she received a Guggenheim Fellowship in 2000, the ACM SIGMOD Edgar F. Codd Innovations Award in 2007, the ACM-W Athena Lecturer Award in 2015, and the EPFL-WISH Foundation Erna Hamburger Prize in 2018.",
+      "email": null
+    },
+    {
+      "name": "Keith Winstein",
+      "profile_url": "https://www.cs.stanford.edu/people/keith-winstein",
+      "short_title": "Associate Professor of Computer Science and, by courtesy, of Electrical Engineering",
+      "title": "Associate Professor of Computer Science and, by courtesy, of Electrical Engineering",
+      "bio": "Keith Winstein is an associate professor of computer science and, by courtesy, of electrical engineering at Stanford University. His research group creates new kinds of networked systems by rethinking abstractions around communication, compression, and computing. Some of his group’s research has found broader use, including the Mosh tool, the Puffer video-streaming site, the Lepton compression tool, the Mahimahi network emulators, and the gg lambda-computing framework. He has received the SIGCOMM Rising Star Award, the Sloan Research Fellowship, the NSF CAREER Award, the Usenix NSDI Community Award (2020, 2017), the Usenix ATC Best Paper Award, the Applied Networking Research Prize, the SIGCOMM Doctoral Dissertation Award, and a Sprowls award for best doctoral thesis in computer science at MIT. Winstein previously served as a staff reporter at The Wall Street Journal and worked at Ksplice, a startup company (now part of Oracle) where he was the vice president of product management and business development and also cleaned the bathroom. He did his undergraduate and graduate work at MIT.",
+      "email": null
+    },
+    {
+      "name": "Mary Wootters",
+      "profile_url": "https://www.cs.stanford.edu/people/mary-wootters",
+      "short_title": "Associate Professor of Computer Science and of Electrical Engineering",
+      "title": "Associate Professor of Computer Science and of Electrical Engineering",
+      "bio": null,
+      "email": null
+    },
+    {
+      "name": "Jiajun Wu",
+      "profile_url": "https://www.cs.stanford.edu/people/jiajun-wu",
+      "short_title": "Assistant Professor of Computer Science and, by courtesy, of Psychology",
+      "title": "Assistant Professor of Computer Science and, by courtesy, of Psychology",
+      "bio": "Jiajun Wu is an Assistant Professor of Computer Science and, by courtesy, of Psychology at Stanford University, working on computer vision, machine learning, robotics, and computational cognitive science. Before joining Stanford, he was a Visiting Faculty Researcher at Google Research. He received his PhD in Electrical Engineering and Computer Science from the Massachusetts Institute of Technology. Wu's research has been recognized through the IJCAI Computers and Thought Award, the Young Investigator Programs (YIP) by ONR and by AFOSR, the NSF CAREER award, the Okawa research grant, the AI's 10 to Watch by IEEE Intelligent Systems, paper awards and finalists at ICCV, CVPR, SIGGRAPH Asia, ICRA, CoRL, and IROS, dissertation awards from ACM, AAAI, and MIT, the 2020 Samsung AI Researcher of the Year, and faculty research awards from Microsoft, Google, Nvidia, J.P. Morgan, Samsung, Amazon, and Meta.",
+      "email": null
+    },
+    {
+      "name": "Daniel Yamins",
+      "profile_url": "https://www.cs.stanford.edu/people/dan-yamins",
+      "short_title": "Associate Professor of Psychology and of Computer Science",
+      "title": "Associate Professor of Psychology and of Computer Science",
+      "bio": null,
+      "email": null
+    },
+    {
+      "name": "Diyi Yang",
+      "profile_url": "https://www.cs.stanford.edu/people/diyi-yang",
+      "short_title": "Assistant Professor of Computer Science",
+      "title": "Assistant Professor of Computer Science",
+      "bio": "Diyi Yang is an Assistant Professor in Computer Science at Stanford University.  Professor Yang's research interests are Computational Social Science and Natural Language Processing. Her research goal is to understand the social aspects of language and then build socially aware NLP systems to better support human-human and human-computer interaction. Professor Yang received her PhD from the School of Computer Science, Carnegie Mellon University, and her bachelor's degree from Shanghai Jiao Tong University, China. Her work has received multiple best paper nominations or awards at ICWSM, EMNLP, SIGCHI, ACL, and CSCW.   She is a recipient of Forbes 30 under 30 in Science,  IEEE “AI 10 to Watch”, the Intel Rising Star Faculty Award,  Microsoft Research Faculty Fellowship, and NSF CAREER Award.",
+      "email": null
+    },
+    {
+      "name": "Mark Zhandry",
+      "profile_url": "https://www.cs.stanford.edu/people/mark-zhandry",
+      "short_title": "Associate Professor of Computer Science",
+      "title": "Associate Professor of Computer Science",
+      "bio": null,
+      "email": "mzhandry@stanford.edu"
+    },
+    {
+      "name": "James Zou",
+      "profile_url": "https://www.cs.stanford.edu/people/james-zou-0",
+      "short_title": "Associate Professor of Biomedical Data Science, by courtesy, of Computer Science",
+      "title": "Associate Professor of Biomedical Data Science, by courtesy, of Computer Science",
+      "bio": "I am an Assistant Professor of Biomedical Data Science and, by courtesy, of Computer Science and Electrical Engineering at Stanford University. I work on making machine learning more reliable, human-compatible and statistically rigorous, and am especially interested in applications in human disease and health. I received my Ph.D from Harvard in 2014, and was at one time a member of Microsoft Research, a Gates Scholar at Cambridge and a Simons fellow at U.C. Berkeley. I joined Stanford in 2016 and am excited to also be a Chan-Zuckerberg Investigator. We are also a part of the Stanford AI Lab. My research is supported by the Sloan Fellowship, the NSF CAREER Award, and the Google and Tencent AI awards.",
+      "email": "jamesz@stanford.edu"
+    }
+  ]
+}

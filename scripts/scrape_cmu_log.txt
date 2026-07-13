@@ -1,0 +1,155 @@
+Fetching listing page 0: https://www.csd.cs.cmu.edu/people/faculty?page=0
+Fetching listing page 1: https://www.csd.cs.cmu.edu/people/faculty?page=1
+Fetching listing page 2: https://www.csd.cs.cmu.edu/people/faculty?page=2
+Fetching listing page 3: https://www.csd.cs.cmu.edu/people/faculty?page=3
+Fetching listing page 4: https://www.csd.cs.cmu.edu/people/faculty?page=4
+Fetching listing page 5: https://www.csd.cs.cmu.edu/people/faculty?page=5
+Fetching listing page 6: https://www.csd.cs.cmu.edu/people/faculty?page=6
+Found 133 faculty entries
+[1/133] Umut Acar
+[2/133] Anil Ada
+[3/133] Leman Akoglu
+[4/133] Jonathan Aldrich
+[5/133] George Amvrosiadis
+[6/133] David Andersen
+[7/133] Daniel Anderson
+[8/133] Maria Balcan
+[9/133] Stephanie Balzer
+[10/133] Nathan Beckmann
+[11/133] Daniel Berger
+[12/133] Guy Blelloch
+  WARNING: failed to fetch profile (('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')))
+[13/133] Manuel Blum
+[14/133] Christopher Bogart
+[15/133] Stephen Brookes
+[16/133] David Brumley
+[17/133] Randal Bryant
+[18/133] Jacobo Carrasquel
+[19/133] Iliano Cervesato
+[20/133] Beidi Chen
+[21/133] Tianqi Chen
+[22/133] Panos Chrysanthis
+[23/133] Vincent Conitzer
+  WARNING: failed to fetch profile (HTTPSConnectionPool(host='www.csd.cs.cmu.edu', port=443): Read timed out. (read timeout=20))
+[24/133] Thomas Cortina
+  WARNING: failed to fetch profile (HTTPSConnectionPool(host='www.csd.cs.cmu.edu', port=443): Read timed out. (read timeout=20))
+[25/133] Keenan Crane
+[26/133] Karl Crary
+[27/133] Roger Dannenberg
+[28/133] Tim Dettmers
+[29/133] Henry DeYoung
+[30/133] Gianni Di Caro
+[31/133] Chris Donahue
+[32/133] Dave Eckhardt
+[33/133] Christos Faloutsos
+[34/133] Giulia Fanti
+  WARNING: failed to fetch profile (HTTPSConnectionPool(host='www.csd.cs.cmu.edu', port=443): Read timed out. (read timeout=20))
+[35/133] Matt Fredrikson
+[36/133] Alan Frieze
+[37/133] Gregory Ganger
+[38/133] David Garlan
+[39/133] Charlie Garrod
+  WARNING: failed to fetch profile (HTTPSConnectionPool(host='www.csd.cs.cmu.edu', port=443): Read timed out. (read timeout=20))
+[40/133] Phillip Gibbons
+[41/133] Garth Gibson
+[42/133] Virgil Gligor
+[43/133] Seth Goldstein
+[44/133] Vipul Goyal
+[45/133] Meredith Grelli
+[46/133] Anupam Gupta
+[47/133] Venkatesan Guruswami
+[48/133] Mohammad Hammoud
+[49/133] Mor Harchol-Balter
+  WARNING: failed to fetch profile (HTTPSConnectionPool(host='www.csd.cs.cmu.edu', port=443): Read timed out. (read timeout=20))
+[50/133] Robert Harper
+[51/133] Khaled Harras
+[52/133] Marijn Heule
+[53/133] Jessica Hodgins
+[54/133] Jan Hoffmann
+[55/133] Farnam Jahanian
+[56/133] Aayush Jain
+[57/133] Limin Jia
+  WARNING: failed to fetch profile (HTTPSConnectionPool(host='www.csd.cs.cmu.edu', port=443): Read timed out. (read timeout=20))
+[58/133] Zhihao Jia
+[59/133] Michael Kaminsky
+[60/133] Takeo Kanade
+[61/133] Christos Kapoutsis
+[62/133] Zeliha Dilsun Kaynar
+[63/133] Fatma Kilinc-Karzan
+[64/133] Anne Kohlbrenner
+[65/133] Zico Kolter
+[66/133] David Kosbie
+[67/133] Pravesh Kothari
+[68/133] Aviral Kumar
+[69/133] Swarun Kumar
+[70/133] William Kuszmaul
+[71/133] Alexandros Labrinidis
+[72/133] Tai-Sing Lee
+[73/133] Golan Levin
+[74/133] Jason Li
+[75/133] Minchen Li
+[76/133] Yang Liu
+[77/133] Brandon Lucia
+[78/133] John Mackey
+[79/133] Ruben Martins
+[80/133] Gary Miller
+[81/133] Tom Mitchell
+[82/133] Stefan Mitsch
+  WARNING: failed to fetch profile (HTTPSConnectionPool(host='www.csd.cs.cmu.edu', port=443): Read timed out. (read timeout=20))
+[83/133] Todd Mowry
+[84/133] Ryan O'Donnell
+[85/133] David O'Hallaron
+[86/133] Matthew O'Toole
+[87/133] Bryan Parno
+[88/133] Jignesh Patel
+[89/133] Richard Pattis
+[90/133] Andrew Pavlo
+  WARNING: failed to fetch profile (HTTPSConnectionPool(host='www.csd.cs.cmu.edu', port=443): Read timed out.)
+[91/133] Richard Peng
+[92/133] Frank Pfenning
+  WARNING: failed to fetch profile (HTTPSConnectionPool(host='www.csd.cs.cmu.edu', port=443): Read timed out. (read timeout=20))
+[93/133] Babu Pillai
+[94/133] Nancy Pollard
+[95/133] Aditi Raghunathan
+  WARNING: failed to fetch profile (HTTPSConnectionPool(host='www.csd.cs.cmu.edu', port=443): Read timed out. (read timeout=20))
+[96/133] Brian Railing
+[97/133] R. Ravi
+[98/133] Raj Reddy
+[99/133] Giselle Reis
+[100/133] Ryan Riley
+[101/133] Kelly Rivers
+[102/133] Feras Saad
+[103/133] Majd Sakr
+  WARNING: failed to fetch profile (('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')))
+[104/133] Tuomas Sandholm
+[105/133] Mahadev Satyanarayanan
+[106/133] Jaromir Savelka
+[107/133] Russell Schwartz
+[108/133] Dana Scott
+[109/133] Vyas Sekar
+[110/133] Srinivasan Seshan
+[111/133] Nihar Shah
+[112/133] Mary Shaw
+[113/133] Justine Sherry
+[114/133] Reid Simmons
+[115/133] Dimitrios Skarlatos
+[116/133] Danny Sleator
+[117/133] Akshitha Sriraman
+[118/133] Peter Steenkiste
+[119/133] Mark Stehlik
+  WARNING: failed to fetch profile (HTTPSConnectionPool(host='www.csd.cs.cmu.edu', port=443): Read timed out. (read timeout=20))
+[120/133] Klaus Sutner
+[121/133] Michael Taylor
+[122/133] David Touretzky
+[123/133] Rashmi Korlakai Vinayak
+[124/133] Patrick Virtue
+[125/133] Riad Wahby
+[126/133] Weina Wang
+[127/133] Jeannette Wing
+[128/133] David Woodruff
+[129/133] Franceska Xhakaj
+[130/133] Eric Xing
+[131/133] Hui Zhang
+[132/133] Wenting Zheng
+[133/133] Jun-Yan Zhu
+Wrote 133 faculty records to data/cmu_cs_faculty.json
